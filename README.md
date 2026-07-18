@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Images/banner.png" alt="Smartphone Market Analysis Banner" width="100%">
+</p>
+
 # 📱 Smartphone Market Analysis Dashboard
 
 <div align="center">
