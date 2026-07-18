@@ -179,18 +179,19 @@ Includes:
 
 ## 📱 Market Overview
 
-> *(Insert Screenshot Here)*
+<img width="1322" height="745" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/829e24cd-7ac6-48bd-9b27-e3e3c9d8c42a" />
+
 
 ```
-<img width="1322" height="745" alt="Dashboard_Overview" src="https://github.com/user-attachments/assets/e9bc8b39-d73b-4f9e-9999-fb276bc70b09" />
-
+images/dashboard_overview.png
 ```
 
 ---
 
 ## 💰 Price Analysis
 
-> *(Insert Screenshot Here)*
+<img width="1322" height="743" alt="Dashboard_price_analysis" src="https://github.com/user-attachments/assets/69fede60-5c60-41d2-b171-a1e38cb0b1e6" />
+
 
 ```
 images/dashboard_price_analysis.png
@@ -200,7 +201,8 @@ images/dashboard_price_analysis.png
 
 ## 📈 Business Insights
 
-> *(Insert Screenshot Here)*
+<img width="1325" height="731" alt="Dashboard_business_insights" src="https://github.com/user-attachments/assets/1f12bfe3-439f-4d6c-9664-93e689f77a54" />
+
 
 ```
 images/dashboard_business_insights.png
