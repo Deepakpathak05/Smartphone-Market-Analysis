@@ -13,6 +13,23 @@
 
 ---
 
+## ✨ Project Highlights
+
+✔️ Scraped **986 smartphones** from the Smartprix website using Selenium and BeautifulSoup.
+
+✔️ Cleaned and transformed raw data into an analysis-ready dataset using Python and Pandas.
+
+✔️ Performed extensive Exploratory Data Analysis (EDA) to identify smartphone market trends, pricing strategies, and brand performance.
+
+✔️ Developed an interactive **3-page Power BI dashboard** featuring KPIs, slicers, navigation buttons, drill-through capabilities, and business insights.
+
+✔️ Applied DAX measures and Power BI best practices to create a modern, business-oriented dashboard.
+
+✔️ Demonstrated the complete data analytics lifecycle:
+**Web Scraping → Data Cleaning → EDA → Dashboard Development → Business Insights.**
+
+---
+
 # 📖 Project Overview
 
 This project demonstrates an **end-to-end Data Analytics workflow** by collecting smartphone data directly from the **Smartprix** website using **Selenium** and **BeautifulSoup**, followed by data cleaning, exploratory data analysis (EDA), and the development of an interactive **Power BI Dashboard**.
