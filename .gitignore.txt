@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
