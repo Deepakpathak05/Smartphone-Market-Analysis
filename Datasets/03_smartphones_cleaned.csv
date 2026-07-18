@@ -1,0 +1,987 @@
+brand_name,model_name,price,rating,has_5g,has_nfc,has_ir_blaster,processor_name,processor_brand,num_cores,processor_speed,ram_capacity,internal_memory,battery_capacity,fast_charging,screen_size,resolution,refresh_rate,num_rear_cameras,num_front_camera,primary_rear_camera,primary_front_camera,extended_memory,os,price_segment
+samsung,Samsung Galaxy M47 5G,25999,66,TRUE,FALSE,FALSE,Snapdragon 6 Gen3,snapdragon,Octa Core,2.4,6,128,6000,45W,6.7,1080 x 2340 ,120,3,1,50,12,1 TB,android,Mid-Range
+oneplus,OnePlus N6,22999,59,TRUE,TRUE,FALSE,Dimensity 6360 Apex,dimensity,Octa Core,,4,128,8000,45W,6.8,720 x 1570 ,120,2,1,50,8,2 TB,android,Mid-Range
+nothing,Nothing Phone 4(b),25999,59,TRUE,FALSE,FALSE,Snapdragon 6 Gen4,snapdragon,Octa Core,,8,128,5400,33W,6.7,1224 x 2340 ,120,2,1,50,8,0,android,Mid-Range
+oppo,OPPO Reno 16 5G,61999,79,TRUE,FALSE,TRUE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,8,256,6700,80W,6.32,1216 x 2640 ,120,3,1,50,50,0,android,Flagship
+vivo,Vivo T5x 5G,22499,66,TRUE,FALSE,TRUE,Dimensity 7400 Turbo,dimensity,Octa Core,2.6,6,128,7200,44W,6.76,1080 x 2344 ,120,2,1,50,32,0,android,Mid-Range
+tecno,Tecno Camon 40 Pro 5G,25990,67,TRUE,TRUE,TRUE,Dimensity 7300,dimensity,Octa Core,2.5,8,256,5200,45W,6.78,1080 x 2436 ,144,2,1,50,50,0,android,Mid-Range
+motorola,Motorola Edge 70 Fusion,26279,70,TRUE,TRUE,FALSE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,8,128,7000,68W,6.78,1272 x 2772 ,144,3,1,50,32,0,android,Mid-Range
+samsung,Samsung Galaxy S25 Ultra,92999,92,TRUE,TRUE,FALSE,Snapdragon 8 Elite for Galaxy,snapdragon,Octa Core,4.47,12,256,5000,45W,6.9,1440 x 3120 ,120,4,1,200,12,0,android,Flagship
+oneplus,OnePlus N6 5G (6GB RAM + 128GB),24999,61,TRUE,TRUE,FALSE,Dimensity 6360 Apex,dimensity,Octa Core,,6,128,8000,45W,6.8,720 x 1570 ,120,2,1,50,8,2 TB,android,Mid-Range
+oneplus,OnePlus Nord CE 6 5G,33999,74,TRUE,FALSE,TRUE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,8,128,8000,80W,6.78,1272 x 2772 ,144,2,1,50,32,0,android,Premium
+motorola,Motorola Moto G85 5G (12GB RAM + 256GB),19999,63,TRUE,FALSE,FALSE,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,12,256,5000,33W,6.67,1080 x 2400 ,120,2,1,50,32,1 TB,android,Mid-Range
+nothing,Nothing Phone 3a,24999,67,TRUE,TRUE,FALSE,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,8,128,5000,50W,6.77,1080 x 2392 ,120,3,1,50,32,0,android,Mid-Range
+realme,Realme GT 7T,31400,76,TRUE,TRUE,TRUE,Dimensity 8400-MAX,dimensity,Octa Core,3.25,8,256,7000,120W,6.8,1280 x 2800 ,120,2,1,50,32,0,android,Premium
+apple,Apple iPhone 17,82900,76,TRUE,TRUE,FALSE,Apple A19,apple,Hexa Core,,8,256,3692,0,6.3,1206 x 2622 ,120,2,1,48,18,0,ios,Flagship
+realme,Realme P4R 5G,18999,57,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,8000,45W,6.81,720 x 1570 ,144,1,1,50,8,0,android,Mid-Range
+samsung,Samsung Galaxy A27 5G,28999,59,TRUE,TRUE,FALSE,Snapdragon 6 Gen3,snapdragon,Octa Core,2.4,6,128,5000,25W,6.7,1080 x 2340 ,120,3,1,50,12,2 TB,android,Mid-Range
+motorola,Motorola Edge 60 Pro,29490,76,TRUE,TRUE,FALSE,Dimensity 8350 Extreme,dimensity,Octa Core,3.35,8,256,6000,90W,6.7,1220 x 2712 ,120,3,1,50,50,0,android,Mid-Range
+poco,Poco X7 Pro 5G,23999,70,TRUE,TRUE,TRUE,Dimensity 8400 Ultra,dimensity,Octa Core,3.25,8,256,6550,90W,6.67,1220 x 2712 ,120,2,1,50,20,0,android,Mid-Range
+vivo,Vivo V70 FE,41999,77,TRUE,TRUE,TRUE,Dimensity 7360 Turbo,dimensity,Octa Core,2.5,8,128,7000,90W,6.83,1260 x 2800 ,120,2,1,200,50,0,android,Premium
+oneplus,OnePlus Nord 5 5G,33999,75,TRUE,TRUE,TRUE,Snapdragon 8s Gen3,snapdragon,Octa Core,3,8,256,6800,80W,6.83,1272 x 2800 ,144,2,1,50,50,0,android,Premium
+realme,Realme P1 5G,13999,58,TRUE,FALSE,FALSE,Dimensity 7050,dimensity,Octa Core,2.6,6,128,5000,45W,6.67,1080 x 2400 ,120,2,1,50,16,2 TB,android,Budget
+samsung,Samsung Galaxy M56 5G,23499,58,TRUE,FALSE,FALSE,Exynos 1480,exynos,Octa Core,2.7,8,128,5000,45W,6.74,1080 x 2340 ,120,3,1,50,12,0,android,Mid-Range
+oneplus,OnePlus Nord 6,42999,85,TRUE,TRUE,TRUE,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,8,256,9000,80W,6.78,1272 x 2772 ,165,2,1,50,32,0,android,Premium
+vivo,Vivo T4x 5G (8GB RAM + 128GB),18999,57,TRUE,FALSE,TRUE,Dimensity 7300,dimensity,Octa Core,2.5,8,128,6500,44W,6.72,1080 x 2408 ,120,2,1,50,8,0,android,Mid-Range
+realme,Realme 15 Pro 5G (8GB RAM + 256GB),27999,74,TRUE,FALSE,FALSE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,8,256,7000,80W,6.8,1280 x 2800 ,144,2,1,50,50,0,android,Mid-Range
+xiaomi,Xiaomi Redmi Turbo 5,37999,77,TRUE,TRUE,TRUE,Dimensity 8500 Ultra,dimensity,Octa Core,3.4,8,256,7540,100W,6.59,1268 x 2756 ,120,2,1,50,20,0,android,Premium
+oppo,OPPO Reno 16 Pro 5G,70990,81,TRUE,TRUE,TRUE,Dimensity 8550 Super,dimensity,Octa Core,3.4,12,256,6700,80W,6.32,1216 x 2640 ,120,3,1,200,50,0,android,Flagship
+realme,Realme GT 7T (12GB RAM + 512GB),36499,79,TRUE,TRUE,TRUE,Dimensity 8400-MAX,dimensity,Octa Core,3.25,12,512,7000,120W,6.8,1280 x 2800 ,120,2,1,50,32,0,android,Premium
+iqoo,iQOO Z11 Turbo,31990,83,TRUE,TRUE,TRUE,Snapdragon 8 Gen5,snapdragon,Octa Core,3.8,12,256,7600,100W,6.59,1260 x 2750 ,144,2,1,200,32,0,android,Premium
+samsung,Samsung Galaxy S25 FE,45190,77,TRUE,TRUE,FALSE,Exynos 2400,exynos,Deca Core,3.2,8,128,4900,45W,6.7,1080 x 2340 ,120,3,1,50,12,0,android,Premium
+vivo,Vivo Y37c,7999,45,TRUE,FALSE,FALSE,Unisoc T7225,unisoc,Octa Core,,6,128,5500,15W,6.56,720 x 1612 ,90,2,1,13,5,1 TB,android,Budget
+realme,Realme P4 Power 5G,26999,72,TRUE,FALSE,TRUE,Dimensity 7400 Ultra,dimensity,Octa Core,2.6,8,128,10001,80W,6.8,1280 x 2800 ,144,2,1,50,16,0,android,Mid-Range
+vivo,Vivo X300 FE,86999,92,TRUE,TRUE,TRUE,Snapdragon 8 Gen5,snapdragon,Octa Core,3.8,12,256,6500,90W,6.31,1216 x 2640 ,120,3,1,50,50,0,android,Flagship
+samsung,Samsung Galaxy F36 5G,16989,62,TRUE,TRUE,FALSE,Exynos 1380,exynos,Octa Core,2.4,6,128,5000,25W,6.7,1080 x 2340 ,120,3,1,50,13,2 TB,android,Mid-Range
+samsung,Samsung Galaxy S25 5G,62999,79,TRUE,TRUE,FALSE,Snapdragon 8Elite,snapdragon,Octa Core,4.47,12,256,4000,25W,6.2,1080 x 2340 ,120,3,1,50,12,0,android,Flagship
+xiaomi,Xiaomi Redmi 13 5G,12499,58,TRUE,FALSE,TRUE,Snapdragon 4 Gen 2 AE,snapdragon,Octa Core,2.3,6,128,5030,33W,6.79,1080 x 2460 ,120,2,1,108,13,1 TB,android,Budget
+oneplus,OnePlus Nord CE 6 Lite,25999,63,TRUE,FALSE,TRUE,Dimensity 7400 Apex,dimensity,Octa Core,2.6,6,128,7000,45W,6.72,1080 x 2400 ,144,2,1,50,8,2 TB,android,Mid-Range
+nothing,Nothing Phone 3 5G,41999,83,TRUE,TRUE,FALSE,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,12,256,5500,65W,6.67,1260 x 2800 ,120,3,1,50,50,0,android,Premium
+motorola,Motorola Moto G85 5G,17840,61,TRUE,FALSE,FALSE,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,8,128,5000,33W,6.67,1080 x 2400 ,120,2,1,50,32,1 TB,android,Mid-Range
+vivo,Vivo T4 5G,24999,67,TRUE,FALSE,TRUE,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,8,128,7300,90W,6.77,1080 x 2392 ,120,2,1,50,32,0,android,Mid-Range
+motorola,Motorola Edge 70 5G,28900,75,TRUE,TRUE,FALSE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,8,256,5000,68W,6.7,1220 x 2712 ,120,2,1,50,50,0,android,Mid-Range
+poco,Poco M7 Pro 5G,14999,61,TRUE,FALSE,TRUE,Dimensity 7025 Ultra,dimensity,Octa Core,2.5,6,128,5110,45W,6.67,1080 x 2400 ,120,2,1,50,20,1 TB,android,Budget
+motorola,Motorola Moto G86 Power 5G,19999,66,TRUE,FALSE,FALSE,Dimensity 7400,dimensity,Octa Core,2.6,8,128,6720,33W,6.7,1220 x 2712 ,120,2,1,50,32,1 TB,android,Mid-Range
+samsung,Samsung Galaxy S26 Ultra 5G,124999,94,TRUE,TRUE,FALSE,Snapdragon 8 Elite Gen 5 for Galaxy,snapdragon,Octa Core,4.74,12,256,5000,60W,6.9,1440 x 3120 ,120,4,1,200,12,0,android,Flagship
+vivo,Vivo T5 Ultra,39990,70,TRUE,FALSE,FALSE,,,Octa Core,,8,256,6200,100W,6.78,1460 x 3200 ,120,3,1,50,50,0,android,Premium
+vivo,Vivo T5 Pro,32899,72,TRUE,FALSE,TRUE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,8,128,9020,90W,6.83,1260 x 2800 ,144,2,1,50,32,0,android,Premium
+vivo,Vivo T4 Pro 5G (8GB RAM + 256GB),29999,72,TRUE,FALSE,TRUE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,8,256,6500,90W,6.77,1080 x 2392 ,120,3,1,50,32,0,android,Mid-Range
+vivo,Vivo Y500 5G,29990,64,TRUE,TRUE,FALSE,Dimensity 7300,dimensity,Octa Core,2.5,8,128,8200,90W,6.77,1080 x 2392 ,120,2,1,50,8,2 TB,android,Mid-Range
+moto,Moto G96 5G,20999,63,TRUE,FALSE,FALSE,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,8,128,5500,33W,6.67,1080 x 2400 ,144,2,1,50,32,0,android,Mid-Range
+samsung,Samsung Galaxy M37 5G,17990,57,TRUE,TRUE,FALSE,,,Octa Core,,8,128,5000,45W,6.67,1080 x 2400 ,120,3,1,50,16,1 TB,android,Mid-Range
+vivo,Vivo V70 5G,53999,81,TRUE,TRUE,TRUE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,8,256,6500,90W,6.59,1260 x 2750 ,120,3,1,50,50,0,android,Premium
+samsung,Samsung Galaxy A17 5G,19374,58,TRUE,TRUE,FALSE,Exynos 1330,exynos,Octa Core,2.4,6,128,5000,25W,6.7,1080 x 2340 ,90,3,1,50,13,2 TB,android,Mid-Range
+samsung,Samsung Galaxy M17 5G,14499,54,TRUE,TRUE,FALSE,Exynos 1330,exynos,Octa Core,2.4,4,128,5000,25W,6.7,1080 x 2340 ,90,3,1,50,13,2 TB,android,Budget
+samsung,Samsung Galaxy M57 5G,29990,62,TRUE,FALSE,FALSE,Exynos,exynos,Octa Core,,8,128,5500,45W,6.77,1080 x 2340 ,120,3,1,50,16,0,android,Mid-Range
+vivo,Vivo Y28e 5G (4GB RAM + 64GB),9999,49,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,64,5000,15W,6.56,720 x 1612 ,90,2,1,13,5,1 TB,android,Budget
+vivo,Vivo V80 5G,47999,81,TRUE,TRUE,TRUE,,,Octa Core,,8,256,7000,100W,6.67,1260 x 2750 ,144,3,1,50,50,0,android,Premium
+realme,Realme P2 Pro 5G,17999,63,TRUE,FALSE,FALSE,Snapdragon 7s Gen 2,snapdragon,Octa Core,2.4,8,128,5200,80W,6.7,1080 x 2412 ,120,2,1,50,32,0,android,Mid-Range
+motorola,Motorola Moto G67 Power 5G,18999,61,TRUE,FALSE,FALSE,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,8,128,7000,30W,6.7,1080 x 2400 ,120,2,1,50,32,0,android,Mid-Range
+realme,Realme GT 7T (12GB RAM + 256GB),30499,77,TRUE,TRUE,TRUE,Dimensity 8400-MAX,dimensity,Octa Core,3.25,12,256,7000,120W,6.8,1280 x 2800 ,120,2,1,50,32,0,android,Premium
+realme,Realme P3 5G (8GB RAM + 256GB),18499,63,TRUE,TRUE,FALSE,Snapdragon 6 Gen4,snapdragon,Octa Core,2.3,8,256,6000,45W,6.67,1080 x 2400 ,120,2,1,50,16,0,android,Mid-Range
+ai+,Ai+ Nova 2 Pro,15999,55,TRUE,FALSE,FALSE,Dimensity 7100,dimensity,Octa Core,2.4,6,128,6000,18W,6.9,2340 x 1080 ,144,2,1,48,13,2 TB,android,Mid-Range
+motorola,Motorola Edge 60 Fusion,24999,67,TRUE,FALSE,FALSE,Dimensity 7400,dimensity,Octa Core,2.5,8,256,5500,68W,6.7,1220 x 2712 ,120,2,1,50,32,1 TB,android,Mid-Range
+oppo,Oppo Reno 15 Pro Mini,57490,84,TRUE,FALSE,TRUE,Dimensity 8450,dimensity,Octa Core,3.25,12,256,6200,80W,6.32,1216 x 2640 ,120,3,1,200,50,0,android,Premium
+realme,Realme P4 5G,24499,64,TRUE,FALSE,TRUE,Dimensity 7400 Ultra,dimensity,Octa Core,2.6,6,128,7000,80W,6.77,1080 x 2392 ,144,2,1,50,16,0,android,Mid-Range
+motorola,Motorola Moto G64 5G (12GB RAM + 256GB),16889,62,TRUE,FALSE,FALSE,Dimensity 7025,dimensity,Octa Core,2.5,12,256,6000,33W,6.5,1080 x 2400 ,120,2,1,50,16,1 TB,android,Mid-Range
+apple,Apple iPhone 16,66490,70,TRUE,TRUE,FALSE,Bionic A18,bionic,Hexa Core,4.04,8,128,3561,0,6.1,1179 x 2556 ,60,2,1,48,12,0,ios,Flagship
+samsung,Samsung Galaxy A18 5G,20999,55,TRUE,TRUE,FALSE,,,Octa Core,,6,128,6000,25W,6.74,1080 x 2340 ,90,3,1,50,16,2 TB,android,Mid-Range
+oneplus,OnePlus 16,89990,89,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 6 Pro,snapdragon,Octa Core,,12,256,9000,150W,6.78,1440 x 3216 ,185,3,1,200,50,0,android,Flagship
+samsung,Samsung Galaxy F05,6499,44,FALSE,FALSE,FALSE,Helio G85,helio,Octa Core,2,4,64,5000,25W,6.74,720 x 1600 ,60,2,1,50,8,1 TB,android,Budget
+motorola,Motorola Signature,54390,93,TRUE,TRUE,FALSE,Snapdragon 8 Gen5,snapdragon,Octa Core,3.8,12,256,5200,90W,6.8,1264 x 2780 ,165,3,1,50,50,0,android,Premium
+realme,Realme P4x 5G,19270,62,TRUE,FALSE,FALSE,Dimensity 7400 Ultra,dimensity,Octa Core,2.6,6,128,7000,45W,6.72,1080 x 2400 ,144,2,1,50,8,0,android,Mid-Range
+oppo,Oppo F31 Pro 5G,25999,66,TRUE,FALSE,FALSE,Dimensity 7300 Energy,dimensity,Octa Core,2.5,8,128,7000,80W,6.57,1080 x 2372 ,120,2,1,50,32,0,android,Mid-Range
+oneplus,OnePlus 13,54999,86,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12,256,6000,100W,6.82,1440 x 3168 ,120,3,1,50,32,0,android,Premium
+oppo,OPPO K14,19219,62,TRUE,TRUE,TRUE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,7000,45W,6.75,720 x 1570 ,120,2,1,50,8,0,android,Mid-Range
+vivo,Vivo X200T,59999,88,TRUE,TRUE,TRUE,Dimensity 9400 Plus,dimensity,Octa Core,3.63,12,256,6200,90W,6.67,1260 x 2800 ,120,3,1,50,32,0,android,Premium
+vivo,Vivo T4R 5G,23499,66,TRUE,FALSE,FALSE,Dimensity 7400,dimensity,Octa Core,2.6,8,128,5700,44W,6.77,1080 x 2392 ,120,2,1,50,32,0,android,Mid-Range
+oneplus,OnePlus Nord CE 5 5G,29980,71,TRUE,FALSE,TRUE,Dimensity 8350 Apex,dimensity,Octa Core,3.35,8,128,7100,80W,6.77,1080 x 2392 ,120,2,1,50,16,1 TB,android,Mid-Range
+vivo,Vivo T5x 5G (8GB RAM + 256GB),26999,67,TRUE,FALSE,TRUE,Dimensity 7400 Turbo,dimensity,Octa Core,2.6,8,256,7200,44W,6.76,1080 x 2344 ,120,2,1,50,32,0,android,Mid-Range
+motorola,Motorola Edge 70 Fusion 5G (8GB RAM + 256 GB),29429,71,TRUE,TRUE,FALSE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,8,256,7000,68W,6.78,1272 x 2772 ,144,3,1,50,32,0,android,Mid-Range
+motorola,Motorola Edge 70 Pro,37471,79,TRUE,TRUE,FALSE,Dimensity 8500 Extreme,dimensity,Octa Core,3.4,8,256,6500,90W,6.8,1272 x 2772 ,144,2,1,50,50,0,android,Premium
+iqoo,iQOO Z10R,22999,66,TRUE,FALSE,FALSE,Dimensity 7400,dimensity,Octa Core,2.6,8,128,5700,44W,6.77,1080 x 2392 ,120,2,1,50,32,0,android,Mid-Range
+vivo,Vivo V70 FE 5G (8GB RAM + 256GB),37880,79,TRUE,TRUE,TRUE,Dimensity 7360 Turbo,dimensity,Octa Core,2.5,8,256,7000,90W,6.83,1260 x 2800 ,120,2,1,200,50,0,android,Premium
+nothing,Nothing Phone 4a,36950,71,TRUE,FALSE,FALSE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,8,128,5400,50W,6.78,1224 x 2720 ,120,3,1,50,32,0,android,Premium
+samsung,Samsung Galaxy A36 5G,27490,64,TRUE,TRUE,FALSE,Snapdragon 6 Gen3,snapdragon,Octa Core,2.4,8,128,5000,45W,6.7,1080 x 2340 ,120,3,1,50,12,0,android,Mid-Range
+tecno,Tecno Spark Go 5G,9999,52,TRUE,FALSE,TRUE,Dimensity 6400,dimensity,Octa Core,2.5,4,128,6000,18W,6.74,720 x 1600 ,120,1,1,50,5,Not Specified,android,Budget
+vivo,Vivo T4 Pro 5G,31420,71,TRUE,FALSE,TRUE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,8,128,6500,90W,6.77,1080 x 2392 ,120,3,1,50,32,0,android,Premium
+apple,Apple iPhone 15,56990,66,TRUE,TRUE,FALSE,Bionic A16,bionic,Hexa Core,3.46,6,128,3349,0,6.1,1179 x 2556 ,60,2,1,48,12,0,ios,Premium
+poco,Poco M7 Plus 5G,16900,59,TRUE,FALSE,TRUE,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,6,128,7000,33W,6.9,1080 x 2340 ,144,1,1,50,8,2 TB,android,Mid-Range
+oppo,Oppo K13 Turbo,29450,68,TRUE,FALSE,TRUE,Dimensity 8450,dimensity,Octa Core,3.25,8,128,7000,80W,6.8,1280 x 2800 ,120,2,1,50,16,0,android,Mid-Range
+xiaomi,Xiaomi Redmi Note 14,16499,63,TRUE,FALSE,TRUE,Dimensity 7025 Ultra,dimensity,Octa Core,2.5,6,128,5110,45W,6.67,1080 x 2400 ,120,3,1,50,20,1 TB,android,Mid-Range
+tecno,Tecno Camon 50 Pro 5G,34990,67,TRUE,TRUE,TRUE,Dimensity 7400,dimensity,Octa Core,2.6,8,256,6500,0,6.78,1208 x 2644 ,144,3,1,50,50,0,android,Premium
+samsung,Samsung Galaxy F70e 5G (6GB RAM + 128GB),15163,58,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,6000,25W,6.7,720 x 1600 ,120,2,1,50,8,2 TB,android,Mid-Range
+iqoo,iQOO 15,69100,94,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,256,7000,100W,6.85,1440 x 3168 ,144,3,1,50,32,0,android,Flagship
+apple,Apple iPhone 17 Pro Max,145490,81,TRUE,TRUE,FALSE,Apple A19 Pro,apple,Hexa Core,,12,256,4832,0,6.9,1320 x 2868 ,120,3,1,48,18,0,ios,Flagship
+oneplus,OnePlus 15,85999,94,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,256,7300,120W,6.78,1272 x 2772 ,165,3,1,50,32,0,android,Flagship
+xiaomi,Xiaomi Redmi 14C 5G (6GB RAM + 128GB),11999,54,TRUE,FALSE,FALSE,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,6,128,5160,18W,6.88,720 x 1640 ,120,2,1,50,8,1 TB,android,Budget
+realme,Realme P1 5G (8GB RAM+ 128GB),27987,58,TRUE,FALSE,FALSE,Dimensity 7050,dimensity,Octa Core,2.6,8,128,5000,45W,6.67,1080 x 2400 ,120,2,1,50,16,2 TB,android,Mid-Range
+oppo,OPPO Reno 16C,46999,75,TRUE,FALSE,FALSE,Dimensity 7300 Energy,dimensity,Octa Core,2.5,8,128,7000,80W,6.57,2372 x 1080 ,120,3,1,50,50,0,android,Premium
+motorola,Motorola Edge 60 Stylus,20639,67,TRUE,TRUE,FALSE,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,8,256,5000,68W,6.7,1220 x 2712 ,120,2,1,50,32,1 TB,android,Mid-Range
+samsung,Samsung Galaxy A07 5G,14000,57,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,6000,25W,6.74,720 x 1600 ,120,2,1,50,8,2 TB,android,Budget
+oneplus,OnePlus Nord CE 6 5G (8GB RAM + 256GB),36999,75,TRUE,FALSE,TRUE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,8,256,8000,80W,6.78,1272 x 2772 ,144,2,1,50,32,0,android,Premium
+samsung,Samsung Galaxy F06 5G (6GB RAM + 128GB),11000,49,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,5000,25W,6.7,720 x 1600 ,60,2,1,50,8,1 TB,android,Budget
+vivo,Vivo T6x 5G,20999,61,TRUE,FALSE,TRUE,Dimensity 7450,dimensity,Octa Core,,6,128,7500,67W,6.78,1080 x 2344 ,144,2,1,50,50,0,android,Mid-Range
+honor,Honor WIN RT,34999,80,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12,256,10000,100W,6.83,1272 x 2800 ,185,2,1,50,50,0,android,Premium
+motorola,Motorola Moto G37 Power 5G (4GB RAM + 64GB),14999,55,TRUE,FALSE,FALSE,Dimensity 6400,dimensity,Octa Core,2.5,4,64,7000,30W,6.67,1604 x 720 ,120,1,1,50,8,1 TB,android,Budget
+oppo,OPPO K13,22999,62,TRUE,FALSE,TRUE,Snapdragon 6 Gen4,snapdragon,Octa Core,2.3,8,128,7000,80W,6.67,1080 x 2400 ,120,2,1,50,16,0,android,Mid-Range
+poco,Poco X7 5G,17999,64,TRUE,TRUE,TRUE,Dimensity 7300 Ultra,dimensity,Octa Core,2.5,8,128,5500,45W,6.67,1220 x 2712 ,120,3,1,50,20,0,android,Mid-Range
+nothing,Nothing Phone (4a) Pro,48990,75,TRUE,TRUE,FALSE,Snapdragon 7 Gen 4,snapdragon,Octa Core,2.8,8,128,5400,50W,6.83,1260 x 2800 ,144,3,1,50,32,0,android,Premium
+samsung,Samsung Galaxy S24 5G (Snapdragon),44249,72,TRUE,TRUE,FALSE,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,8,256,4000,25W,6.2,1080 x 2340 ,120,3,1,50,12,0,android,Premium
+realme,Realme 15 Pro 5G (12GB RAM + 256GB),29999,76,TRUE,FALSE,FALSE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,12,256,7000,80W,6.8,1280 x 2800 ,144,2,1,50,50,0,android,Mid-Range
+samsung,SAMSUNG Galaxy S26 5G,73930,81,TRUE,TRUE,FALSE,Exynos 2600,exynos,Deca Core,3.8,12,256,4300,25W,6.3,1080 x 2340 ,120,3,1,50,12,0,android,Flagship
+google,Google Pixel 10 5G,64751,75,TRUE,TRUE,FALSE,Tensor G5,tensor,Octa Core,3.78,12,256,4970,30W,6.3,1080 x 2424 ,120,3,1,48,10.5,0,android,Flagship
+oppo,Oppo K13 Turbo Pro,31999,71,TRUE,FALSE,TRUE,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,8,256,7000,80W,6.8,1280 x 2800 ,120,2,1,50,16,0,android,Premium
+infinix,Infinix Note 60 Ultra,31990,83,TRUE,TRUE,TRUE,Dimensity 8400 Ultimate,dimensity,Octa Core,3.25,12,256,7000,100W,6.78,1208 x 2644 ,144,3,1,200,32,1 TB,android,Premium
+vivo,Vivo X300 Ultra,159999,98,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,16,512,6600,100W,6.82,1440 x 3168 ,144,3,1,200,50,0,android,Flagship
+oppo,OPPO Reno 14 5G,44999,76,TRUE,FALSE,TRUE,Dimensity 8350,dimensity,Octa Core,3.35,8,256,6000,80W,6.59,1256 x 2760 ,120,3,1,50,50,0,android,Premium
+realme,Realme C75 5G (6GB RAM + 128GB),13999,53,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,6000,45W,6.67,720 x 1604 ,120,1,1,32,8,0,android,Budget
+iqoo,iQOO 15R,49999,84,TRUE,TRUE,TRUE,Snapdragon 8 Gen5,snapdragon,Octa Core,3.8,8,256,7600,100W,6.59,1260 x 2750 ,144,2,1,50,32,0,android,Premium
+apple,Apple iPhone 18 Pro,139900,72,TRUE,TRUE,FALSE,Apple A20 Pro,apple,,,12,256,,,6.3,1206 x 2622 ,120,3,1,48,48,0,ios,Flagship
+nothing,Nothing Phone 3a Pro,27999,66,TRUE,TRUE,FALSE,Snapdragon 7s Gen 3,snapdragon,Octa Core,2.5,8,128,5000,50W,6.77,1080 x 2392 ,120,3,1,50,50,0,android,Mid-Range
+infinix,Infinix Smart 10 HD,4999,41,FALSE,FALSE,TRUE,,,Octa Core,1.6,2,64,5000,10W,6.6,720 x 1612 ,90,1,1,13,8,Not Specified,android,Budget
+realme,Realme GT 7,39999,83,TRUE,TRUE,TRUE,Dimensity 9400e,dimensity,Octa Core,3.4,8,256,7000,120W,6.78,1264 x 2780 ,120,3,1,50,32,0,android,Premium
+vivo,Vivo T5 5G,25990,63,TRUE,FALSE,FALSE,Snapdragon 7s Gen4,snapdragon,Octa Core,,8,128,7500,100W,6.67,1080 x 2400 ,120,3,1,50,32,0,android,Mid-Range
+poco,Poco X7 Pro (12GB RAM + 256GB),25999,71,TRUE,TRUE,TRUE,Dimensity 8400 Ultra,dimensity,Octa Core,3.25,12,256,6550,90W,6.67,1220 x 2712 ,120,2,1,50,20,0,android,Mid-Range
+oneplus,OnePlus Nord 6 5G (12GB RAM +256GB),47999,86,TRUE,TRUE,TRUE,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,12,256,9000,80W,6.78,1272 x 2772 ,165,2,1,50,32,0,android,Premium
+xiaomi,Xiaomi Redmi Note 15 5G Special Edition,21144,64,TRUE,FALSE,TRUE,Snapdragon 6 Gen3,snapdragon,Octa Core,2.4,6,128,5800,45W,6.77,2392 x 1080 ,120,2,1,50,20,1 TB,android,Mid-Range
+iqoo,iQOO Z11x,22999,64,TRUE,FALSE,TRUE,Dimensity 7400 Turbo,dimensity,Octa Core,2.6,6,128,7200,44W,6.76,1080 x 2344 ,120,2,1,50,32,0,android,Mid-Range
+oneplus,OnePlus 15R 5G,54999,83,TRUE,TRUE,TRUE,Snapdragon 8 Gen5,snapdragon,Octa Core,3.84,12,256,7400,80W,6.83,1272 x 2800 ,165,2,1,50,32,0,android,Premium
+nothing,Nothing Phone 3a Lite,21999,63,TRUE,TRUE,FALSE,Dimensity 7300 Pro,dimensity,Octa Core,2.5,8,128,5000,33W,6.77,1084 x 2392 ,120,3,1,50,16,2 TB,android,Mid-Range
+realme,Realme P3 Ultra,24999,67,TRUE,FALSE,TRUE,Dimensity 8350 Ultra,dimensity,Octa Core,3.35,8,128,6000,80W,6.83,1272 x 2800 ,120,2,1,50,16,0,android,Mid-Range
+vivo,Vivo Y11 5G,16999,49,TRUE,FALSE,TRUE,Dimensity 6300,dimensity,Octa Core,2.4,4,64,6500,15W,6.74,720 x 1600 ,120,2,1,13,5,2 TB,android,Mid-Range
+oppo,OPPO K14x 5G,16449,54,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,6500,45W,6.75,720 x 1570 ,120,2,1,50,5,0,android,Mid-Range
+oppo,OPPO K15,23999,63,TRUE,FALSE,TRUE,,,Octa Core,,8,128,7500,100W,6.67,1080 x 2400 ,120,2,1,50,32,0,android,Mid-Range
+vivo,Vivo Y6a,27999,59,TRUE,TRUE,FALSE,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8,256,7200,44W,6.75,720 x 1570 ,120,2,1,50,8,0,android,Mid-Range
+iqoo,iQOO Z10 Turbo Pro,23990,70,TRUE,TRUE,TRUE,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,12,256,7000,120W,6.78,1260 x 2800 ,120,2,1,50,16,0,android,Mid-Range
+motorola,Motorola Moto G35 5G,12499,57,TRUE,FALSE,FALSE,Unisoc T760,unisoc,Octa Core,2.2,4,128,5000,18W,6.72,1080 x 2400 ,120,2,1,50,16,1 TB,android,Budget
+poco,Poco X8 Pro 5G,34999,76,TRUE,FALSE,TRUE,Dimensity 8500 Ultra,dimensity,Octa Core,3.4,8,256,6500,100W,6.59,2756 x 1268 ,120,2,1,50,20,0,android,Premium
+vivo,Vivo Y400 5G,25999,64,TRUE,FALSE,FALSE,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8,128,6000,90W,6.67,1080 x 2400 ,120,2,1,50,32,0,android,Mid-Range
+infinix,Infinix Note 50X 5G,13499,55,TRUE,FALSE,TRUE,Dimensity 7300 Ultimate,dimensity,Octa Core,2.5,6,128,5500,45W,6.67,720 x 1600 ,120,2,1,50,8,0,android,Budget
+motorola,Motorola Moto G77 5G,30999,63,TRUE,TRUE,FALSE,Dimensity 6400,dimensity,Octa Core,2.5,8,128,5200,30W,6.72,1080 x 2400 ,120,2,1,50,32,0,android,Premium
+vivo,Vivo T5x 5G (8GB RAM + 128GB),24499,67,TRUE,FALSE,TRUE,Dimensity 7400 Turbo,dimensity,Octa Core,2.6,8,128,7200,44W,6.76,1080 x 2344 ,120,2,1,50,32,0,android,Mid-Range
+google,Google Pixel 10A,46999,76,TRUE,TRUE,FALSE,Tensor G4,tensor,Octa Core,3.1,8,256,5100,30W,6.3,1080 x 2424 ,120,2,1,48,13,0,android,Premium
+moto,Moto G57 Power,17999,57,TRUE,FALSE,FALSE,Snapdragon 6s Gen4,snapdragon,Octa Core,2.4,8,128,7000,33W,6.72,1080 x 2400 ,120,2,1,50,8,0,android,Mid-Range
+apple,Apple iPhone 17 Pro,130990,75,TRUE,TRUE,FALSE,Apple A19 Pro,apple,Hexa Core,,12,256,3988,0,6.3,1206 x 2622 ,120,3,1,48,18,0,ios,Flagship
+realme,Realme P3 5G,15999,61,TRUE,TRUE,FALSE,Snapdragon 6 Gen4,snapdragon,Octa Core,2.3,6,128,6000,45W,6.67,1080 x 2400 ,120,2,1,50,16,0,android,Mid-Range
+motorola,Motorola Edge 70 Max,44999,67,TRUE,TRUE,FALSE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,,12,256,5200,0,6.8,1272 x 2772 ,144,3,1,50,50,0,android,Premium
+oppo,OPPO Reno 15 5G,47999,79,TRUE,FALSE,TRUE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,8,256,6500,80W,6.59,1256 x 2760 ,120,3,1,50,50,0,android,Premium
+vivo,Vivo V60 5G,40999,77,TRUE,TRUE,TRUE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,8,128,6500,90W,6.77,1080 x 2392 ,120,3,1,50,50,0,android,Premium
+samsung,Samsung Galaxy M36 5G,18999,58,TRUE,FALSE,FALSE,Exynos 1380,exynos,Octa Core,2.4,6,128,5000,25W,6.7,1080 x 2340 ,120,3,1,50,13,0,android,Mid-Range
+motorola,Motorola Edge 60 Pro (12GB RAM + 256GB),31935,77,TRUE,TRUE,FALSE,Dimensity 8350 Extreme,dimensity,Octa Core,3.35,12,256,6000,90W,6.7,1220 x 2712 ,120,3,1,50,50,0,android,Premium
+samsung,Samsung Galaxy F16 5G,12499,54,TRUE,TRUE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,5000,25W,6.7,1080 x 2340 ,90,3,1,50,13,1.5 TB,android,Budget
+infinix,Infinix Note 60 Pro 5G Pininfarina limited Edition,37999,75,TRUE,TRUE,TRUE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.4,8,256,6500,90W,6.78,1208 x 2644 ,144,2,1,50,13,1 TB,android,Premium
+vivo,Vivo S60,61990,80,TRUE,TRUE,TRUE,Snapdragon 8s Gen3,snapdragon,Octa Core,3,12,256,7200,90W,6.59,1260 x 2750 ,144,3,1,50,50,0,android,Flagship
+realme,Realme P4x 5G (8GB RAM + 128GB),18949,62,TRUE,FALSE,FALSE,Dimensity 7400 Ultra,dimensity,Octa Core,2.6,8,128,7000,45W,6.72,1080 x 2400 ,144,2,1,50,8,0,android,Mid-Range
+vivo,Vivo T6 Pro,32999,70,TRUE,FALSE,TRUE,,,Octa Core,,8,256,9500,100W,6.83,1260 x 2800 ,144,2,1,50,50,0,android,Premium
+iqoo,iQOO Neo 10 (8GB RAM + 256GB),41999,80,TRUE,TRUE,TRUE,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,8,256,7000,120W,6.78,1260 x 2800 ,144,2,1,50,32,0,android,Premium
+iqoo,iQOO Z11,29990,71,TRUE,TRUE,TRUE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,8,256,9020,90W,6.83,1260 x 2800 ,144,1,1,50,32,0,android,Mid-Range
+motorola,Motorola Edge 70 Pro Plus 5G,47890,84,TRUE,TRUE,FALSE,Dimensity 8500 Extreme,dimensity,Octa Core,3.4,12,256,6500,90W,6.78,1272 x 2772 ,144,3,1,50,50,0,android,Premium
+vivo,Vivo X300,83999,86,TRUE,TRUE,TRUE,Dimensity 9500,dimensity,Octa Core,4.21,12,256,6040,90W,6.31,1216 x 2640 ,120,3,1,200,50,0,android,Flagship
+oneplus,OnePlus 13s 5G,49999,80,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12,256,5850,80W,6.32,1216 x 2640 ,120,2,1,50,32,0,android,Premium
+nothing,Nothing Phone 2a (8GB RAM + 256GB),24999,70,TRUE,TRUE,FALSE,Dimensity 7200 Pro,dimensity,Octa Core,2.8,8,256,5000,45W,6.7,1084 x 2412 ,120,2,1,50,32,0,android,Mid-Range
+samsung,Samsung Galaxy M17e 5G,12999,54,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,6000,25W,6.7,720 x 1600 ,120,2,1,50,8,2 TB,android,Budget
+oppo,Oppo Reno 15c,40999,68,TRUE,FALSE,TRUE,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,8,256,7000,80W,6.57,1080 x 2372 ,120,3,1,50,50,0,android,Premium
+oppo,Oppo Find X9 5G,74999,89,TRUE,TRUE,TRUE,Dimensity 9500,dimensity,Octa Core,4.21,12,256,7025,80W,6.59,1256 x 2760 ,120,3,1,50,32,0,android,Flagship
+poco,Poco M7 Plus 5G (4GB RAM + 128GB),14499,58,TRUE,FALSE,TRUE,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,4,128,7000,33W,6.9,1080 x 2340 ,144,1,1,50,8,2 TB,android,Budget
+vivo,Vivo X200 FE (16GB RAM + 512GB),59999,86,TRUE,TRUE,TRUE,Dimensity 9300 Plus,dimensity,Octa Core,3.25,16,512,6500,90W,6.31,1216 x 2640 ,120,3,1,50,50,0,android,Premium
+poco,Poco F7 5G,35999,76,TRUE,TRUE,TRUE,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,12,256,7550,90W,6.83,1280 x 2772 ,120,2,1,50,20,0,android,Premium
+infinix,Infinix Hot 50 5G,9999,53,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,5000,18W,6.7,720 x 1600 ,120,2,1,48,8,1 TB,android,Budget
+realme,Realme GT 2 Pro 5G (12GB RAM + 256GB),25999,70,TRUE,TRUE,FALSE,Snapdragon 8 Gen1,snapdragon,Octa Core,3,12,256,5000,65W,6.7,1440 x 3216 ,120,3,1,50,32,0,android,Mid-Range
+samsung,Samsung Galaxy A57 5G,49900,74,TRUE,TRUE,FALSE,Exynos 1680,exynos,Octa Core,2.9,8,256,5000,45W,6.7,1080 x 2340 ,120,3,1,50,12,0,android,Premium
+redmagic,RedMagic 11 Pro Plus,69990,80,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,256,7500,120W,6.85,1216 x 2688 ,144,3,1,50,16,0,android,Flagship
+realme,Realme P5 5G,19990,63,TRUE,FALSE,TRUE,,,Octa Core,,6,128,7500,100W,6.77,1080 x 2392 ,144,2,1,50,16,0,android,Mid-Range
+oneplus,OnePlus Turbo 6,29999,75,TRUE,TRUE,TRUE,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,12,256,9000,80W,6.78,1272 x 2772 ,165,2,1,50,16,0,android,Mid-Range
+infinix,Infinix GT 30 5G,22990,64,TRUE,FALSE,TRUE,Dimensity 7400,dimensity,Octa Core,2.6,8,128,5500,45W,6.78,1224 x 2720 ,144,2,1,64,13,0,android,Mid-Range
+vivo,Vivo Y400 Pro 5G,24999,63,TRUE,FALSE,TRUE,Dimensity 7300,dimensity,Octa Core,2.5,8,128,5500,90W,6.77,1080 x 2392 ,120,2,1,50,32,0,android,Mid-Range
+poco,Poco X7 5G (8GB RAM + 256GB),19999,66,TRUE,TRUE,TRUE,Dimensity 7300 Ultra,dimensity,Octa Core,2.5,8,256,5500,45W,6.67,1220 x 2712 ,120,3,1,50,20,0,android,Mid-Range
+samsung,Samsung Galaxy A37 5G,37990,66,TRUE,TRUE,FALSE,Exynos 1480,exynos,Octa Core,2.7,8,128,5000,45W,6.7,1080 x 2340 ,120,3,1,50,12,0,android,Premium
+xiaomi,Xiaomi 17T 5G,59999,81,TRUE,TRUE,TRUE,Dimensity 8500 Ultra,dimensity,Octa Core,3.4,12,256,6500,67W,6.59,1268 x 2756 ,120,3,1,50,32,0,android,Premium
+oppo,OPPO A6x 5G,16999,50,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,64,6500,45W,6.75,720 x 1570 ,120,1,1,13,5,0,android,Mid-Range
+vivo,Vivo T4 Ultra (12GB RAM+ 256GB),37999,75,TRUE,TRUE,FALSE,Dimensity 9300 Plus,dimensity,Octa Core,3.25,12,256,5500,90W,6.67,1260 x 2800 ,120,3,1,50,32,0,android,Premium
+xiaomi,Xiaomi Redmi Note 16,18990,68,FALSE,FALSE,TRUE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,10000,100W,6.82,1080 x 2480 ,120,3,1,200,32,1 TB,android,Mid-Range
+samsung,Samsung Galaxy S25 FE (8GB RAM + 256GB),52490,79,TRUE,TRUE,FALSE,Exynos 2400,exynos,Deca Core,3.2,8,256,4900,45W,6.7,1080 x 2340 ,120,3,1,50,12,0,android,Premium
+tecno,Tecno Camon 40 Pro 4G,17990,57,FALSE,TRUE,TRUE,Helio G100,helio,Octa Core,2.2,8,256,5200,45W,6.78,1080 x 2436 ,120,2,1,50,50,0,android,Mid-Range
+vivo,Vivo Y600 Pro 5G,27990,71,TRUE,TRUE,TRUE,Dimensity 7300e,dimensity,Octa Core,2.5,8,128,10200,90W,6.83,1260 x 2800 ,120,1,1,50,32,0,android,Mid-Range
+xiaomi,Xiaomi Redmi Note 15 Pro 5G,31999,72,TRUE,FALSE,TRUE,Dimensity 7400 Ultra,dimensity,Octa Core,2.6,8,128,6580,45W,6.83,1280 x 2772 ,120,2,1,200,20,0,android,Premium
+realme,Realme 16 Pro 5G,36299,77,TRUE,FALSE,FALSE,Dimensity 7300 Max,dimensity,Octa Core,,8,128,7000,80W,6.78,1272 x 2772 ,144,2,1,200,50,0,android,Premium
+samsung,Samsung Galaxy S24 FE 5G,39999,70,TRUE,TRUE,FALSE,Exynos 2400e,exynos,Deca Core,3.11,8,128,4700,25W,6.7,1080 x 2340 ,120,3,1,50,10,0,android,Premium
+xiaomi,Xiaomi Redmi Note 15 5G,26999,70,TRUE,TRUE,TRUE,Snapdragon 6 Gen3,snapdragon,Octa Core,2.4,8,128,5520,45W,6.77,1080 x 2392 ,120,2,1,108,20,1 TB,android,Mid-Range
+motorola,Motorola Edge 70 Fusion 5G (12GB RAM + 256 GB),32719,72,TRUE,TRUE,FALSE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,12,256,7000,68W,6.78,1272 x 2772 ,144,3,1,50,32,0,android,Premium
+ai+,Ai+ Nova 2 Neo,13999,53,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,6000,0,6.75,720 x 1600 ,120,1,1,48,8,2 TB,android,Budget
+samsung,Samsung Galaxy M17 5G (6GB RAM + 128GB),16499,55,TRUE,TRUE,FALSE,Exynos 1330,exynos,Octa Core,2.4,6,128,5000,25W,6.7,1080 x 2340 ,90,3,1,50,13,2 TB,android,Mid-Range
+xiaomi,Xiaomi Redmi 15 5G,20350,61,TRUE,FALSE,TRUE,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,6,128,7000,33W,6.9,1080 x 2340 ,144,2,1,50,8,1 TB,android,Mid-Range
+realme,Realme P4 5G (8GB RAM + 128GB),23909,66,TRUE,FALSE,TRUE,Dimensity 7400 Ultra,dimensity,Octa Core,2.6,8,128,7000,80W,6.77,1080 x 2392 ,144,2,1,50,16,0,android,Mid-Range
+poco,POCO C71 (6GB RAM + 128GB),9999,46,FALSE,FALSE,FALSE,Unisoc T7250,unisoc,Octa Core,1.8,6,128,5200,15W,6.88,720 x 1640 ,120,2,1,32,8,2 TB,android,Budget
+iqoo,iQOO Neo 10R (8GB RAM + 256GB),39999,74,TRUE,FALSE,TRUE,Snapdragon 8s Gen3,snapdragon,Octa Core,3,8,256,6400,80W,6.78,1260 x 2800 ,144,2,1,50,32,0,android,Premium
+samsung,Samsung Galaxy S24 Ultra,119999,86,TRUE,TRUE,FALSE,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,12,256,5000,45W,6.8,1440 x 3120 ,120,4,1,200,12,0,android,Flagship
+vivo,Vivo Y31 5G,19999,58,TRUE,FALSE,FALSE,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,4,128,6500,44W,6.68,720 x 1608 ,120,1,1,50,8,0,android,Mid-Range
+realme,Realme P3 5G (8GB RAM + 128GB),16999,63,TRUE,TRUE,FALSE,Snapdragon 6 Gen4,snapdragon,Octa Core,2.3,8,128,6000,45W,6.67,1080 x 2400 ,120,2,1,50,16,0,android,Mid-Range
+infinix,Infinix Hot 50 5G (8 GB RAM + 128 GB),10999,54,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,5000,18W,6.7,720 x 1600 ,120,2,1,48,8,1 TB,android,Budget
+oppo,Oppo F33,31998,63,TRUE,FALSE,TRUE,Dimensity 6360 MAX,dimensity,Octa Core,,6,128,7000,80W,6.57,1080 x 2372 ,120,2,1,50,16,0,android,Premium
+vivo,Vivo V70 FE 5G (12GB RAM + 256GB),42400,80,TRUE,TRUE,TRUE,Dimensity 7360 Turbo,dimensity,Octa Core,2.5,12,256,7000,90W,6.83,1260 x 2800 ,120,2,1,200,50,0,android,Premium
+samsung,Samsung Galaxy S25 (12GB RAM + 128GB),58999,77,TRUE,TRUE,FALSE,Snapdragon 8Elite,snapdragon,Octa Core,4.47,12,128,4000,25W,6.2,1080 x 2340 ,120,3,1,50,12,0,android,Premium
+iqoo,iQOO Z10 Turbo,21990,70,TRUE,TRUE,TRUE,Dimensity 8400,dimensity,Octa Core,3.25,12,256,7620,90W,6.78,1260 x 2800 ,144,2,1,50,16,0,android,Mid-Range
+samsung,Samsung Galaxy A35 5G,29999,63,TRUE,TRUE,FALSE,Exynos 1380,exynos,Octa Core,2.4,8,128,5000,25W,6.6,1080 x 2340 ,120,3,1,50,13,1 TB,android,Mid-Range
+oppo,OPPO F35 Pro 5G,39990,71,TRUE,FALSE,TRUE,,,Octa Core,2.4,8,128,8000,100W,6.57,1080 x 2372 ,144,2,1,50,50,0,android,Premium
+motorola,Motorola Signature (16GB RAM + 1TB),68990,95,TRUE,TRUE,FALSE,Snapdragon 8 Gen5,snapdragon,Octa Core,3.8,16,1024,5200,90W,6.8,1264 x 2780 ,165,3,1,50,50,0,android,Flagship
+nothing,Nothing Phone 3 (16GB RAM + 512GB),53549,85,TRUE,TRUE,FALSE,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,16,512,5500,65W,6.67,1260 x 2800 ,120,3,1,50,50,0,android,Premium
+samsung,Samsung Galaxy F56 5G,24790,64,TRUE,FALSE,FALSE,Exynos 1480,exynos,Octa Core,2.7,8,128,5000,45W,6.74,1080 x 2340 ,120,3,1,50,12,0,android,Mid-Range
+honor,Honor 600 Pro,54999,80,TRUE,TRUE,TRUE,Dimensity 8550 Elite,dimensity,Octa Core,3.4,12,256,8000,80W,6.57,1264 x 2728 ,120,3,1,200,50,0,android,Premium
+tecno,Tecno Camon 50 Ultra,34990,67,TRUE,TRUE,TRUE,Dimensity 7400 Ultimate,dimensity,Octa Core,2.6,8,256,6500,,6.78,1208 x 2644 ,144,3,1,50,50,0,android,Premium
+samaung,Samaung Galaxy F70e,13068,57,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,6000,25W,6.7,720 x 1600 ,120,2,1,50,8,2 TB,android,Budget
+oneplus,OnePlus Turbo 6V,24990,71,TRUE,TRUE,TRUE,Snapdragon 7s Gen 4,snapdragon,Octa Core,2.7,8,256,9000,80W,6.78,1272 x 2772 ,144,2,1,50,16,0,android,Mid-Range
+vivo,Vivo T5 Lite 5G,17999,54,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,6500,25W,6.77,720 x 1600 ,120,2,1,50,8,2 TB,android,Mid-Range
+realme,Realme P4R 5G (6GB RAM + 256GB),22999,58,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,256,8000,45W,6.81,720 x 1570 ,144,1,1,50,8,0,android,Mid-Range
+iqoo,iQOO Neo 11,42990,81,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12,256,7500,100W,6.78,1260 x 2800 ,144,2,1,50,16,0,android,Premium
+poco,Poco M7 Pro 5G (8GB RAM + 256GB),16999,62,TRUE,FALSE,TRUE,Dimensity 7025 Ultra,dimensity,Octa Core,2.5,8,256,5110,45W,6.67,1080 x 2400 ,120,2,1,50,20,1 TB,android,Mid-Range
+vivo,Vivo Y21 5G,20999,58,TRUE,TRUE,TRUE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,6500,44W,6.74,720 x 1600 ,120,2,1,50,5,Not Specified,android,Mid-Range
+xiaomi,Xiaomi Redmi Turbo 5 5G (12GB RAM + 256GB),40999,79,TRUE,TRUE,TRUE,Dimensity 8500 Ultra,dimensity,Octa Core,3.4,12,256,7540,100W,6.59,1268 x 2756 ,120,2,1,50,20,0,android,Premium
+xiaomi,Xiaomi Redmi K90 Ultra,59990,81,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12,256,8550,100W,6.83,1280 x 2772 ,165,2,1,50,20,0,android,Premium
+oppo,OPPO Reno 15 Pro 5G,66468,86,TRUE,TRUE,TRUE,Dimensity 8450,dimensity,Octa Core,3.25,12,256,6500,80W,6.78,1272 x 2772 ,120,3,1,200,50,0,android,Flagship
+motorola,Motorola Edge 60 5G,27125,75,TRUE,TRUE,FALSE,Dimensity 7400,dimensity,Octa Core,2.6,12,256,5500,68W,6.7,1220 x 2712 ,120,3,1,50,50,1 TB,android,Mid-Range
+samsung,Samsung Galaxy S25 Edge,62480,83,TRUE,TRUE,FALSE,Snapdragon 8Elite,snapdragon,Octa Core,4.47,12,256,3900,25W,6.7,1440 x 3120 ,120,2,1,200,12,0,android,Flagship
+samsung,Samsung Galaxy F16 5G (6GB RAM + 128GB),13999,55,TRUE,TRUE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,5000,25W,6.7,1080 x 2340 ,90,3,1,50,13,1.5 TB,android,Budget
+samsung,Samsung Galaxy S25 Ultra (12GB RAM + 512GB),108000,93,TRUE,TRUE,FALSE,Snapdragon 8 Elite for Galaxy,snapdragon,Octa Core,4.47,12,512,5000,45W,6.9,1440 x 3120 ,120,4,1,200,12,0,android,Flagship
+motorola,Motorola Edge 50 Fusion (12GB RAM + 256GB),22790,68,TRUE,TRUE,FALSE,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,12,256,5000,68W,6.67,1080 x 2400 ,144,2,1,50,32,0,android,Mid-Range
+oppo,OPPO Reno 16F,42990,70,TRUE,TRUE,FALSE,Dimensity 7300,dimensity,Octa Core,2.5,8,128,7000,80W,6.57,1080 x 2372 ,120,3,1,50,50,0,android,Premium
+vivo,Vivo T5 Pro 5G (8GB RAM + 256GB),36999,74,TRUE,FALSE,TRUE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,8,256,9020,90W,6.83,1260 x 2800 ,144,2,1,50,32,0,android,Premium
+infinix,Infinix Note 60 Pro 5G,32999,72,TRUE,TRUE,TRUE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.4,8,128,6500,90W,6.78,1208 x 2644 ,144,2,1,50,13,1 TB,android,Premium
+realme,Realme P4 Power 5G (8GB RAM + 256GB),29999,74,TRUE,FALSE,TRUE,Dimensity 7400 Ultra,dimensity,Octa Core,2.6,8,256,10001,80W,6.8,1280 x 2800 ,144,2,1,50,16,0,android,Mid-Range
+poco,Poco M8,20249,61,TRUE,FALSE,TRUE,Snapdragon 6 Gen3,snapdragon,Octa Core,,6,128,5520,45W,6.77,1080 x 2392 ,120,2,1,50,20,1 TB,android,Mid-Range
+oneplus,OnePlus 15 5G (16GB RAM + 512GB),93999,95,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,16,512,7300,120W,6.78,1272 x 2772 ,165,3,1,50,32,0,android,Flagship
+samsung,Samsung Galaxy S26 FE,65990,75,TRUE,TRUE,FALSE,Exynos 2500,exynos,Deca Core,,8,128,5100,55W,6.73,1080 x 2340 ,120,3,1,50,16,0,android,Flagship
+oppo,OPPO Find X9 Ultra,169999,94,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen5,snapdragon,Octa Core,4.6,12,512,7050,100W,6.82,1440 x 3168 ,144,1,1,200,50,0,android,Flagship
+google,Google Pixel 9A,42930,68,TRUE,TRUE,FALSE,Tensor G4,tensor,Octa Core,3.1,8,256,5100,23W,6.3,1080 x 2424 ,120,2,1,48,13,0,android,Premium
+apple,Apple iPhone 16 Pro Max,134900,80,TRUE,TRUE,FALSE,Bionic A18 Pro,bionic,Hexa Core,4.05,8,256,4685,0,6.9,1320 x 2868 ,120,3,1,48,12,0,ios,Flagship
+apple,Apple iPhone 13,45690,55,TRUE,TRUE,FALSE,Bionic A15,bionic,Hexa Core,3.22,4,128,3240,0,6.1,1170 x 2532 ,60,2,1,12,12,0,ios,Premium
+xiaomi,Xiaomi Redmi A7 Pro 5G,12998,54,TRUE,FALSE,FALSE,Unisoc T8300,unisoc,Octa Core,2.2,4,64,6300,15W,6.9,720 x 1600 ,120,2,1,32,8,2 TB,android,Budget
+samsung,Samsung Galaxy M17e 5G (6GB RAM + 128GB),14999,54,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,6000,25W,6.7,720 x 1600 ,120,2,1,50,8,2 TB,android,Budget
+vivo,Vivo Y51 Pro,30999,62,TRUE,FALSE,TRUE,Dimensity 7360 Turbo,dimensity,Octa Core,2.5,8,128,7200,44W,6.75,720 x 1570 ,120,2,1,50,8,0,android,Premium
+samsung,Samsung Galaxy S27 Ultra 5G,149990,85,TRUE,TRUE,FALSE,Snapdragon 8 Elite Gen 6 Pro for Galaxy,snapdragon,Octa Core,,12,256,5500,0,6.9,1440 x 3120 ,144,4,1,200,12,0,android,Flagship
+iqoo,iQOO 16,74990,84,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 6 Pro,snapdragon,Octa Core,,12,256,8500,150W,6.89,1440 x 3168 ,165,4,1,50,50,0,android,Flagship
+vivo,Vivo T4 Lite 5G,16499,52,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,6000,15W,6.74,720 x 1600 ,90,2,1,50,5,2 TB,android,Mid-Range
+motorola,Motorola Edge 60 Pro (16GB RAM + 512GB),37690,80,TRUE,TRUE,FALSE,Dimensity 8350 Extreme,dimensity,Octa Core,3.35,16,512,6000,90W,6.7,1220 x 2712 ,120,3,1,50,50,0,android,Premium
+cmf,CMF Phone 3 Pro,24990,61,TRUE,FALSE,FALSE,Snapdragon 7s Gen 4 SoC,snapdragon,Octa Core,,8,128,5500,45W,6.81,1080 x 2392 ,120,3,1,50,16,0,android,Mid-Range
+ai+,Ai+ Nova 2 Pro 5G (8GB RAM + 128GB),17999,57,TRUE,FALSE,FALSE,Dimensity 7100,dimensity,Octa Core,2.4,8,128,6000,18W,6.9,2340 x 1080 ,144,2,1,48,13,2 TB,android,Mid-Range
+oneplus,OnePlus Nord 4 5G (8GB RAM + 256GB),29999,70,TRUE,TRUE,TRUE,Snapdragon 7+ Gen3,snapdragon,Octa Core,2.8,8,256,5500,100W,6.74,1240 x 2772 ,120,2,1,50,16,0,android,Mid-Range
+vivo,Vivo Y03,6990,40,FALSE,FALSE,FALSE,Helio G85,helio,Octa Core,2,4,64,5000,15W,6.56,720 x 1612 ,90,2,1,13,5,1 TB,android,Budget
+realme,Realme P4R 5G (6GB RAM + 128GB),20957,57,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,8000,45W,6.81,720 x 1570 ,144,1,1,50,8,0,android,Mid-Range
+samsung,Samsung Galaxy A27 (8GB RAM + 256GB),37999,62,TRUE,TRUE,FALSE,Snapdragon 6 Gen3,snapdragon,Octa Core,2.4,8,256,5000,25W,6.7,1080 x 2340 ,120,3,1,50,12,2 TB,android,Premium
+realme,Realme 16 5G,31920,68,TRUE,FALSE,FALSE,Dimensity 6400 Turbo,dimensity,Octa Core,2.5,8,128,7000,60W,6.57,1080 x 2372 ,120,2,1,50,50,0,android,Premium
+vivo,Vivo V70 Elite 5G (12GB RAM + 256GB),63999,85,TRUE,TRUE,TRUE,Snapdragon 8s Gen3,snapdragon,Octa Core,3,12,256,6500,90W,6.59,1260 x 2750 ,120,3,1,50,50,0,android,Flagship
+oppo,Oppo F31 Pro Plus 5G,30449,70,TRUE,FALSE,FALSE,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8,256,7000,80W,6.8,1280 x 2800 ,120,2,1,50,32,0,android,Premium
+samsung,Samsung Galaxy F17 5G,15888,57,TRUE,TRUE,FALSE,Exynos 1330,exynos,Octa Core,2.4,4,128,5000,25W,6.7,1080 x 2340 ,90,3,1,50,13,2 TB,android,Mid-Range
+oppo,OPPO Reno 14 Pro 5G,48999,85,TRUE,TRUE,TRUE,Dimensity 8450,dimensity,Octa Core,3.25,12,256,6200,80W,6.83,1272 x 2800 ,120,3,1,50,50,0,android,Premium
+tecno,Tecno POP 10 5G,7999,54,TRUE,TRUE,TRUE,Dimensity 7025,dimensity,Octa Core,2.5,4,128,5100,0,6.67,720 x 1612 ,120,2,1,50,8,1 TB,android,Budget
+google,Google Pixel 8A,34999,66,TRUE,TRUE,FALSE,Tensor G3,tensor,Nine Core,3,8,128,4492,0,6.1,1080 x 2400 ,120,2,1,64,13,0,android,Premium
+infinix,Infinix Note 50 Pro 5G,23990,71,TRUE,TRUE,TRUE,Dimensity 7200,dimensity,Octa Core,2.8,8,256,5000,65W,6.78,1080 x 2436 ,144,3,1,50,50,1 TB,android,Mid-Range
+xiaomi,Xiaomi Redmi 15A 5G,14698,58,TRUE,FALSE,TRUE,Unisoc T8300,unisoc,Octa Core,2.2,4,64,6300,33W,6.9,720 x 1600 ,120,1,1,32,8,1 TB,android,Budget
+poco,Poco X8 Pro Max,47990,83,TRUE,FALSE,TRUE,Dimensity 9500s,dimensity,Octa Core,3.73,12,256,9000,100W,6.83,1280 x 2772 ,120,2,1,50,20,0,android,Premium
+vivo,Vivo X300 Pro 5G,109998,95,TRUE,TRUE,TRUE,Dimensity 9500,dimensity,Octa Core,4.21,16,512,6510,90W,6.78,1260 x 2800 ,120,3,1,200,50,0,android,Flagship
+realme,Realme GT 8 Pro,72999,94,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,256,7000,120W,6.79,1440 x 3136 ,144,3,1,200,32,0,android,Flagship
+motorola,Motorola Moto G37 Power 5G,15999,55,TRUE,FALSE,FALSE,Dimensity 6400,dimensity,Octa Core,2.5,4,128,7000,30W,6.67,1604 x 720 ,120,1,1,50,8,1 TB,android,Mid-Range
+apple,Apple iPhone 18,89999,67,TRUE,TRUE,FALSE,Apple A20,apple,Hexa Core,,12,256,,,6.31,1206 x 2622 ,120,2,1,48,24,0,ios,Flagship
+vivo,Vivo T4 Pro 5G (12GB RAM + 256GB),31999,74,TRUE,FALSE,TRUE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,12,256,6500,90W,6.77,1080 x 2392 ,120,3,1,50,32,0,android,Premium
+iqoo,iQOO Z10R (8GB RAM + 256GB),24999,66,TRUE,FALSE,FALSE,Dimensity 7400,dimensity,Octa Core,2.6,8,256,5700,44W,6.77,1080 x 2392 ,120,2,1,50,32,0,android,Mid-Range
+oppo,OPPO K13x 5G,15900,54,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,6000,45W,6.67,720 x 1604 ,120,2,1,50,8,2 TB,android,Mid-Range
+poco,Poco M7 5G,12499,53,TRUE,FALSE,FALSE,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,6,128,5160,18W,6.88,720 x 1640 ,120,1,1,50,8,1 TB,android,Budget
+samsung,Samsung Galaxy S25 Plus,69900,79,TRUE,TRUE,FALSE,Snapdragon 8Elite,snapdragon,Octa Core,4.47,12,256,4900,45W,6.7,1440 x 3120 ,120,3,1,50,12,0,android,Flagship
+infinix,Infinix Note 40X 5G (12GB RAM +256GB),15999,62,TRUE,TRUE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,12,256,5000,18W,6.78,1080 x 2406 ,120,3,1,108,8,1 TB,android,Mid-Range
+realme,Realme P4 Lite 5G,14690,49,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,64,7000,15W,6.81,720 x 1570 ,144,1,1,13,5,0,android,Budget
+samsung,Samsung Galaxy A07 5G (6GB RAM + 128GB),16850,57,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,6000,25W,6.74,720 x 1600 ,120,2,1,50,8,2 TB,android,Mid-Range
+infinix,Infinix GT 50 Pro,37990,74,TRUE,TRUE,TRUE,Dimensity 8400 Ultimate,dimensity,Octa Core,3.25,12,256,6150,45W,6.78,1208 x 2644 ,144,2,1,50,13,0,android,Premium
+honor,Honor Magic 8 Pro Air,49990,76,TRUE,TRUE,FALSE,Dimensity 9500,dimensity,Octa Core,4.21,12,256,5500,80W,6.31,1216 x 2640 ,120,3,1,64,50,0,android,Premium
+lava,Lava Play Ultra 5G,18999,64,TRUE,FALSE,FALSE,Dimensity 7300,dimensity,Octa Core,2.5,6,128,5000,33W,6.67,1080 x 1920 ,120,2,1,64,13,1 TB,android,Mid-Range
+realme,Realme P4 Pro 5G,28695,71,TRUE,FALSE,TRUE,Snapdragon 7 Gen 4,snapdragon,Octa Core,,8,128,7000,80W,6.8,1280 x 2800 ,144,2,1,50,50,0,android,Mid-Range
+xiaomi,Xiaomi Redmi Note 14 SE 5G,19999,64,TRUE,FALSE,TRUE,Dimensity 7025 Ultra,dimensity,Octa Core,2.5,6,128,5110,45W,6.67,1080 x 2400 ,120,3,1,50,20,1 TB,android,Mid-Range
+moto,Moto G96 5G (8GB RAM + 256GB),22999,63,TRUE,FALSE,FALSE,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,8,256,5500,33W,6.67,1080 x 2400 ,144,2,1,50,32,0,android,Mid-Range
+oneplus,OnePlus 13 (16GB RAM+ 512GB),61999,90,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,16,512,6000,100W,6.82,1440 x 3168 ,120,3,1,50,32,0,android,Flagship
+realme,Realme Note 60x,6299,41,FALSE,FALSE,FALSE,Unisoc T612,unisoc,Octa Core,1.8,4,64,5000,10W,6.74,720 x 1600 ,90,1,1,8,5,1 TB,android,Budget
+apple,Apple iPhone 15 Plus,69900,67,TRUE,TRUE,FALSE,Bionic A16,bionic,Hexa Core,3.46,6,128,4383,0,6.7,1290 x 2796 ,60,2,1,48,12,0,ios,Flagship
+infinix,Infinix Note 15 Pro 5G,19990,64,TRUE,FALSE,FALSE,Dimensity 6100 Plus,dimensity,Octa Core,2.2,8,128,5000,66W,6.8,1080 x 2400 ,144,3,1,108,32,2 TB,android,Mid-Range
+realme,Realme C2s,3499,35,FALSE,FALSE,FALSE,Helio  P22,helio,Octa Core,2,3,32,4000,,6.1,720 x 1560 ,60,2,1,13,5,128 GB,android,Budget
+ai+,Ai+ Nova 2 Ultra,20999,59,TRUE,FALSE,FALSE,Dimensity 7400,dimensity,Octa Core,2.6,6,128,6000,0,6.78,2772 x 1272 ,120,2,1,50,13,1 TB,android,Mid-Range
+samsung,Samsung Galaxy F70 Pro 5G,32999,61,TRUE,FALSE,FALSE,Exynos,exynos,Octa Core,,8,128,6000,45W,6.74,1080 x 2340 ,120,2,1,50,32,0,android,Premium
+vivo,Vivo X400,79990,84,TRUE,TRUE,TRUE,,,Octa Core,,12,256,7000,100W,6.45,1216 x 2640 ,120,3,1,200,50,0,android,Flagship
+samsung,Samsung Galaxy A17 5G (8GB RAM + 256GB),25499,61,TRUE,TRUE,FALSE,Exynos 1330,exynos,Octa Core,2.4,8,256,5000,25W,6.7,1080 x 2340 ,90,3,1,50,13,2 TB,android,Mid-Range
+samsung,Samsung Galaxy A56 5G,31999,66,TRUE,TRUE,FALSE,Exynos 1580,exynos,Octa Core,2.9,8,128,5000,45W,6.7,1080 x 2340 ,120,3,1,50,12,0,android,Premium
+xiaomi,Xiaomi Redmi Note 15 SE 5G (8GB RAM + 256GB),26567,67,TRUE,FALSE,TRUE,Snapdragon 6 Gen3,snapdragon,Octa Core,2.4,8,256,5800,45W,6.77,2392 x 1080 ,120,2,1,50,20,1 TB,android,Mid-Range
+xiaomi,Xiaomi Redmi 15C 5G,15499,55,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,6000,33W,6.9,720 x 1600 ,120,2,1,50,8,1 TB,android,Mid-Range
+realme,Realme 15 Pro 5G,30399,72,TRUE,FALSE,FALSE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,8,128,7000,80W,6.8,1280 x 2800 ,144,2,1,50,50,0,android,Premium
+infinix,Infinix GT 30 Pro,29990,75,TRUE,TRUE,TRUE,Dimensity 8350 Ultimate,dimensity,Octa Core,3.35,8,256,5500,45W,6.78,1224 x 2720 ,144,2,1,108,13,0,android,Mid-Range
+motorola,Motorola Edge 60 Fusion 5G (12GB RAM + 256GB),25839,68,TRUE,FALSE,FALSE,Dimensity 7400,dimensity,Octa Core,2.5,12,256,5500,68W,6.7,1220 x 2712 ,120,2,1,50,32,1 TB,android,Mid-Range
+realme,Realme Neo 8,42990,76,TRUE,TRUE,TRUE,Snapdragon 8 Gen5,snapdragon,Octa Core,3.8,12,256,8000,80W,6.78,1272 x 2772 ,165,3,1,50,16,0,android,Premium
+xiaomi,Xiaomi Redmi Turbo 4 Pro,34990,76,TRUE,TRUE,TRUE,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,12,256,7550,90W,6.83,1280 x 2772 ,120,2,1,50,20,0,android,Premium
+realme,Realme 16T 5G,24999,63,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,8000,45W,6.8,720 x 1570 ,144,2,1,50,16,2 TB,android,Mid-Range
+nothing,Nothing Phone 5a,39990,77,TRUE,TRUE,FALSE,,,Octa Core,,8,128,5400,50W,6.83,1224 x 2720 ,144,3,1,508,50,0,android,Premium
+samsung,Samsung Galaxy S26 Ultra (12GB RAM + 512GB),144999,94,TRUE,TRUE,FALSE,Snapdragon 8 Elite Gen 5 for Galaxy,snapdragon,Octa Core,4.74,12,512,5000,60W,6.9,1440 x 3120 ,120,4,1,200,12,0,android,Flagship
+xiaomi,Xiaomi Redmi Note 15 Pro Plus,39999,79,TRUE,TRUE,TRUE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,8,256,6500,100W,6.83,1280 x 2772 ,120,2,1,200,32,0,android,Premium
+oppo,Oppo A6 5G,23699,58,TRUE,TRUE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,7000,45W,6.75,720 x 1570 ,120,2,1,50,8,Not Specified,android,Mid-Range
+realme,Realme 15x 5G,18999,59,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,7000,60W,6.81,720 x 1570 ,144,2,1,50,50,0,android,Mid-Range
+itel,itel Super 26 Ultra,9999,49,FALSE,TRUE,TRUE,Unisoc T7300,unisoc,Octa Core,2.2,8,128,6000,18W,6.8,1080 x 2436 ,144,2,1,50,32,0,android,Budget
+infinix,Infinix HOT 70,12990,59,TRUE,FALSE,FALSE,Dimensity 7050,dimensity,Octa Core,2.6,6,128,5800,33W,6.78,720 x 1600 ,120,2,1,50,16,2 TB,android,Budget
+google,Google Pixel 10 Pro,109999,81,TRUE,TRUE,FALSE,Tensor G5,tensor,Octa Core,3.78,16,256,4870,30W,6.3,1280 x 2856 ,120,3,1,50,42,0,android,Flagship
+vivo,Vivo T4R 5G (8GB RAM + 256GB),24999,66,TRUE,FALSE,FALSE,Dimensity 7400,dimensity,Octa Core,2.6,8,256,5700,44W,6.77,1080 x 2392 ,120,2,1,50,32,0,android,Mid-Range
+vivo,Vivo V60 Lite 5G,24990,67,TRUE,TRUE,FALSE,Dimensity 7360 Turbo,dimensity,Octa Core,2.5,8,256,6500,90W,6.77,1080 x 2392 ,120,2,1,50,32,0,android,Mid-Range
+samsung,Samsung Galaxy F36 5G (8GB RAM + 128GB),20989,63,TRUE,TRUE,FALSE,Exynos 1380,exynos,Octa Core,2.4,8,128,5000,25W,6.7,1080 x 2340 ,120,3,1,50,13,2 TB,android,Mid-Range
+tecno,Tecno Spark 40 Pro Plus,17999,59,FALSE,TRUE,TRUE,Helio G200,helio,Octa Core,2.2,8,128,5200,45W,6.78,1220 x 2712 ,144,1,1,50,13,Not Specified,android,Mid-Range
+infinix,Infinix Note 50X 5G (8GB RAM + 128 GB),14999,57,TRUE,FALSE,TRUE,Dimensity 7300 Ultimate,dimensity,Octa Core,2.5,8,128,5500,45W,6.67,720 x 1600 ,120,2,1,50,8,0,android,Budget
+vivo,Vivo V50 5G,34999,68,TRUE,FALSE,FALSE,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8,128,6000,90W,6.77,1080 x 2392 ,120,2,1,50,50,0,android,Premium
+nubia,Nubia Z70 Ultra,53990,80,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12,256,6150,80W,6.85,1216 x 2688 ,144,3,1,64,16,0,android,Premium
+vivo,Vivo Y300t,13990,58,TRUE,TRUE,TRUE,Dimensity 7300,dimensity,Octa Core,2.5,8,128,6500,44W,6.72,1080 x 2408 ,120,2,1,50,8,0,android,Budget
+ai+,Ai+ Nova 2 Neo 5G (6GB RAM + 128GB),13999,53,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,6000,0,6.75,720 x 1600 ,120,1,1,48,8,2 TB,android,Budget
+oneplus,OnePlus Nord CE 6 Lite 5G (8GB RAM + 256GB),30999,66,TRUE,FALSE,TRUE,Dimensity 7400 Apex,dimensity,Octa Core,2.6,8,256,7000,45W,6.72,1080 x 2400 ,144,2,1,50,8,2 TB,android,Premium
+oneplus,OnePlus Nord CE 6 Lite 5G (8GB RAM + 128GB),27999,64,TRUE,FALSE,TRUE,Dimensity 7400 Apex,dimensity,Octa Core,2.6,8,128,7000,45W,6.72,1080 x 2400 ,144,2,1,50,8,2 TB,android,Mid-Range
+nubia,Nubia Air Pro,47999,64,TRUE,TRUE,FALSE,Dimensity 7100,dimensity,Octa Core,2.4,8,256,5000,45W,6.77,1224 x 2720 ,60,2,1,108,32,0,android,Premium
+iqoo,iQOO Z11i,18990,62,TRUE,TRUE,TRUE,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8,256,9020,90W,6.83,1260 x 2800 ,144,1,1,13,5,0,android,Mid-Range
+motorola,Motorola Edge 70 Fusion 5G (12GB RAM + 512GB),36999,74,TRUE,TRUE,FALSE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,12,512,7000,68W,6.78,1272 x 2772 ,144,3,1,50,32,0,android,Premium
+sony,Sony Xperia 1 VIII,149990,81,TRUE,TRUE,FALSE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,256,5000,30W,6.5,1080 x 2340 ,120,3,1,48,12,0,android,Flagship
+iqoo,iQOO Z11x 5G (8GB RAM + 256GB),26999,66,TRUE,FALSE,TRUE,Dimensity 7400 Turbo,dimensity,Octa Core,2.6,8,256,7200,44W,6.76,1080 x 2344 ,120,2,1,50,32,0,android,Mid-Range
+apple,Apple iPhone 17e,61990,63,TRUE,TRUE,FALSE,Apple A19,apple,Hexa Core,,8,256,4005,0,6.1,1170 x 2532 ,60,1,1,48,12,0,ios,Flagship
+vivo,Vivo V70 Elite,58999,83,TRUE,TRUE,TRUE,Snapdragon 8s Gen3,snapdragon,Octa Core,3,8,256,6500,90W,6.59,1260 x 2750 ,120,3,1,50,50,0,android,Premium
+honor,Honor 600 Lite 5G,30999,66,TRUE,TRUE,FALSE,Dimensity 7100,dimensity,Octa Core,2.4,8,256,6520,45W,6.6,1200 x 2600 ,120,2,1,108,16,0,android,Premium
+oppo,Oppo A6 Pro 5G,26999,62,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,7000,80W,6.75,720 x 1570 ,120,2,1,50,16,0,android,Mid-Range
+xiaomi,Xiaomi Redmi Turbo 5 Max,44999,77,TRUE,TRUE,TRUE,Dimensity 9500s,dimensity,Octa Core,3.73,12,256,9000,100W,6.83,1280 x 2772 ,120,2,1,50,20,0,android,Premium
+iqoo,iQOO 15 (16GB RAM + 512GB),82999,95,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,16,512,7000,100W,6.85,1440 x 3168 ,144,3,1,50,32,0,android,Flagship
+realme,Realme GT 8 Pro (16GB RAM + 512GB),78999,95,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,16,512,7000,120W,6.79,1440 x 3136 ,144,3,1,200,32,0,android,Flagship
+vivo,Vivo V60e,31999,75,TRUE,TRUE,TRUE,Dimensity 7360 Turbo,dimensity,Octa Core,2.5,8,128,6500,90W,6.77,1080 x 2392 ,120,2,1,200,50,0,android,Premium
+oppo,Oppo K13 Turbo Pro (12GB+256GB),33999,72,TRUE,FALSE,TRUE,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,12,256,7000,80W,6.8,1280 x 2800 ,120,2,1,50,16,0,android,Premium
+realme,Realme GT 8T,36999,75,TRUE,TRUE,FALSE,,,Octa Core,,8,256,7000,120W,6.8,1280 x 2800 ,120,2,1,50,32,0,android,Premium
+vivo,Vivo T4 5G (8GB RAM + 256GB),26999,67,TRUE,FALSE,TRUE,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,8,256,7300,90W,6.77,1080 x 2392 ,120,2,1,50,32,0,android,Mid-Range
+oppo,OPPO Reno 13 5G,34899,71,TRUE,TRUE,TRUE,Dimensity 8350,dimensity,Octa Core,3.35,8,128,5600,80W,6.59,1256 x 2760 ,120,3,1,50,50,0,android,Premium
+samsung,Samsung Galaxy A27 (8GB RAM + 128GB),31999,61,TRUE,TRUE,FALSE,Snapdragon 6 Gen3,snapdragon,Octa Core,2.4,8,128,5000,25W,6.7,1080 x 2340 ,120,3,1,50,12,2 TB,android,Premium
+vivo,Vivo Y28e 5G,11499,49,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,5000,15W,6.56,720 x 1612 ,90,2,1,13,5,1 TB,android,Budget
+oneplus,OnePlus Nord CE 4 Lite 5G,19999,63,TRUE,FALSE,FALSE,Snapdragon 695,snapdragon,Octa Core,2.2,8,128,5500,80W,6.67,1080 x 2400 ,120,2,1,50,16,2 TB,android,Mid-Range
+oppo,Oppo F27 Pro Plus 5G,29990,64,TRUE,FALSE,FALSE,Dimensity 7050,dimensity,Octa Core,2.6,8,256,5000,67W,6.7,1080 x 2412 ,120,2,1,64,8,0,android,Mid-Range
+samsung,Samsung Galaxy S26 Ultra (16GB RAM + 1TB),174999,97,TRUE,TRUE,FALSE,Snapdragon 8 Elite Gen 5 for Galaxy,snapdragon,Octa Core,4.74,16,1024,5000,60W,6.9,1440 x 3120 ,120,4,1,200,12,0,android,Flagship
+vivo,Vivo V70 5G (12GB RAM + 256GB),56999,84,TRUE,TRUE,TRUE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,12,256,6500,90W,6.59,1260 x 2750 ,120,3,1,50,50,0,android,Premium
+oppo,OPPO K14x 5G  (6GB RAM + 128GB),18479,55,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,6500,45W,6.75,720 x 1570 ,120,2,1,50,5,0,android,Mid-Range
+motorola,Motorola Edge 60 Fusion 5G (8GB RAM + 128GB),23999,67,TRUE,FALSE,FALSE,Dimensity 7400,dimensity,Octa Core,2.6,8,128,5500,68W,6.7,1220 x 2712 ,120,2,1,50,32,1 TB,android,Mid-Range
+realme,Realme 17 Pro 5G,33990,75,TRUE,FALSE,FALSE,,,Octa Core,,8,128,7500,100W,6.83,1272 x 2772 ,144,2,1,200,50,0,android,Premium
+motorola,Motorola Signature (16GB RAM + 512GB),62990,94,TRUE,TRUE,FALSE,Snapdragon 8 Gen5,snapdragon,Octa Core,3.8,16,512,5200,90W,6.8,1264 x 2780 ,165,3,1,50,50,0,android,Flagship
+samsung,Samsung Galaxy Z Fold 8,179999,90,TRUE,TRUE,FALSE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,256,4800,25W,7.6,1968 x 2184 ,120,3,2,50,12,0,android,Flagship
+oppo,Oppo K13 (8GB RAM + 256GB),24999,63,TRUE,FALSE,TRUE,Snapdragon 6 Gen4,snapdragon,Octa Core,2.3,8,256,7000,80W,6.67,1080 x 2400 ,120,2,1,50,16,0,android,Mid-Range
+infinix,Infinix Note 50s 5G,21999,63,TRUE,FALSE,TRUE,Dimensity 7300 Ultimate,dimensity,Octa Core,2.5,8,128,5500,45W,6.78,1080 x 2436 ,144,2,1,64,13,0,android,Mid-Range
+nothing,Nothing Phone 3a Pro (8GB RAM + 256GB),29999,67,TRUE,TRUE,FALSE,Snapdragon 7s Gen 3,snapdragon,Octa Core,2.5,8,256,5000,50W,6.77,1080 x 2392 ,120,3,1,50,50,0,android,Mid-Range
+poco,Poco C75 5G,10999,50,TRUE,FALSE,FALSE,Snapdragon 4s Gen2,snapdragon,Octa Core,2,4,64,5160,18W,6.88,720 x 1650 ,120,2,1,50,5,1 TB,android,Budget
+oneplus,OnePlus Turbo 6X Pro,29990,72,TRUE,TRUE,TRUE,Dimensity 7400 Super,dimensity,Octa Core,2.6,8,128,8000,80W,6.78,1272 x 2772 ,144,2,1,50,16,0,android,Mid-Range
+motorola,Motorola Moto G67 Power 5G (12GB RAM + 256GB),25668,63,TRUE,FALSE,FALSE,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,12,256,7000,30W,6.7,1080 x 2400 ,120,2,1,50,32,0,android,Mid-Range
+vivo,Vivo T5 Pro 5G (12GB RAM + 256GB),39999,76,TRUE,FALSE,TRUE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,12,256,9020,90W,6.83,1260 x 2800 ,144,2,1,50,32,0,android,Premium
+oppo,OPPO F33 Pro 5G,35999,67,TRUE,FALSE,TRUE,Dimensity 6360 MAX,dimensity,Octa Core,2.4,8,128,7000,80W,6.57,1080 x 2372 ,120,2,1,50,50,0,android,Premium
+tecno,Tecno Pova 8 Pro 5G,22999,66,TRUE,TRUE,TRUE,Dimensity 7400 Ultimate,dimensity,Octa Core,,8,128,7000,45W,6.78,1224 x 2720 ,144,2,1,50,16,0,android,Mid-Range
+oppo,OPPO K14 5G (8GB RAM + 256GB),24870,63,TRUE,TRUE,TRUE,Dimensity 6300,dimensity,Octa Core,2.4,8,256,7000,45W,6.75,720 x 1570 ,120,2,1,50,8,0,android,Mid-Range
+tecno,Tecno Pova 8 5G,29999,63,TRUE,TRUE,TRUE,Dimensity 7100,dimensity,Octa Core,2.4,6,128,8000,0,6.76,1080 x 2344 ,144,2,1,50,13,1 TB,android,Mid-Range
+vivo,Vivo X500,57990,83,TRUE,TRUE,TRUE,Dimensity 9600,dimensity,Octa Core,,12,256,7500,90W,6.67,1216 x 2640 ,120,3,1,200,50,0,android,Premium
+samsung,Samsung Galaxy A17 5G (8GB RAM + 128GB),21000,59,TRUE,TRUE,FALSE,Exynos 1330,exynos,Octa Core,2.4,8,128,5000,25W,6.7,1080 x 2340 ,90,3,1,50,13,2 TB,android,Mid-Range
+vivo,Vivo X200 FE,54999,84,TRUE,TRUE,TRUE,Dimensity 9300 Plus,dimensity,Octa Core,3.25,12,256,6500,90W,6.31,1216 x 2640 ,120,3,1,50,50,0,android,Premium
+iqoo,iQOO Z10 Lite,16999,52,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,6000,15W,6.74,720 x 1600 ,90,2,1,50,5,0,android,Mid-Range
+realme,Realme GT 7 (12GB RAM + 512GB),47999,85,TRUE,TRUE,TRUE,Dimensity 9400e,dimensity,Octa Core,3.4,12,512,7000,120W,6.78,1264 x 2780 ,120,3,1,50,32,0,android,Premium
+samsung,Samsung Galaxy A26 5G,22480,64,TRUE,TRUE,FALSE,Exynos 1380,exynos,Octa Core,2.4,8,128,5000,25W,6.7,1080 x 2340 ,120,3,1,50,13,2 TB,android,Mid-Range
+xiaomi,Xiaomi Redmi Note 14 Pro Plus,26999,70,TRUE,FALSE,TRUE,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,8,128,6200,90W,6.67,1220 x 2712 ,120,3,1,50,20,0,android,Mid-Range
+motorola,Motorola Edge 50 5G,22990,70,TRUE,TRUE,FALSE,Snapdragon 7 Gen1 AE,snapdragon,Octa Core,2.5,8,256,5000,68W,6.67,1220 x 2712 ,120,3,1,50,32,0,android,Mid-Range
+samsung,Samsung Galaxy M35 5G,24499,61,TRUE,TRUE,FALSE,Exynos 1380,exynos,Octa Core,2.4,6,128,6000,25W,6.6,1080 x 2340 ,120,3,1,50,13,1 TB,android,Mid-Range
+motorola,Motorola Moto G34 5G (8GB RAM + 128GB),14999,55,TRUE,FALSE,FALSE,Snapdragon 695,snapdragon,Octa Core,2.2,8,128,5000,18W,6.5,720 x 1600 ,120,2,1,50,16,1 TB,android,Budget
+iqoo,iQOO Neo 12,49990,81,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,256,7500,100W,6.78,1260 x 2800 ,144,2,1,50,16,0,android,Premium
+oppo,Oppo Find X9s,79999,84,TRUE,TRUE,TRUE,Dimensity 9500s,dimensity,Octa Core,3.73,12,256,7025,80W,6.59,1216 x 2640 ,120,3,1,50,32,0,android,Flagship
+vivo,Vivo X300 FE (12GB RAM + 512GB),96999,92,TRUE,TRUE,TRUE,Snapdragon 8 Gen5,snapdragon,Octa Core,3.8,12,512,6500,90W,6.31,1216 x 2640 ,120,3,1,50,50,0,android,Flagship
+motorola,Motorola Edge 70 Pro 5G (12GB RAM + 256GB),42389,83,TRUE,TRUE,FALSE,Dimensity 8500 Extreme,dimensity,Octa Core,3.4,12,256,6500,90W,6.8,1272 x 2772 ,144,2,1,50,50,0,android,Premium
+realme,Realme Narzo 100 Lite,14749,50,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,64,7000,15W,6.8,720 x 1570 ,144,2,1,13,5,2 TB,android,Budget
+honor,Honor 600,59999,77,TRUE,TRUE,TRUE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,8,128,8600,80W,6.57,1264 x 2728 ,120,2,1,200,50,0,android,Premium
+xiaomi,Xiaomi 17 5G,89998,94,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,512,6330,100W,6.3,1220 x 2656 ,120,3,1,50,50,0,android,Flagship
+xiaomi,Xiaomi Redmi 16C 5G,13999,54,TRUE,FALSE,FALSE,,,Octa Core,,4,128,6500,33W,6.91,720 x 1600 ,120,2,1,50,16,1 TB,android,Budget
+vivo,Vivo X300 (12GB RAM + 512GB),81999,86,TRUE,TRUE,TRUE,Dimensity 9500,dimensity,Octa Core,4.21,12,512,6040,90W,6.31,1216 x 2640 ,120,3,1,200,50,0,android,Flagship
+vivo,Vivo X Fold 6,159999,94,TRUE,TRUE,TRUE,Dimensity 9500,dimensity,Octa Core,4.21,12,256,7000,80W,8.02,2312 x 2504 ,120,3,2,200,20,0,android,Flagship
+oneplus,OnePlus 16R 5G,50999,79,TRUE,TRUE,TRUE,,,Octa Core,,12,256,7500,120W,6.82,1264 x 2780 ,165,3,1,50,32,0,android,Premium
+xiaomi,Xiaomi Redmi 15 5G (8GB RAM + 256GB),19999,62,TRUE,FALSE,TRUE,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,8,256,7000,33W,6.9,1080 x 2340 ,144,2,1,50,8,1 TB,android,Mid-Range
+red,Red Magic 11 Pro,60990,86,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,256,8000,80W,6.85,1216 x 2688 ,144,3,1,50,16,0,android,Flagship
+google,Google Pixel 10 Pro XL,118999,84,TRUE,TRUE,FALSE,Tensor G5,tensor,Octa Core,3.78,16,256,5200,45W,6.8,1344 x 2992 ,120,3,1,50,42,0,android,Flagship
+vivo,Vivo V60 5G (8GB RAM + 256GB),38999,77,TRUE,TRUE,TRUE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,8,256,6500,90W,6.77,1080 x 2392 ,120,3,1,50,50,0,android,Premium
+honor,Honor Play 10C,7999,45,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,6000,15W,6.61,720 x 1604 ,120,1,1,13,5,0,android,Budget
+samsung,Samsung Galaxy M36 5G (8GB RAM + 128GB),20999,59,TRUE,FALSE,FALSE,Exynos 1380,exynos,Octa Core,2.4,8,128,5000,25W,6.7,1080 x 2340 ,120,3,1,50,13,0,android,Mid-Range
+vivo,Vivo T4 Ultra (12GB RAM+ 512GB),39999,76,TRUE,TRUE,FALSE,Dimensity 9300 Plus,dimensity,Octa Core,3.25,12,512,5500,90W,6.67,1260 x 2800 ,120,3,1,50,32,0,android,Premium
+vivo,Vivo T4 Ultra,41999,74,TRUE,TRUE,FALSE,Dimensity 9300 Plus,dimensity,Octa Core,3.25,8,256,5500,90W,6.67,1260 x 2800 ,120,3,1,50,32,0,android,Premium
+apple,Apple iPhone 16 Plus,73999,70,TRUE,TRUE,FALSE,Bionic A18,bionic,Hexa Core,4.04,128,,4674,0,6.7,1290 x 2796 ,60,2,1,48,12,0,ios,Flagship
+infinix,Infinix Note 50 Pro Plus 5G,31990,79,TRUE,TRUE,TRUE,Dimensity 8350,dimensity,Octa Core,3.35,12,256,5200,100W,6.78,1080 x 2436 ,144,3,1,50,32,0,android,Premium
+google,Google Pixel 8 Pro,49999,74,TRUE,TRUE,FALSE,Tensor G3,tensor,Nine Core,3,12,128,5050,30W,6.7,1344 x 2992 ,120,3,1,50,10.5,0,android,Premium
+apple,Apple iPhone 18 Pro Max,179900,76,TRUE,TRUE,FALSE,Apple A20 Pro,apple,,,12,256,5200,0,6.9,1320 x 2868 ,120,3,1,50,24,0,ios,Flagship
+tecno,Tecno Spark 50 5G,18890,54,TRUE,FALSE,TRUE,Dimensity 6400,dimensity,Octa Core,2.5,4,128,6500,45W,6.78,720 x 1576 ,120,1,1,50,8,Not Specified,android,Mid-Range
+vivo,Vivo Y11 5G (4GB RAM + 128GB),18999,50,TRUE,FALSE,TRUE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,6500,15W,6.74,720 x 1600 ,120,2,1,13,5,2 TB,android,Mid-Range
+poco,Poco X8 Pro Max 5G (12GB RAM + 512GB),48999,84,TRUE,FALSE,TRUE,Dimensity 9500s,dimensity,Octa Core,3.73,12,512,9000,100W,6.83,1280 x 2772 ,120,2,1,50,20,0,android,Premium
+vivo,Vivo V80 Elite 5G,52990,86,TRUE,TRUE,TRUE,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,8,256,7000,100W,6.67,1260 x 2750 ,144,3,1,50,50,0,android,Premium
+nothing,Nothing Phone 4a (8GB RAM + 256GB),36999,71,TRUE,FALSE,FALSE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,8,256,5400,50W,6.78,1224 x 2720 ,120,3,1,50,32,0,android,Premium
+realme,Realme C83 5G,15344,52,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,64,7000,15W,6.8,720 x 1570 ,144,1,1,13,5,2 TB,android,Mid-Range
+infinix,Infinix Note Edge 5G,22999,66,TRUE,TRUE,TRUE,Dimensity 7100,dimensity,Octa Core,2.4,6,128,6500,45W,6.78,1208 x 2644 ,120,2,1,50,13,0,android,Mid-Range
+vivo,Vivo V70 5G (12GB RAM + 512GB),54999,84,TRUE,TRUE,TRUE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,12,512,6500,90W,6.59,1260 x 2750 ,120,3,1,50,50,0,android,Premium
+nothing,Nothing Phone 3a Lite (8GB RAM + 256GB),24999,64,TRUE,TRUE,FALSE,Dimensity 7300 Pro,dimensity,Octa Core,2.5,8,256,5000,33W,6.77,1084 x 2392 ,120,3,1,50,16,2 TB,android,Mid-Range
+samsung,Samsung Galaxy F07,9900,45,FALSE,FALSE,FALSE,Helio G99,helio,Octa Core,2.2,4,64,5000,25W,6.7,720 x 1600 ,60,2,1,50,8,Not Specified,android,Budget
+tecno,Tecno Spark 40,10999,50,FALSE,FALSE,TRUE,Helio G81,helio,Octa Core,2,4,128,5200,45W,6.67,720 x 1600 ,120,1,1,50,8,Not Specified,android,Budget
+xiaomi,Xiaomi Redmi 14C 5G,16442,53,TRUE,FALSE,FALSE,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,4,64,5160,18W,6.88,720 x 1640 ,120,2,1,50,8,1 TB,android,Mid-Range
+xiaomi,Xiaomi Redmi Note 14 Pro 5G,24490,62,TRUE,FALSE,TRUE,Dimensity 7300 Ultra,dimensity,Octa Core,2.5,8,128,5500,45W,6.67,1220 x 2712 ,120,3,1,50,20,0,android,Mid-Range
+vivo,Vivo X200 5G,61999,80,TRUE,TRUE,TRUE,Dimensity 9400,dimensity,Octa Core,3.63,12,256,5800,90W,6.67,1260 x 2800 ,120,3,1,50,32,0,android,Flagship
+xiaomi,Xiaomi Redmi A5 5G,9990,52,TRUE,TRUE,FALSE,Snapdragon 4 Gen3,snapdragon,Octa Core,,4,128,5500,33W,6.78,1080 x 2400 ,120,3,1,50,8,1 TB,android,Budget
+motorola,Motorola Edge 50 Fusion,20849,67,TRUE,TRUE,FALSE,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,8,128,5000,68W,6.67,1080 x 2400 ,144,2,1,50,32,0,android,Mid-Range
+google,Google Pixel 8 5G,38499,66,TRUE,TRUE,FALSE,Tensor G3,tensor,Nine Core,3,8,128,4575,30W,6.2,1080 x 2400 ,120,2,1,50,10.5,0,android,Premium
+samsung,Samsung Galaxy S22 5G,37880,74,TRUE,TRUE,FALSE,Snapdragon  8 Gen1,snapdragon,Octa Core,3,8,128,3700,25W,6.1,1080 x 2340 ,120,3,1,50,10,0,android,Premium
+xiaomi,Xiaomi Redmi Note 17 5G,34990,71,TRUE,TRUE,TRUE,Snapdragon 6 Gen 5,snapdragon,Octa Core,,8,128,9000,55W,6.77,1080 x 2392 ,144,2,1,50,32,1 TB,android,Premium
+oneplus,OnePlus 15R (16GB RAM + 512GB),61999,85,TRUE,TRUE,TRUE,Snapdragon 8 Gen5,snapdragon,Octa Core,3.8,16,512,7400,80W,6.83,1272 x 2800 ,165,2,1,50,32,0,android,Flagship
+huawei,Huawei Pura X Max,149990,84,TRUE,TRUE,TRUE,Kirin 9030,kirin,,2.75,12,256,5300,66W,7.7,1828 x 2584 ,120,3,2,50,8,0,other,Flagship
+xiaomi,Xiaomi Redmi Note 15 SE 5G (8GB RAM + 128GB),22716,66,TRUE,FALSE,TRUE,Snapdragon 6 Gen3,snapdragon,Octa Core,2.4,8,128,5800,45W,6.77,2392 x 1080 ,120,2,1,50,20,1 TB,android,Mid-Range
+poco,Poco C85x,13146,53,TRUE,FALSE,FALSE,Unisoc T8300,unisoc,Octa Core,2.2,4,64,6300,15W,6.9,720 x 1600 ,120,1,1,32,8,2 TB,android,Budget
+oppo,OPPO A6x 5G (6GB RAM + 128GB),20999,53,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,6500,45W,6.75,720 x 1570 ,120,1,1,13,5,0,android,Mid-Range
+samsung,Samsung Galaxy M17 5G (8GB RAM + 128GB),18499,57,TRUE,TRUE,FALSE,Exynos 1330,exynos,Octa Core,2.4,8,128,5000,25W,6.7,1080 x 2340 ,90,3,1,50,13,2 TB,android,Mid-Range
+honor,Honor X9d,31990,68,TRUE,TRUE,TRUE,Snapdragon 6 Gen4,snapdragon,Octa Core,2.3,12,256,8300,66W,6.79,1200 x 2640 ,120,2,1,108,16,0,android,Premium
+hmd,HMD Vibe 5G,9999,48,TRUE,FALSE,FALSE,Unisoc T760,unisoc,Octa Core,,4,128,5000,18W,6.67,720 x 1604 ,90,2,1,50,8,0,android,Budget
+oppo,Oppo F31 5G,26498,64,TRUE,FALSE,TRUE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,7000,80W,6.57,1080 x 2412 ,120,2,1,50,16,0,android,Mid-Range
+vivo,Vivo Y31 5G (6GB RAM + 128GB),21499,58,TRUE,FALSE,FALSE,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,6,128,6500,44W,6.68,720 x 1608 ,120,1,1,50,8,0,android,Mid-Range
+infinix,Infinix GT 30 5G (8GB RAM+ 256GB),22999,66,TRUE,FALSE,TRUE,Dimensity 7400,dimensity,Octa Core,2.6,8,256,5500,45W,6.78,1224 x 2720 ,144,2,1,64,13,0,android,Mid-Range
+nubia,Nubia Z80 Ultra,61990,84,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,512,7200,90W,6.85,1216 x 2688 ,144,3,1,64,16,0,android,Flagship
+infinix,Infinix Hot 60 5G,17999,57,TRUE,FALSE,FALSE,Dimensity 7020,dimensity,Octa Core,2.2,6,128,5200,18W,6.7,720 x 1600 ,120,2,1,50,8,2 TB,android,Mid-Range
+bluefox,Bluefox NX1,8699,37,FALSE,FALSE,TRUE,Helio G81,helio,Octa Core,2,4,64,3000,,4,540 x 1168 ,60,1,1,48,5,2 TB,android,Budget
+iqoo,iQOO 15 Ultra,99990,88,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,16,256,7400,100W,6.85,1440 x 3168 ,144,3,1,50,32,0,android,Flagship
+realme,Realme C75 5G,15999,52,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,6000,45W,6.67,720 x 1604 ,120,1,1,32,8,0,android,Mid-Range
+nothing,Nothing Phone 3a (12GB RAM + 256GB),28999,68,TRUE,TRUE,FALSE,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,12,256,5000,50W,6.77,1080 x 2392 ,120,3,1,50,32,0,android,Mid-Range
+iqoo,iQOO Neo 11R,29990,71,TRUE,TRUE,TRUE,,,Octa Core,,12,256,6700,100W,6.78,1260 x 2800 ,144,2,1,50,32,0,android,Mid-Range
+vivo,Vivo Y04,8990,41,FALSE,FALSE,FALSE,Unisoc T7225,unisoc,Octa Core,2,4,64,5000,18W,6.74,720 x 1600 ,90,2,1,13,5,1 TB,android,Budget
+vivo,Vivo V40 5G,34999,70,TRUE,FALSE,FALSE,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8,128,5500,80W,6.78,1260 x 2800 ,120,2,1,50,50,0,android,Premium
+honor,Honor 200,29999,66,TRUE,TRUE,FALSE,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8,256,5200,100W,6.7,1200 x 2664 ,120,3,1,50,50,0,android,Mid-Range
+infinix,Infinix Smart 8 (8GB RAM + 128 GB),8999,49,FALSE,FALSE,FALSE,Helio G36,helio,Octa Core,2.2,8,128,5000,10W,6.6,720 x 1612 ,90,2,1,50,8,2 TB,android,Budget
+oneplus,OnePlus 12 5G,50598,79,TRUE,TRUE,TRUE,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,12,256,5400,100W,6.82,1440 x 3168 ,120,3,1,64,32,0,android,Premium
+apple,Apple iPhone 15 (256GB),66400,66,TRUE,TRUE,FALSE,Bionic A16,bionic,Hexa Core,3.46,6,256,3349,0,6.1,1179 x 2556 ,60,2,1,48,12,0,ios,Flagship
+motorola,Motorola Moto G37 Power (8GB RAM + 128GB),20335,58,TRUE,FALSE,FALSE,Dimensity 6400,dimensity,Octa Core,2.5,8,128,7000,30W,6.67,1604 x 720 ,120,1,1,50,8,1 TB,android,Mid-Range
+iqoo,iQOO Neo 11S,39990,80,TRUE,TRUE,TRUE,Dimensity 9500,dimensity,Octa Core,4.32,12,256,7500,100W,6.78,1260 x 2800 ,144,2,1,50,16,0,android,Premium
+tecno,Tecno Spark 50 4G,13990,50,FALSE,TRUE,TRUE,Helio G81,helio,Octa Core,2,4,128,7000,18W,6.78,720 x 1600 ,120,1,1,50,8,Not Specified,android,Budget
+tecno,Tecno Camon Slim,22999,59,TRUE,TRUE,TRUE,Helio G200 Ultimate,helio,Octa Core,2.2,8,128,5600,60W,6.78,1224 x 2720 ,144,1,1,50,32,0,android,Mid-Range
+oppo,OPPO K15 Pro,42999,75,TRUE,TRUE,TRUE,Dimensity 8500,dimensity,Octa Core,3.4,12,256,7500,80W,6.59,1256 x 2760 ,144,2,1,50,16,0,android,Premium
+nothing,Nothing Phone (4a) Pro (12GB RAM + 256GB),55999,77,TRUE,TRUE,FALSE,Snapdragon 7 Gen 4,snapdragon,Octa Core,2.8,12,256,5400,50W,6.83,1260 x 2800 ,144,3,1,50,32,0,android,Premium
+xiaomi,Xiaomi 17 Ultra,139998,97,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,16,512,6000,90W,6.9,1200 x 2608 ,120,3,1,200,50,0,android,Flagship
+realme,Realme Narzo Power 5G,26999,74,TRUE,FALSE,TRUE,Dimensity 7400 Ultra,dimensity,Octa Core,2.6,8,128,10001,80W,6.8,1280 x 2800 ,144,2,1,50,16,0,android,Mid-Range
+vivo,Vivo T4 Lite 5G (4GB RAM + 64GB),14499,52,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,64,6000,15W,6.74,720 x 1600 ,90,2,1,50,5,2 TB,android,Budget
+samsung,Samsung Galaxy M18 5G,19990,55,TRUE,TRUE,FALSE,,,Octa Core,,8,128,5500,25W,6.74,1080 x 2340 ,90,3,1,50,16,2 TB,android,Mid-Range
+apple,Apple iPhone Air,89999,64,TRUE,TRUE,FALSE,Apple A19 Pro,apple,Hexa Core,,8,256,3149,0,6.5,1260 x 2736 ,60,1,1,48,18,0,ios,Flagship
+realme,Realme P5 Pro 5G,34999,71,TRUE,FALSE,FALSE,,,Octa Core,,8,256,10000,100W,6.82,1264 x 2780 ,144,3,1,50,50,0,android,Premium
+oppo,OPPO K13x 5G (6GB RAM +128GB),16999,54,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,6000,45W,6.67,720 x 1604 ,120,2,1,50,8,2 TB,android,Mid-Range
+tecno,Tecno Pova 7 Ultra,22990,68,TRUE,TRUE,TRUE,Dimensity 8350,dimensity,Octa Core,3.35,8,256,6000,70W,6.67,1260 x 2800 ,144,2,1,108,13,0,android,Mid-Range
+realme,Realme Narzo 80 Pro 5G (8GB RAM + 256GB),23999,64,TRUE,FALSE,FALSE,Dimensity 7400,dimensity,Octa Core,2.6,8,256,6000,80W,6.72,1080 x 2392 ,120,2,1,50,16,0,android,Mid-Range
+samsung,Samsung Galaxy F16 5G (8GB RAM + 128GB),15499,55,TRUE,TRUE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,5000,25W,6.7,1080 x 2340 ,90,3,1,50,13,1.5 TB,android,Mid-Range
+samsung,Samsung Galaxy A06 5G,12795,52,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,64,5000,25W,6.7,720 x 1600 ,90,2,1,50,8,1 TB,android,Budget
+xiaomi,Xiaomi Redmi Turbo 4,23990,71,TRUE,TRUE,TRUE,Dimensity 8400 Ultra,dimensity,Octa Core,3.25,12,256,6550,90W,6.67,1220 x 2712 ,120,2,1,50,20,0,android,Mid-Range
+xiaomi,Xiaomi Redmi 13 5G (8GB RAM + 128GB),19945,59,TRUE,FALSE,TRUE,Snapdragon 4 Gen 2 AE,snapdragon,Octa Core,2.3,8,128,5030,33W,6.79,1080 x 2460 ,120,2,1,108,13,1 TB,android,Mid-Range
+infinix,Infinix Smart 8 HD,6699,41,FALSE,FALSE,FALSE,Unisoc T606,unisoc,Octa Core,1.6,3,64,5000,10W,6.6,720 x 1612 ,90,2,1,13,8,2 TB,android,Budget
+google,Google Pixel 7A,27499,63,TRUE,TRUE,FALSE,Tensor G2,tensor,Octa Core,2.85,8,128,4385,18W,6.1,1080 x 2400 ,90,2,1,64,13,0,android,Mid-Range
+oppo,Oppo A6c 4G,13999,44,FALSE,FALSE,FALSE,Unisoc T7250,unisoc,Octa Core,1.8,4,64,7000,15W,6.75,720 x 1570 ,120,1,1,13,5,0,android,Budget
+poco,Poco X9 Pro,34990,71,TRUE,FALSE,TRUE,Dimensity 9500,dimensity,Octa Core,,8,256,7000,120W,6.67,2756 x 1268 ,144,2,1,50,32,0,android,Premium
+vivo,Vivo S2,19990,54,TRUE,FALSE,TRUE,,,Octa Core,,6,128,7000,44W,6.72,1080 x 2408 ,120,2,1,50,8,0,android,Mid-Range
+vivo,Vivo X500 Pro Max,139990,89,TRUE,TRUE,TRUE,Dimensity 9600 Pro,dimensity,Octa Core,,16,512,8000,100W,6.85,1260 x 2800 ,120,3,1,200,50,0,android,Flagship
+vivo,Vivo Y05,14999,45,FALSE,FALSE,FALSE,Unisoc T7225,unisoc,Octa Core,2,4,64,6500,15W,6.74,720 x 1600 ,120,1,1,8,5,2 TB,android,Budget
+ai+,Ai+ Nova 2 Ultra 5G (8GB RAM + 128GB),22999,61,TRUE,FALSE,FALSE,Dimensity 7400,dimensity,Octa Core,2.6,8,128,6000,0,6.78,2772 x 1272 ,120,2,1,50,13,1 TB,android,Mid-Range
+samsung,Samsung Galaxy A57 (12GB RAM + 256GB),53990,75,TRUE,TRUE,FALSE,Exynos 1680,exynos,Octa Core,2.9,12,256,5000,45W,6.7,1080 x 2340 ,120,3,1,50,12,0,android,Premium
+lava,Lava Bold 2 5G,15999,57,TRUE,FALSE,FALSE,Dimensity 7060,dimensity,Octa Core,2.6,6,128,5000,33W,6.67,1080 x 2400 ,120,2,1,50,8,0,android,Mid-Range
+iqoo,iQOO Z11x 5G (8GB RAM + 128GB),24999,66,TRUE,FALSE,TRUE,Dimensity 7400 Turbo,dimensity,Octa Core,2.6,8,128,7200,44W,6.76,1080 x 2344 ,120,2,1,50,32,0,android,Mid-Range
+samsung,Samsung Galaxy S27 5G,94990,74,TRUE,TRUE,FALSE,Exynos,exynos,Deca Core,,12,256,4400,25W,6.3,1080 x 2340 ,144,3,1,50,12,0,android,Flagship
+iqoo,iQOO 15R (12GB RAM + 256GB),54999,85,TRUE,TRUE,TRUE,Snapdragon 8 Gen5,snapdragon,Octa Core,3.8,12,256,7600,100W,6.59,1260 x 2750 ,144,2,1,50,32,0,android,Premium
+realme,Realme P4 Power 5G (12GB RAM + 256GB),33999,75,TRUE,FALSE,TRUE,Dimensity 7400 Ultra,dimensity,Octa Core,2.6,12,256,10001,80W,6.8,1280 x 2800 ,144,2,1,50,16,0,android,Premium
+oneplus,OnePlus 15s 5G,59999,81,TRUE,TRUE,TRUE,,,Octa Core,,12,256,6500,80W,6.3,1216 x 2640 ,165,2,1,50,50,0,android,Premium
+realme,Realme 16 Pro Plus 5G,43709,79,TRUE,TRUE,TRUE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,8,128,7000,80W,6.8,1280 x 2800 ,144,3,1,200,50,0,android,Premium
+honor,Honor Win,49990,84,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,256,10000,100W,6.83,1272 x 2800 ,185,3,1,50,50,0,android,Premium
+lava,Lava Agni 5,27999,71,TRUE,FALSE,FALSE,,,Octa Core,,8,256,7000,80W,6.78,1220 x 2712 ,144,3,1,50,50,0,android,Mid-Range
+oppo,Oppo F31 Pro 5G (8GB RAM + 256GB),27999,67,TRUE,FALSE,FALSE,Dimensity 7300 Energy,dimensity,Octa Core,2.5,8,256,7000,80W,6.57,1080 x 2372 ,120,2,1,50,32,0,android,Mid-Range
+samsung,Samsung Galaxy S24 5G (Snapdragon +256GB),49499,72,TRUE,TRUE,FALSE,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,8,256,4000,25W,6.2,1080 x 2340 ,120,3,1,50,12,0,android,Premium
+realme,Realme 15T 5G,24999,66,TRUE,FALSE,TRUE,Dimensity 6400 Max,dimensity,Octa Core,2.5,8,128,7000,60W,6.57,1080 x 2372 ,120,2,1,50,50,2 TB,android,Mid-Range
+poco,Poco M7 Plus 5G (8GB RAM + 128GB),16999,59,TRUE,FALSE,TRUE,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,8,128,7000,33W,6.9,1080 x 2340 ,144,1,1,50,8,2 TB,android,Mid-Range
+vivo,Vivo Y400 5G (8GB RAM + 256GB),27999,64,TRUE,FALSE,FALSE,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8,256,6000,90W,6.67,1080 x 2400 ,120,2,1,50,32,0,android,Mid-Range
+vivo,Vivo Y500 Pro 5G,34990,72,TRUE,TRUE,TRUE,Dimensity 7400,dimensity,Octa Core,2.6,8,128,7000,90W,6.67,1260 x 2800 ,120,2,1,200,32,0,android,Premium
+oneplus,OnePlus Nord 5 (12GB RAM + 512GB),49990,80,TRUE,TRUE,TRUE,Snapdragon 8s Gen3,snapdragon,Octa Core,3,12,512,6800,80W,6.83,1272 x 2800 ,144,2,1,50,50,0,android,Premium
+tecno,Tecno Spark 40 Pro,15999,57,FALSE,TRUE,TRUE,Helio G100,helio,Octa Core,2.2,8,128,5200,45W,6.78,1220 x 2712 ,144,1,1,50,13,Not Specified,android,Mid-Range
+oneplus,OnePlus Ace 6,31990,79,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12,256,7800,120W,6.83,1272 x 2800 ,165,2,1,50,16,0,android,Premium
+vivo,Vivo T4 5G (12GB RAM + 256GB),28999,68,TRUE,FALSE,TRUE,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,12,256,7300,90W,6.77,1080 x 2392 ,120,2,1,50,32,0,android,Mid-Range
+samsung,Samsung Galaxy A36 5G (8GB RAM + 256GB),35990,66,TRUE,TRUE,FALSE,Snapdragon 6 Gen3,snapdragon,Octa Core,2.4,8,256,5000,45W,6.7,1080 x 2340 ,120,3,1,50,12,0,android,Premium
+realme,Realme GT 7 Pro (16GB RAM + 512GB),54999,81,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,16,512,5800,120W,6.78,1264 x 2780 ,120,3,1,50,16,0,android,Premium
+google,Google Pixel 11,79990,74,TRUE,TRUE,FALSE,Tensor G6,tensor,Octa Core,,12,128,5000,33W,6.31,1080 x 2424 ,120,3,1,50,12,0,android,Flagship
+vertu,Vertu Metavertu 2,425999,74,TRUE,TRUE,FALSE,Snapdragon 8 Gen2,snapdragon,Octa Core,3.2,12,512,5100,65W,6.78,1260 x 2800 ,120,3,1,50,16,0,android,Flagship
+nothing,Nothing Phone 4,80999,77,TRUE,TRUE,FALSE,,,Octa Core,,12,256,6000,85W,6.67,1260 x 2800 ,120,3,1,50,50,0,android,Flagship
+google,Google Pixel 6A,22499,49,TRUE,TRUE,FALSE,Tensor,tensor,Octa Core,,6,128,4410,0,6.14,1080 x 2400 ,60,2,1,12.2,8,0,android,Mid-Range
+samsung,Samsung Galaxy S22 Ultra 5G,76849,81,TRUE,TRUE,FALSE,Snapdragon 8 Gen1,snapdragon,Octa Core,3,12,256,5000,45W,6.8,1440 x 3080 ,120,4,1,108,40,0,android,Flagship
+xiaomi,Xiaomi Redmi Note 17 Pro,39999,75,TRUE,FALSE,TRUE,Dimensity 7500,dimensity,Octa Core,,8,128,10000,80W,6.83,1280 x 2772 ,144,2,1,200,32,0,android,Premium
+oppo,OPPO K14 5G (6GB RAM + 256GB),21999,62,TRUE,TRUE,TRUE,Dimensity 6300,dimensity,Octa Core,2.4,6,256,7000,45W,6.75,720 x 1570 ,120,2,1,50,8,0,android,Mid-Range
+realme,Realme Narzo Power 5G (8GB RAM +256GB),28999,75,TRUE,FALSE,TRUE,Dimensity 7400 Ultra,dimensity,Octa Core,2.6,8,256,10001,80W,6.8,1280 x 2800 ,144,2,1,50,16,0,android,Mid-Range
+nubia,Nubia Neo 5 GT,21999,64,TRUE,TRUE,FALSE,Dimensity 7400,dimensity,Octa Core,2.6,12,256,6000,80W,6.8,1224 x 2720 ,120,1,1,50,16,0,android,Mid-Range
+honor,Honor Robot Phone,99990,85,TRUE,TRUE,TRUE,,,Octa Core,,12,512,7000,120W,6.71,1256 x 2808 ,120,2,1,200,50,0,android,Flagship
+vivo,Vivo V70 Elite 5G (12GB RAM + 512GB),61999,86,TRUE,TRUE,TRUE,Snapdragon 8s Gen3,snapdragon,Octa Core,3,12,512,6500,90W,6.59,1260 x 2750 ,120,3,1,50,50,0,android,Flagship
+realme,Realme 17 Pro Plus 5G,42990,79,TRUE,TRUE,TRUE,,,Octa Core,,8,128,8000,80W,6.8,1280 x 2800 ,144,3,1,200,50,0,android,Premium
+xiaomi,Xiaomi Redmi Note 15 5G (256GB),28999,71,TRUE,TRUE,TRUE,Snapdragon 6 Gen3,snapdragon,Octa Core,2.4,8,256,5520,45W,6.77,1080 x 2392 ,120,2,1,108,20,1 TB,android,Mid-Range
+oppo,Oppo Reno 15 Pro Mini (12GB RAM + 512GB),64999,85,TRUE,FALSE,TRUE,Dimensity 8450,dimensity,Octa Core,3.25,12,512,6200,80W,6.32,1216 x 2640 ,120,3,1,200,50,0,android,Flagship
+realme,Realme Narzo 90 (8GB RAM +128GB),19999,63,TRUE,FALSE,FALSE,Dimensity 6400 Max,dimensity,Octa Core,,8,128,7000,60W,6.57,1080 x 2372 ,120,2,1,50,50,0,android,Mid-Range
+poco,Poco C85 5G,15710,57,TRUE,TRUE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,6000,33W,6.9,720 x 1600 ,120,2,1,50,8,1 TB,android,Mid-Range
+samsung,Samsung Galaxy A77 5G,44999,66,TRUE,TRUE,FALSE,Exynos 2400,exynos,Octa Core,,8,128,5000,25W,6.7,1080 x 2400 ,120,3,1,50,50,1 TB,android,Premium
+lava,Lava Agni 4 5G,26249,70,TRUE,FALSE,FALSE,Dimensity 8350,dimensity,Octa Core,3.35,8,256,5000,66W,6.67,1220 x 2712 ,120,2,1,50,50,0,android,Mid-Range
+samsung,Samsung Galaxy A08,9990,44,FALSE,FALSE,FALSE,Helio G100,helio,Octa Core,,4,128,5000,0,6.67,720 x 1600 ,90,2,1,50,8,Not Specified,android,Budget
+samsung,Samsung Galaxy F17 5G (6GB RAM + 128GB),18699,57,TRUE,TRUE,FALSE,Exynos 1330,exynos,Octa Core,2.4,6,128,5000,25W,6.7,1080 x 2340 ,90,3,1,50,13,2 TB,android,Mid-Range
+samsung,Samsung Galaxy Z Fold 7,174999,97,TRUE,TRUE,FALSE,Snapdragon 8 Elite for Galaxy,snapdragon,Octa Core,4.47,12,256,4400,25W,8,1968 x 2184 ,120,3,2,200,10,0,android,Flagship
+samsung,Samsung Galaxy A19 5G,22999,55,TRUE,TRUE,FALSE,,,Octa Core,,6,128,6500,25W,6.74,1080 x 2340 ,120,3,1,50,16,2 TB,android,Mid-Range
+realme,Realme GT 7 (12GB RAM + 256GB),44990,84,TRUE,TRUE,TRUE,Dimensity 9400e,dimensity,Octa Core,3.4,12,256,7000,120W,6.78,1264 x 2780 ,120,3,1,50,32,0,android,Premium
+realme,Realme Neo 7 Turbo,23990,75,TRUE,TRUE,TRUE,Dimensity 9400e,dimensity,Octa Core,,12,256,7200,100W,6.8,1280 x 2800 ,144,2,1,50,16,0,android,Mid-Range
+realme,Realme P3 Ultra (8GB RAM + 256GB),28999,67,TRUE,FALSE,TRUE,Dimensity 8350 Ultra,dimensity,Octa Core,3.35,8,256,6000,80W,6.83,1272 x 2800 ,120,2,1,50,16,0,android,Mid-Range
+poco,Poco M7 5G (8GB RAM + 128GB),13499,53,TRUE,FALSE,FALSE,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8,128,5160,18W,6.88,720 x 1640 ,120,1,1,50,8,1 TB,android,Budget
+realme,Realme C75,9990,52,FALSE,TRUE,FALSE,Helio G92 Max,helio,Octa Core,2,8,128,6000,45W,6.72,1080 x 2400 ,60,2,1,50,8,Not Specified,android,Budget
+google,Google Pixel 9 Pro XL,84990,80,TRUE,TRUE,FALSE,Tensor G4,tensor,Octa Core,3.1,16,256,5060,37W,6.8,1344 x 2992 ,120,3,1,50,42,0,android,Flagship
+cmf,CMF Phone (2),19999,63,TRUE,FALSE,FALSE,Dimensity 7400,dimensity,Octa Core,2.6,6,128,5000,33W,6.3,1080 x 2400 ,120,2,1,50,32,1.02 TB,android,Mid-Range
+motorola,Motorola Edge 50 Ultra 5G,38988,83,TRUE,TRUE,FALSE,Snapdragon 8s Gen3,snapdragon,Octa Core,3,12,512,4500,125W,6.7,1220 x 2712 ,144,3,1,64,50,0,android,Premium
+oneplus,OnePlus Nord CE 4 5G,24998,66,TRUE,FALSE,TRUE,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8,128,5500,100W,6.7,1080 x 2412 ,120,2,1,50,16,1 TB,android,Mid-Range
+samsung,Samsung Galaxy A55 5G (8GB RAM + 256GB),44999,64,TRUE,TRUE,FALSE,Exynos 1480,exynos,Octa Core,2.7,8,256,5000,25W,6.6,1080 x 2340 ,120,3,1,50,32,1 TB,android,Premium
+xiaomi,Xiaomi Redmi Note 13 5G,26990,64,TRUE,FALSE,TRUE,Dimensity 6080,dimensity,Octa Core,2.4,6,128,5000,33W,6.67,1080 x 2400 ,120,3,1,108,16,1 TB,android,Mid-Range
+nothing,Nothing Phone 5,99999,81,TRUE,TRUE,FALSE,,,Octa Core,,12,256,7000,100W,6.71,1260 x 2800 ,165,3,1,200,50,0,android,Flagship
+infinix,Infinix Note 30 5G (8GB RAM + 256GB),15999,62,TRUE,TRUE,FALSE,Dimensity 6080,dimensity,Octa Core,2.4,8,256,5000,45W,6.78,1080 x 2460 ,120,3,1,108,16,2 TB,android,Mid-Range
+samsung,Samsung Galaxy Z Fold 8 Ultra,199990,90,TRUE,TRUE,FALSE,Snapdragon 8 Elite Gen 5 For Galaxy,snapdragon,Octa Core,4.47,12,256,4800,45W,7.6,1828 x 2584 ,120,2,2,50,10,0,android,Flagship
+motorola,Motorola Moto G37,15164,54,TRUE,FALSE,FALSE,Dimensity 6400,dimensity,Octa Core,2.5,4,64,5200,20W,6.67,1604 x 720 ,120,1,1,50,8,1 TB,android,Mid-Range
+samsung,Samsung Galaxy S27 Pro,129990,75,TRUE,TRUE,FALSE,,,Deca Core,,12,256,5000,45W,6.47,1440 x 3120 ,144,3,1,50,12,0,android,Flagship
+motorola,Motorola Razr Fold,149999,98,TRUE,TRUE,FALSE,Snapdragon 8 Gen5,snapdragon,Octa Core,3.8,12,256,6000,80W,8.09,2232 x 2484 ,120,3,2,50,32,0,android,Flagship
+vivo,Vivo Y21 5G (6GB RAM + 128GB),21999,59,TRUE,TRUE,TRUE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,6500,44W,6.74,720 x 1600 ,120,2,1,50,5,Not Specified,android,Mid-Range
+xiaomi,Xiaomi Redmi 15A 5G (6GB RAM + 128GB),16987,59,TRUE,FALSE,TRUE,Unisoc T8300,unisoc,Octa Core,2.2,6,128,6300,33W,6.9,720 x 1600 ,120,1,1,32,8,1 TB,android,Mid-Range
+samsung,Samsung Galaxy A37 5G (8GB RAM + 256 GB),40990,67,TRUE,TRUE,FALSE,Exynos 1480,exynos,Octa Core,2.7,8,256,5000,45W,6.7,1080 x 2340 ,120,3,1,50,12,0,android,Premium
+nothing,Nothing Phone (4a) Pro (8GB RAM + 256GB),48899,76,TRUE,TRUE,FALSE,Snapdragon 7 Gen 4,snapdragon,Octa Core,2.8,8,256,5400,50W,6.83,1260 x 2800 ,144,3,1,50,32,0,android,Premium
+nothing,Nothing Phone 4a (12GB RAM + 256GB),40970,74,TRUE,FALSE,FALSE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,12,256,5400,50W,6.78,1224 x 2720 ,120,3,1,50,32,0,android,Premium
+samsung,Samsung Galaxy S26 Plus,84999,83,TRUE,TRUE,FALSE,Exynos 2600,exynos,Deca Core,3.8,12,256,4900,45W,6.7,1440 x 3120 ,120,3,1,50,12,0,android,Flagship
+tecno,Tecno Pova Curve 2,29999,63,TRUE,FALSE,TRUE,Dimensity 7100,dimensity,Octa Core,2.4,8,128,8000,45W,6.78,1208 x 2644 ,144,2,1,50,13,0,android,Mid-Range
+vivo,Vivo X200T (12 GB RAM + 512 GB),69999,89,TRUE,TRUE,TRUE,Dimensity 9400 Plus,dimensity,Octa Core,3.63,12,512,6200,90W,6.67,1260 x 2800 ,120,3,1,50,32,0,android,Flagship
+lava,Lava Blaze Duo 3 5G,17799,59,TRUE,FALSE,TRUE,Dimensity 7060,dimensity,Octa Core,,6,128,5000,33W,6.67,1080 x 2400 ,120,2,1,50,8,0,android,Mid-Range
+poco,Poco M8 5G (8GB RAM + 256GB),23722,63,TRUE,FALSE,TRUE,Snapdragon 6 Gen3,snapdragon,Octa Core,,8,256,5520,45W,6.77,1080 x 2392 ,120,2,1,50,20,1 TB,android,Mid-Range
+red,Red Magic 11 Air,46990,75,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12,256,7000,120W,6.85,1216 x 2688 ,144,2,1,50,16,0,android,Premium
+realme,Realme Narzo 90x,18999,58,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,7000,60W,6.8,720 x 1570 ,144,2,1,50,8,2 TB,android,Mid-Range
+oneplus,OnePlus 15R (12GB RAM + 512GB),59999,84,TRUE,TRUE,TRUE,Snapdragon 8 Gen5,snapdragon,Octa Core,3.84,12,512,7400,80W,6.83,1272 x 2800 ,165,2,1,50,32,0,android,Premium
+honor,Honor Power 2,34990,70,TRUE,TRUE,TRUE,Dimensity 8500,dimensity,Octa Core,3.4,12,256,10080,80W,6.79,1200 x 2640 ,120,2,1,50,16,0,android,Premium
+poco,Poco M8 Plus 5G,13999,57,TRUE,FALSE,TRUE,Snapdragon 6s Gen4,snapdragon,Octa Core,,6,128,7500,44W,6.92,1080 x 2340 ,144,2,1,50,16,2 TB,android,Budget
+vivo,Vivo V60e (8GB RAM + 256GB),33999,76,TRUE,TRUE,TRUE,Dimensity 7360 Turbo,dimensity,Octa Core,2.5,8,256,6500,90W,6.77,1080 x 2392 ,120,2,1,200,50,0,android,Premium
+vivo,Vivo V70 Lite,27990,67,TRUE,TRUE,FALSE,Dimensity 7400,dimensity,Octa Core,2.6,8,256,6500,90W,6.77,1080 x 2392 ,120,2,1,50,32,0,android,Mid-Range
+samsung,Samsung Galaxy A07 4G,10719,46,FALSE,FALSE,FALSE,Helio G99,helio,Octa Core,2.2,4,64,5000,25W,6.7,720 x 1600 ,90,2,1,50,8,Not Specified,android,Budget
+xiaomi,Xiaomi 17 Pro Max,105990,95,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,512,7500,100W,6.9,1200 x 2608 ,120,3,1,50,50,0,android,Flagship
+vivo,Vivo Y31 Pro 5G (8GB RAM + 256GB),25499,58,TRUE,FALSE,TRUE,Dimensity 7300,dimensity,Octa Core,,8,256,6500,44W,6.72,1080 x 2408 ,120,2,1,50,8,0,android,Mid-Range
+apple,Apple iPhone 17 Pro Max (512GB),164990,83,TRUE,TRUE,FALSE,Apple A19 Pro,apple,Hexa Core,,12,512,4832,0,6.9,1320 x 2868 ,120,3,1,48,18,0,ios,Flagship
+apple,Apple iPhone 17 Pro Max (2TB),229900,84,TRUE,TRUE,FALSE,Apple A19 Pro,apple,Hexa Core,,12,2048,4832,0,6.9,1320 x 2868 ,120,3,1,48,18,0,ios,Flagship
+tecno,Tecno Pova Slim 5G,19990,58,TRUE,FALSE,TRUE,Dimensity 6400,dimensity,Octa Core,2.5,8,128,5160,45W,6.78,1224 x 2720 ,144,2,1,50,13,0,android,Mid-Range
+realme,Realme P4 5G (8GB RAM + 256GB),27999,67,TRUE,FALSE,TRUE,Dimensity 7400 Ultra,dimensity,Octa Core,2.6,8,256,7000,80W,6.77,1080 x 2392 ,144,2,1,50,16,0,android,Mid-Range
+oppo,Oppo K13 Turbo (8GB RAM + 256GB),30819,70,TRUE,FALSE,TRUE,Dimensity 8450,dimensity,Octa Core,3.25,8,256,7000,80W,6.8,1280 x 2800 ,120,2,1,50,16,0,android,Premium
+iqoo,iQOO Z10R (12GB RAM + 256GB),26999,67,TRUE,FALSE,FALSE,Dimensity 7400,dimensity,Octa Core,2.6,12,256,5700,44W,6.77,1080 x 2392 ,120,2,1,50,32,0,android,Mid-Range
+iqoo,iQOO Z10 Turbo Plus,25999,71,TRUE,TRUE,TRUE,Dimensity 9400 Plus,dimensity,Octa Core,3.63,12,256,8000,80W,6.78,1260 x 2800 ,144,2,1,50,16,0,android,Mid-Range
+realme,Realme 15 5G,26599,64,TRUE,FALSE,FALSE,Dimensity 7300 Plus,dimensity,Octa Core,,8,128,7000,80W,6.8,1280 x 2800 ,144,2,1,50,50,0,android,Mid-Range
+ai+,Ai+ Nova 5G,10999,53,TRUE,FALSE,FALSE,Unisoc T8200,unisoc,Octa Core,,6,128,5000,18W,6.75,720 x 1600 ,120,2,1,50,5,1 TB,android,Budget
+infinix,Infinix Hot 60 Pro Plus,19990,57,FALSE,TRUE,TRUE,Helio G200,helio,Octa Core,2.2,8,128,5160,45W,6.78,1224 x 2720 ,144,1,1,50,13,0,android,Mid-Range
+oppo,OPPO Reno 14 5G (12GB RAM + 256GB),42999,76,TRUE,FALSE,TRUE,Dimensity 8350,dimensity,Octa Core,3.35,12,256,6000,80W,6.59,1256 x 2760 ,120,3,1,50,50,0,android,Premium
+poco,Poco F7 5G (12GB RAM + 512GB),42990,76,TRUE,TRUE,TRUE,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,12,512,7550,90W,6.83,1280 x 2772 ,120,2,1,50,20,0,android,Premium
+vivo,Vivo Y19s Pro,9990,50,FALSE,FALSE,FALSE,Unisoc T612,unisoc,Octa Core,1.8,6,128,6000,44W,6.68,720 x 1608 ,90,1,1,50,5,Not Specified,android,Budget
+samsung,Samsung Galaxy M06 (4GB RAM + 64GB),11499,49,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,64,5000,25W,6.74,720 x 1600 ,90,2,1,50,8,1.5 TB,android,Budget
+poco,POCO C71,8999,45,FALSE,FALSE,FALSE,Unisoc T7250,unisoc,Octa Core,1.8,4,64,5200,15W,6.88,720 x 1640 ,120,2,1,32,8,2 TB,android,Budget
+itel,itel Power 70,7299,43,FALSE,FALSE,FALSE,Helio G50,helio,Octa Core,2.2,4,128,6000,18W,6.67,720 x 1600 ,120,1,1,13,8,Not Specified,android,Budget
+apple,Apple iPhone 16e,56490,63,TRUE,TRUE,FALSE,Bionic A18,bionic,Hexa Core,4.04,8,128,4005,0,6.1,1170 x 2532 ,60,1,1,48,12,0,ios,Premium
+samsung,Samsung Galaxy A06 5G (4GB RAM + 128GB),12999,52,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,5000,25W,6.7,720 x 1600 ,90,2,1,50,8,1 TB,android,Budget
+realme,Realme 14 Pro Plus (12GB RAM + 256GB),34999,70,TRUE,FALSE,FALSE,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,12,256,6000,80W,6.83,1272 x 2800 ,120,3,1,50,32,0,android,Premium
+oneplus,OnePlus 13T,39990,79,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12,256,6260,80W,6.32,1216 x 2640 ,120,2,1,50,16,0,android,Premium
+motorola,Motorola Moto G65 5G,16990,62,TRUE,FALSE,FALSE,Dimensity 7300,dimensity,Octa Core,2.5,8,128,6000,45W,6.67,1080 x 2400 ,120,2,1,50,32,1 TB,android,Mid-Range
+samsung,Samsung Galaxy Z Tri Fold,219990,93,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,16,512,5600,45W,10,1584 x 2160 ,120,3,2,200,10,0,android,Flagship
+samsung,Samsung Galaxy S24 FE (256GB),45999,71,TRUE,TRUE,FALSE,Exynos 2400e,exynos,Deca Core,3.11,8,256,4700,25W,6.7,1080 x 2340 ,120,3,1,50,10,0,android,Premium
+vivo,Vivo Y03t,6499,39,FALSE,FALSE,FALSE,Unisoc T612,unisoc,Octa Core,1.8,4,64,5000,15W,6.56,720 x 1612 ,90,2,1,13,5,Not Specified,android,Budget
+xiaomi,Xiaomi Redmi K90,35990,76,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12,256,7100,100W,6.59,1156 x 2510 ,120,3,1,50,20,0,android,Premium
+realme,Realme 12 Pro Plus 5G (8GB RAM + 256GB),22999,64,TRUE,FALSE,FALSE,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,8,256,5000,67W,6.7,1080 x 2412 ,120,3,1,64,32,0,android,Mid-Range
+nubia,Nubia Red Magic 10 Pro 5G,59990,83,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12,256,6500,80W,6.85,1216 x 2688 ,144,3,1,50,16,0,android,Premium
+samsung,Samsung Galaxy S23 FE 5G,44990,72,TRUE,TRUE,FALSE,Exynos 2200,exynos,Octa Core,2.8,8,128,4500,25W,6.4,1080 x 2340 ,120,3,1,50,10,0,android,Premium
+nokia,Nokia X200,24999,62,TRUE,TRUE,FALSE,Snapdragon 6 Gen 4,snapdragon,Octa Core,2.2,8,256,6000,33W,6.7,1080 x 2400 ,120,3,1,50,32,1 TB,android,Mid-Range
+samsung,Samsung Galaxy S23 5G,54999,74,TRUE,TRUE,FALSE,Snapdragon 8 Gen 2,snapdragon,Octa Core,3.36,8,128,3900,25W,6.1,1080 x 2340 ,120,3,1,50,12,0,android,Premium
+nothing,Nothing Phone 5a Pro,47990,75,TRUE,TRUE,FALSE,,,Octa Core,,8,128,6000,50W,6.83,1260 x 2800 ,144,3,1,50,50,0,android,Premium
+oneplus,OnePlus Ace 7,39990,81,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,256,8000,120W,6.83,1272 x 2800 ,165,2,1,50,50,0,android,Premium
+vivo,Vivo Y31 5G (6GB RAM + 256GB),26999,61,TRUE,FALSE,FALSE,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,6,256,6500,44W,6.68,720 x 1608 ,120,1,1,50,8,0,android,Mid-Range
+iqoo,iQOO 15T,59990,83,TRUE,TRUE,TRUE,Dimensity 9500,dimensity,Octa Core,4.21,12,256,8000,100W,6.82,1440 x 3168 ,144,2,1,200,16,0,android,Premium
+xiaomi,Xiaomi Redmi A7 Pro 5G (4GB RAM + 128GB),13998,54,TRUE,FALSE,FALSE,Unisoc T8300,unisoc,Octa Core,2.2,4,128,6300,15W,6.9,720 x 1600 ,120,2,1,32,8,2 TB,android,Budget
+ai+,Ai+ Nova 2 5G (6GB RAM + 128GB),13999,54,TRUE,FALSE,FALSE,Unisoc T8200,unisoc,Octa Core,2.3,6,128,6000,18W,6.74,720 x 1600 ,120,1,1,50,8,1 TB,android,Budget
+oppo,Oppo F35 5G,32990,63,TRUE,FALSE,TRUE,,,Octa Core,,6,128,7000,100W,6.57,1080 x 2372 ,144,2,1,50,32,0,android,Premium
+oppo,OPPO K15 Pro Plus,49999,77,TRUE,TRUE,TRUE,Dimensity 9500s,dimensity,Octa Core,3.73,12,256,8000,100W,6.78,1272 x 2772 ,165,2,1,50,16,0,android,Premium
+poco,Poco X8 Pro 5G (12GB RAM + 256GB),37999,77,TRUE,FALSE,TRUE,Dimensity 8500 Ultra,dimensity,Octa Core,3.4,12,256,6500,100W,6.59,2756 x 1268 ,120,2,1,50,20,0,android,Premium
+oppo,Oppo A6s 5G,20480,55,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,6500,45W,6.75,720 x 1570 ,120,2,1,50,5,0,android,Mid-Range
+honor,Honor X80 Pro Max,34990,64,TRUE,TRUE,TRUE,Snapdragon 6 Gen5,snapdragon,Octa Core,2.6,8,128,11000,90W,6.8,1280 x 2788 ,120,1,1,50,8,0,android,Premium
+xiaomi,Xiaomi 18 Ultra,119990,94,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 6,snapdragon,Octa Core,,16,512,7000,100W,6.9,1200 x 2608 ,120,3,1,200,50,0,android,Flagship
+realme,Realme GT 9 Pro,79990,88,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 6,snapdragon,Octa Core,,12,256,7000,120W,6.79,1440 x 3136 ,144,3,1,200,32,0,android,Flagship
+tecno,Tecno Camon 50 4G,24990,57,FALSE,TRUE,TRUE,Helio G200,helio,Octa Core,2.2,8,256,6150,0,6.78,1208 x 2644 ,144,2,1,50,32,0,android,Mid-Range
+xiaomi,Xiaomi Redmi Note 15 Pro Plus (12GB RAM + 512GB),44999,81,TRUE,TRUE,TRUE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,12,512,6500,100W,6.83,1280 x 2772 ,120,2,1,200,32,0,android,Premium
+xiaomi,Xiaomi Redmi Note 15 Pro 5G (8GB RAM + 256GB),33999,74,TRUE,FALSE,TRUE,Dimensity 7400 Ultra,dimensity,Octa Core,2.6,8,256,6580,45W,6.83,1280 x 2772 ,120,2,1,200,20,0,android,Premium
+vivo,Vivo Y31d,11990,55,FALSE,FALSE,TRUE,Snapdragon 6s Gen 2 4G,snapdragon,Octa Core,2.9,6,128,7200,444W,6.75,720 x 1570 ,120,2,1,50,8,0,android,Budget
+oppo,Oppo Reno 15F,39999,68,TRUE,TRUE,FALSE,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,8,128,7000,80W,6.57,1080 x 2372 ,120,3,1,50,50,Not Specified,android,Premium
+oppo,Oppo Find N6,129990,98,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,256,6000,80W,8.12,2248 x 2480 ,120,3,2,200,20,0,android,Flagship
+xiaomi,Xiaomi 18 Pro Max,89990,88,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 6 Pro (2nm),snapdragon,Octa Core,,12,512,8500,120W,6.9,1200 x 2608 ,60,3,1,200,50,0,android,Flagship
+xiaomi,Xiaomi Redmi K90 Pro Max,50990,86,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,256,7500,100W,6.9,1200 x 2608 ,120,3,1,50,32,0,android,Premium
+motorola,Motorola Moto G06 Power,12595,48,FALSE,FALSE,FALSE,Helio G81,helio,Octa Core,2,4,64,7000,,6.88,720 x 1640 ,120,1,1,50,8,1 TB,android,Budget
+realme,Realme 15x 5G (8GB RAM + 128GB),19999,61,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,7000,60W,6.81,720 x 1570 ,144,2,1,50,50,0,android,Mid-Range
+samsung,Samsung Galaxy M07 4G,10399,46,FALSE,FALSE,FALSE,Helio G99,helio,Octa Core,2.2,4,64,5000,25W,6.7,720 x 1600 ,60,2,1,50,8,Not Specified,android,Budget
+oppo,Oppo F31 Pro 5G (12GB RAM + 256GB),29999,68,TRUE,FALSE,FALSE,Dimensity 7300 Energy,dimensity,Octa Core,2.5,12,256,7000,80W,6.57,1080 x 2372 ,120,2,1,50,32,0,android,Mid-Range
+samsung,Samsung Galaxy F36 5G (8GB RAM + 256GB),29999,64,TRUE,TRUE,FALSE,Exynos 1380,exynos,Octa Core,2.4,8,256,5000,25W,6.7,1080 x 2340 ,120,3,1,50,13,2 TB,android,Mid-Range
+ai+,Ai+ Pulse (6GB RAM +128GB),9999,46,FALSE,FALSE,FALSE,Unisoc T615,unisoc,Octa Core,1.8,6,128,5000,10W,6.75,720 x 1600 ,90,1,1,50,5,1 TB,android,Budget
+oneplus,OnePlus 13s (12GB RAM + 512GB),54999,81,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12,512,5850,80W,6.32,1216 x 2640 ,120,2,1,50,32,0,android,Premium
+vivo,Vivo S30 Pro Mini,40990,77,TRUE,TRUE,TRUE,Dimensity 9300 Plus,dimensity,Octa Core,3.4,12,256,6500,90W,6.31,1216 x 2640 ,120,3,1,50,50,0,android,Premium
+samsung,Samsung Galaxy S25 Ultra (12GB RAM + 1TB),165999,94,TRUE,TRUE,FALSE,Snapdragon 8 Elite for Galaxy,snapdragon,Octa Core,4.47,12,1024,5000,45W,6.9,1440 x 3120 ,120,4,1,200,12,0,android,Flagship
+infinix,Infinix Smart 20,13499,43,FALSE,FALSE,TRUE,Helio G81 Ultimate,helio,Octa Core,2,4,64,5200,15W,6.78,720 x 1576 ,120,1,1,8,8,2 TB,android,Budget
+google,Google Pixel 9,79999,75,TRUE,TRUE,FALSE,Tensor G4,tensor,Octa Core,3.1,12,256,4700,27W,6.3,1080 x 2424 ,120,2,1,50,10.5,0,android,Flagship
+vivo,Vivo V40 Pro,49999,75,TRUE,FALSE,FALSE,Dimensity 9200 Plus,dimensity,Octa Core,3.35,8,256,5500,80W,6.78,1260 x 2800 ,120,3,1,50,50,0,android,Premium
+xiaomi,Xiaomi 14 Civi,39999,72,TRUE,TRUE,TRUE,Snapdragon 8s Gen3,snapdragon,Octa Core,3,8,256,4700,67W,6.55,1236 x 2750 ,120,3,2,50,32,0,android,Premium
+vertu,Vertu Ironflip,489990,74,TRUE,TRUE,FALSE,Snapdragon 8 Gen2,snapdragon,Octa Core,3.2,12,256,4310,65W,6.7,2790 x 1188 ,120,2,1,50,16,0,android,Flagship
+oneplus,OnePlus Nord CE 5 Lite 5G,22990,62,TRUE,FALSE,FALSE,Snapdragon 7 Gen2,snapdragon,Octa Core,,8,256,5000,80W,6.78,1080 x 2400 ,120,3,1,50,32,1 TB,android,Mid-Range
+realme,Realme Narzo 70x 5G,11999,54,TRUE,FALSE,FALSE,Dimensity 6100 Plus,dimensity,Octa Core,2.2,4,128,5000,45W,6.72,1080 x 2400 ,120,2,1,50,8,2 TB,android,Budget
+motorola,Motorola Moto G56 5G,15990,61,TRUE,TRUE,FALSE,Dimensity 7060,dimensity,Octa Core,2.6,4,128,5200,30W,6.72,1080 x 2400 ,120,2,1,50,32,1 TB,android,Mid-Range
+realme,Realme 12 Pro 5G (8GB RAM + 256GB),20999,61,TRUE,FALSE,FALSE,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,8,256,5000,67W,6.7,1080 x 2412 ,120,3,1,50,16,0,android,Mid-Range
+xiaomi,Xiaomi Redmi Note 12 5G,14999,58,TRUE,FALSE,TRUE,Snapdragon 4 Gen 1,snapdragon,Octa Core,2,4,128,5000,33W,6.67,1080 x 2400 ,120,3,1,48,13,1 TB,android,Budget
+tecno,Tecno Spark 50 Pro,19990,54,FALSE,TRUE,TRUE,Helio G100,helio,Octa Core,2.2,8,256,6000,60W,6.78,720 x 1600 ,144,1,1,50,8,Not Specified,android,Mid-Range
+vivo,Vivo X500 Pro,119990,86,TRUE,TRUE,TRUE,Dimensity 9600,dimensity,Octa Core,,16,512,7500,100W,6.83,1440 x 3200 ,120,3,1,64,50,0,android,Flagship
+oppo,OPPO F33 Pro 5G (8GB RAM + 256GB),40999,68,TRUE,FALSE,TRUE,Dimensity 6360 MAX,dimensity,Octa Core,2.4,8,256,7000,80W,6.57,1080 x 2372 ,120,2,1,50,50,0,android,Premium
+ai+,Ai+ Nova 2,13890,53,TRUE,FALSE,FALSE,Unisoc T8200,unisoc,Octa Core,2.3,4,64,6000,18W,6.74,720 x 1600 ,120,1,1,50,8,1 TB,android,Budget
+infinix,Infinix Note 60 Pro 5G (8GB RAM + 256GB),36999,74,TRUE,TRUE,TRUE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.4,8,256,6500,90W,6.78,1208 x 2644 ,144,2,1,50,13,1 TB,android,Premium
+huawei,Huawei Pura 90 Pro,89990,74,TRUE,TRUE,TRUE,Kirin 9030S,kirin,Octa Core,,12,256,6000,66W,6.6,1256 x 2760 ,120,3,1,50,13,0,other,Flagship
+vivo,Vivo Y51 Pro 5G (256GB),33999,62,TRUE,FALSE,TRUE,Dimensity 7360 Turbo,dimensity,Octa Core,2.5,8,256,7200,44W,6.75,720 x 1570 ,120,2,1,50,8,0,android,Premium
+itel,itel Zeno 20 Max (4GB RAM + 128GB),6999,39,FALSE,FALSE,FALSE,UNISOC T7100,unisoc,Octa Core,,4,128,5000,15W,6.6,720 x 1612 ,90,2,1,13,5,Not Specified,android,Budget
+vivo,Vivo X500 Ultra,89990,88,TRUE,TRUE,TRUE,Snapdragon 8 Gen 6 Pro,snapdragon,Octa Core,,12,256,7500,120W,6.89,1440 x 3168 ,120,3,1,200,100,0,android,Flagship
+iqoo,iQOO Z10 Lite 5G (4GB RAM + 64GB),14999,50,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,64,6000,15W,6.74,720 x 1600 ,90,2,1,50,5,0,android,Budget
+oppo,OPPO Reno 15 5G (12GB RAM + 256GB),50999,80,TRUE,FALSE,TRUE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,12,256,6500,80W,6.59,1256 x 2760 ,120,3,1,50,50,0,android,Premium
+realme,Realme 16 Pro 5G (8GB RAM + 256GB),37199,77,TRUE,FALSE,FALSE,Dimensity 7300 Max,dimensity,Octa Core,,8,256,7000,80W,6.78,1272 x 2772 ,144,2,1,200,50,0,android,Premium
+xiaomi,Xiaomi Redmi 15C 5G (6GB RAM + 128GB),17499,55,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,6000,33W,6.9,720 x 1600 ,120,2,1,50,8,1 TB,android,Mid-Range
+vivo,Vivo V70e,35990,68,TRUE,TRUE,TRUE,,,Octa Core,,8,256,6500,90W,6.59,1080 x 2392 ,144,3,1,50,50,0,android,Premium
+realme,Realme C85 5G,16499,54,TRUE,TRUE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,7000,45W,6.8,720 x 1570 ,144,1,1,50,8,Not Specified,android,Mid-Range
+oppo,Oppo Find X9 5G (16GB RAM + 512GB),84999,90,TRUE,TRUE,TRUE,Dimensity 9500,dimensity,Octa Core,4.21,16,512,7025,80W,6.59,1256 x 2760 ,120,3,1,50,32,0,android,Flagship
+oneplus,OnePlus 15T,59999,84,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,256,7500,100W,6.32,1216 x 2640 ,165,2,1,50,32,0,android,Premium
+poco,Poco F8 Ultra,64990,90,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,256,6500,100W,6.9,1200 x 2608 ,120,3,1,50,32,0,android,Flagship
+motorola,Motorola Moto G100 (2025),17990,58,TRUE,TRUE,FALSE,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,8,256,7000,30W,6.72,1080 x 2400 ,120,2,1,50,32,0,android,Mid-Range
+hmd,HMD Touch 4G,3799,18,FALSE,FALSE,FALSE,Unisoc T127,unisoc,,,128,64,1950,,3.2,240 x 320 ,60,1,1,2,0.3,128 MB,,Budget
+samsung,Samsung Galaxy S25 FE (8GB RAM + 512GB),65940,80,TRUE,TRUE,FALSE,Exynos 2400,exynos,Deca Core,3.2,8,512,4900,45W,6.7,1080 x 2340 ,120,3,1,50,12,0,android,Flagship
+oppo,OPPO K13x 5G (8GB RAM +128GB),18999,55,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,6000,45W,6.67,720 x 1604 ,120,2,1,50,8,2 TB,android,Mid-Range
+infinix,Infinix GT 30 Pro 5G (12GB RAM + 256GB),32499,76,TRUE,TRUE,TRUE,Dimensity 8350 Ultimate,dimensity,Octa Core,3.35,12,256,5500,45W,6.78,1224 x 2720 ,144,2,1,108,13,0,android,Premium
+motorola,Motorola Razr 60 5G,49999,81,TRUE,TRUE,FALSE,Dimensity 7400X,dimensity,Octa Core,2.6,8,256,4500,30W,6.9,1080 x 2640 ,120,2,1,50,32,0,android,Premium
+infinix,Infinix Note 60,19990,70,TRUE,TRUE,TRUE,Dimensity 7400,dimensity,Octa Core,2.6,8,128,6500,45W,6.78,1208 x 2644 ,144,2,1,50,13,2 TB,android,Mid-Range
+realme,Realme Neo 7 Turbo (16GB RAM + 256GB),26990,76,TRUE,TRUE,TRUE,Dimensity 9400e,dimensity,Octa Core,,16,256,7200,100W,6.8,1280 x 2800 ,144,2,1,50,16,0,android,Mid-Range
+vivo,Vivo U5x,9990,49,TRUE,FALSE,FALSE,,,Octa Core,,6,128,5000,33W,6.65,1080 x 2408 ,120,2,1,50,8,0,android,Budget
+samsung,Samsung Galaxy F57 5G,29990,61,TRUE,TRUE,FALSE,,,Octa Core,,8,128,5000,65W,6.74,1080 x 2400 ,120,3,1,50,50,0,android,Mid-Range
+vivo,Vivo Y20 5G,11999,53,TRUE,FALSE,FALSE,Dimensity 6400,dimensity,Octa Core,2.4,4,128,5700,20W,6.74,720 x 1600 ,90,2,1,50,8,2 TB,android,Budget
+oppo,Oppo A5 Pro 5G (8GB RAM + 256GB),20999,59,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,256,5800,45W,6.67,720 x 1604 ,120,2,1,50,8,0,android,Mid-Range
+vivo,Vivo V50e 5G,30999,66,TRUE,FALSE,FALSE,Dimensity 7300,dimensity,Octa Core,2.5,8,128,5600,90W,6.77,1080 x 2392 ,120,2,1,50,50,0,android,Premium
+vivo,Vivo Y29s 5G,15990,53,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,256,5500,15W,6.74,720 x 1600 ,90,2,1,50,5,2 TB,android,Mid-Range
+samsung,Samsung Galaxy M06 5G,12499,48,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,5000,25W,6.74,720 x 1600 ,90,2,1,50,8,1.5 TB,android,Budget
+samsung,Samsung Galaxy A56 5G (8GB RAM + 256GB),35999,67,TRUE,TRUE,FALSE,Exynos 1580,exynos,Octa Core,2.9,8,256,5000,45W,6.7,1080 x 2340 ,120,3,1,50,12,0,android,Premium
+samsung,Samsung Galaxy F06 5G,12710,49,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,5000,25W,6.7,720 x 1600 ,60,2,1,50,8,1 TB,android,Budget
+tecno,Tecno Camon 40,24990,62,TRUE,TRUE,TRUE,Helio G100,helio,Octa Core,2.2,8,128,5200,45W,6.78,1080 x 2436 ,120,2,1,50,32,1 TB,android,Mid-Range
+realme,Realme 14x (8GB RAM + 128GB),15999,57,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,6000,45W,6.67,720 x 1604 ,120,2,1,50,8,0,android,Mid-Range
+samsung,Samsung Galaxy A16 5G (6GB RAM + 128GB),15999,57,TRUE,TRUE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,5000,25W,6.7,1080 x 2340 ,90,3,1,50,13,1.5 TB,android,Mid-Range
+motorola,Motorola Moto G87,27990,71,TRUE,TRUE,FALSE,Dimensity 6400,dimensity,Octa Core,2.5,8,256,5200,30W,6.78,1272 x 2772 ,120,2,1,200,32,0,android,Mid-Range
+itel,itel S25 Ultra,17990,57,FALSE,TRUE,TRUE,Unisoc T620,unisoc,Octa Core,2.2,8,128,5000,18W,6.78,1080 x 2436 ,120,2,1,50,32,0,android,Mid-Range
+vivo,Vivo Y19s,8990,48,FALSE,FALSE,FALSE,Unisoc T612,unisoc,Octa Core,1.8,6,128,5500,15W,6.68,720 x 1608 ,90,2,1,50,5,Not Specified,android,Budget
+asus,Asus ROG Phone 9 Pro,101990,84,TRUE,TRUE,FALSE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,16,512,5800,65W,6.78,1080 x 2400 ,185,3,1,50,32,0,android,Flagship
+motorola,Motorola Moto G43 5G,9990,52,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,5000,10W,6.56,720 x 1600 ,90,2,1,50,8,1 TB,android,Budget
+oppo,OPPO A3x 5G,15999,48,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,5100,45W,6.67,720 x 1604 ,120,1,1,8,5,0,android,Mid-Range
+vivo,Vivo Y200 Plus 5G,12990,55,TRUE,FALSE,FALSE,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8,256,6000,44W,6.68,720 x 1608 ,120,2,1,50,5,0,android,Budget
+samsung,Samsung Galaxy F55 5G (8GB RAM + 256GB),29999,66,TRUE,TRUE,FALSE,Snapdragon 7 Gen1,snapdragon,Octa Core,2.4,8,256,5000,45W,6.7,1080 x 2400 ,120,3,1,50,50,1 TB,android,Mid-Range
+infinix,Infinix GT 20 Pro,24999,71,TRUE,TRUE,TRUE,Dimensity 8200 Ultimate,dimensity,Octa Core,3.1,8,256,5000,45W,6.78,1080 x 2436 ,144,3,1,108,32,0,android,Mid-Range
+vivo,Vivo Y200t,12990,59,TRUE,FALSE,TRUE,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,8,128,6000,44W,6.72,1080 x 2408 ,120,2,1,50,8,Not Specified,android,Budget
+motorola,Motorola Edge 50 Pro (12GB RAM + 256GB),28999,75,TRUE,TRUE,FALSE,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,12,256,4500,125W,6.7,1220 x 2712 ,144,3,1,50,50,0,android,Mid-Range
+infinix,Infinix Note 50,14990,63,FALSE,TRUE,TRUE,Helio G100,helio,Octa Core,2.2,8,256,5200,45W,6.78,1080 x 2436 ,144,2,1,50,13,2 TB,android,Budget
+samsung,Samsung Galaxy S24 Ultra (12GB RAM + 512GB),129999,85,TRUE,TRUE,FALSE,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,12,512,5000,45W,6.8,1440 x 3120 ,120,4,1,200,12,0,android,Flagship
+samsung,Samsung Galaxy S24 Plus,59999,79,TRUE,TRUE,FALSE,Exynos 2400,exynos,Deca Core,3.2,12,256,4900,45W,6.7,1440 x 3120 ,120,3,1,50,12,0,android,Premium
+poco,Poco X6 Pro 5G,29800,70,TRUE,TRUE,TRUE,Dimensity 8300 Ultra,dimensity,Octa Core,3.35,8,256,5000,67W,6.67,1220 x 2712 ,120,3,1,64,16,0,android,Mid-Range
+oppo,OPPO Reno 11,32900,70,TRUE,TRUE,TRUE,Dimensity 7050,dimensity,Octa Core,2.6,8,128,5000,67W,6.7,1080 x 2412 ,120,3,1,50,32,2 TB,android,Premium
+infinix,Infinix Smart 8,7299,48,FALSE,FALSE,FALSE,Helio G36,helio,Octa Core,2.2,4,64,5000,10W,6.6,720 x 1612 ,90,2,1,50,8,2 TB,android,Budget
+nubia,Nubia Z60 Ultra,52990,76,TRUE,TRUE,TRUE,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,8,256,6000,80W,6.8,1116 x 2480 ,120,3,1,64,16,0,android,Premium
+vivo,Vivo V29e,26999,64,TRUE,TRUE,FALSE,Snapdragon 695,snapdragon,Octa Core,2.2,8,128,5000,44W,6.78,1080 x 2400 ,120,2,1,64,50,0,android,Mid-Range
+samsung,Samsung Galaxy A54 5G,32499,70,TRUE,TRUE,FALSE,Exynos 1380,exynos,Octa Core,2.4,8,128,5000,25W,6.4,1080 x 2340 ,120,3,1,50,32,1 TB,android,Premium
+samsung,Samsung Galaxy S21 FE 5G,49999,68,TRUE,TRUE,FALSE,Exynos 2100,exynos,Octa Core,2.9,8,128,4500,25W,6.4,1080 x 2340 ,120,3,1,12,32,0,android,Premium
+motorola,Motorola Edge 20 Pro 5G,20900,67,TRUE,TRUE,FALSE,Snapdragon  870,snapdragon,Octa Core,3.2,8,128,4500,30W,6.7,1080 x 2400 ,144,3,1,108,32,0,android,Mid-Range
+motorola,Motorola Edge 20 5G,18990,64,TRUE,TRUE,FALSE,Snapdragon  778G,snapdragon,Octa Core,2.4,8,128,4000,30W,6.7,1080 x 2460 ,144,3,1,108,32,0,android,Mid-Range
+xiaomi,Xiaomi 17T 5G (12GB RAM + 512GB),64999,81,TRUE,TRUE,TRUE,Dimensity 8500 Ultra,dimensity,Octa Core,3.4,12,512,6500,67W,6.59,1268 x 2756 ,120,3,1,50,32,0,android,Flagship
+lava,Lava Bold N3,14999,53,TRUE,FALSE,FALSE,,,Octa Core,,6,128,7000,18W,6.75,720 x 1600 ,120,2,1,50,8,Not Specified,android,Budget
+infinix,Infinix Note 70 Pro 5G,37999,72,TRUE,TRUE,TRUE,,,Octa Core,,8,128,7000,100W,6.78,1208 x 2644 ,165,2,1,50,16,1 TB,android,Premium
+oppo,OPPO Reno 17 5G,50999,75,TRUE,TRUE,TRUE,,,Octa Core,,8,256,7000,80W,6.32,1216 x 2640 ,144,3,1,64,50,0,android,Premium
+xiaomi,Xiaomi Redmi Note 17 Pro Plus,49990,80,TRUE,TRUE,TRUE,,,Octa Core,,8,256,7000,120W,6.83,1280 x 2772 ,144,2,1,200,50,0,android,Premium
+lava,Lava Shark 2 5G,11999,44,TRUE,FALSE,FALSE,Unisoc T8200,unisoc,Octa Core,,4,64,6000,18W,6.75,720 x 1600 ,120,2,1,13,5,1 TB,android,Budget
+oppo,Oppo Find X10 Ultra,179999,90,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 6,snapdragon,Octa Core,,12,256,7500,120W,6.83,1440 x 3168 ,165,4,1,200,50,0,android,Flagship
+red,Red Magic 11S Pro,79990,80,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,256,7500,80W,6.85,1216 x 2688 ,144,2,1,50,16,0,android,Flagship
+vivo,Vivo G5z,19990,55,TRUE,TRUE,TRUE,,,Octa Core,,8,256,7200,44W,6.75,720 x 1570 ,120,2,1,50,8,0,android,Mid-Range
+vivo,Vivo G5i,22999,55,TRUE,TRUE,TRUE,,,Octa Core,,8,256,7200,44W,6.75,720 x 1570 ,120,1,1,50,8,0,android,Mid-Range
+infinix,Infinix GT 50 Pro 5G (12GB RAM + 512GB),42990,76,TRUE,TRUE,TRUE,Dimensity 8400 Ultimate,dimensity,Octa Core,3.25,12,512,6150,45W,6.78,1208 x 2644 ,144,2,1,50,13,0,android,Premium
+oppo,Oppo F33 5G (8GB RAM + 256GB),35999,64,TRUE,FALSE,TRUE,Dimensity 6360 MAX,dimensity,Octa Core,,8,256,7000,80W,6.57,1080 x 2372 ,120,2,1,50,16,0,android,Premium
+xiaomi,Xiaomi Redmi 15A 5G (4GB RAM + 128GB),14990,58,TRUE,FALSE,TRUE,Unisoc T8300,unisoc,Octa Core,2.2,4,128,6300,33W,6.9,720 x 1600 ,120,1,1,32,8,1 TB,android,Budget
+realme,Realme 16 5G (8GB RAM + 256GB),33999,70,TRUE,FALSE,FALSE,Dimensity 6400 Turbo,dimensity,Octa Core,2.5,8,256,7000,60W,6.57,1080 x 2372 ,120,2,1,50,50,0,android,Premium
+vivo,Vivo Y21 5G (8GB RAM + 128GB),22999,59,TRUE,TRUE,TRUE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,6500,44W,6.74,720 x 1600 ,120,2,1,50,5,Not Specified,android,Mid-Range
+realme,Realme P4 Lite 5G (4GB RAM + 128GB),16105,50,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,7000,15W,6.81,720 x 1570 ,144,1,1,13,5,0,android,Mid-Range
+realme,Realme P4 Lite 5G (6GB RAM + 128GB),18280,50,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,7000,15W,6.81,720 x 1570 ,144,1,1,13,5,0,android,Mid-Range
+oppo,OPPO Find X9s Pro,79990,88,TRUE,TRUE,TRUE,Dimensity 9500,dimensity,Octa Core,4.21,12,256,7025,80W,6.32,1216 x 2640 ,144,3,1,200,32,0,android,Flagship
+poco,Poco X8 Pro Iron Man Edition,39999,77,TRUE,FALSE,TRUE,Dimensity 8500 Ultra,dimensity,Octa Core,3.4,12,256,6500,100W,6.59,2756 x 1268 ,120,2,1,50,20,0,android,Premium
+oppo,OPPO K14x 5G (4GB RAM + 64GB),15129,54,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,64,6500,45W,6.75,720 x 1570 ,120,2,1,50,5,0,android,Mid-Range
+apple,Apple iPhone 18e,69990,62,TRUE,TRUE,FALSE,Apple A20,apple,Hexa Core,,12,256,,,6.2,1170 x 2532 ,60,1,1,48,12,0,ios,Flagship
+realme,Realme C83 5G (6GB RAM + 128GB),15344,53,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,7000,15W,6.8,720 x 1570 ,144,1,1,13,5,2 TB,android,Mid-Range
+iqoo,iQOO 15R (12GB RAM + 512GB),61999,86,TRUE,TRUE,TRUE,Snapdragon 8 Gen5,snapdragon,Octa Core,3.8,12,512,7600,100W,6.59,1260 x 2750 ,144,2,1,50,32,0,android,Flagship
+xiaomi,Xiaomi 18 Pro,69990,90,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 6,snapdragon,Octa Core,,12,256,7000,100W,6.36,1220 x 2656 ,144,3,1,200,50,0,android,Flagship
+peace,Peace Honor 20 (4GB RAM + 64GB),5800,23,FALSE,FALSE,FALSE,Helio,helio,Single Core,1.3,4,64,2000,,4.5,412 x 960 ,60,1,1,8,5,0,android,Budget
+oppo,Oppo A6 5G (6GB RAM + 128GB),22999,59,TRUE,TRUE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,7000,45W,6.75,720 x 1570 ,120,2,1,50,8,Not Specified,android,Mid-Range
+oppo,Oppo A6t 4G,9990,46,FALSE,TRUE,FALSE,Snapdragon 685,snapdragon,Octa Core,2.8,8,128,6500,0,6.75,720 x 1570 ,120,2,1,13,5,Not Specified,android,Budget
+realme,Realme 16 Pro 5G (12GB RAM + 256GB),39989,79,TRUE,FALSE,FALSE,Dimensity 7300 Max,dimensity,Octa Core,,12,256,7000,80W,6.78,1272 x 2772 ,144,2,1,200,50,0,android,Premium
+oppo,Oppo A6 Pro 5G (8GB+256GB),29999,63,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,256,7000,80W,6.75,720 x 1570 ,120,2,1,50,16,0,android,Mid-Range
+oppo,OPPO A6x 5G (4GB RAM + 128GB),18999,52,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,6500,45W,6.75,720 x 1570 ,120,1,1,13,5,0,android,Mid-Range
+realme,Realme C85 5G (6GB RAM + 128GB),17999,55,TRUE,TRUE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,7000,45W,6.8,720 x 1570 ,144,1,1,50,8,Not Specified,android,Mid-Range
+vivo,Vivo S50 Pro Mini,48990,81,TRUE,TRUE,TRUE,Snapdragon 8 Gen5,snapdragon,Octa Core,3.84,12,256,6500,90W,6.31,1216 x 2640 ,120,3,1,50,50,0,android,Premium
+xiaomi,Xiaomi Redmi 16,15990,57,TRUE,FALSE,TRUE,Snapdragon 6s Gen4,snapdragon,Octa Core,,6,128,7500,33W,6.9,1080 x 2340 ,144,2,1,50,16,0,android,Mid-Range
+oppo,OPPO Reno 15 Pro Max,59990,84,TRUE,TRUE,TRUE,Dimensity 8450,dimensity,Octa Core,3.25,12,256,6500,80W,6.78,1272 x 2772 ,120,3,1,200,50,0,android,Premium
+vivo,Vivo V60e (12GB RAM + 256GB),35999,77,TRUE,TRUE,TRUE,Dimensity 7360 Turbo,dimensity,Octa Core,2.5,12,256,6500,90W,6.77,1080 x 2392 ,120,2,1,200,50,0,android,Premium
+xiaomi,Xiaomi Redmi 15 5G (8GB RAM + 128GB),22498,62,TRUE,FALSE,TRUE,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,8,128,7000,33W,6.9,1080 x 2340 ,144,2,1,50,8,1 TB,android,Mid-Range
+apple,Apple iPhone 17 Pro Max (1TB),184490,83,TRUE,TRUE,FALSE,Apple A19 Pro,apple,Hexa Core,,12,1024,4832,0,6.9,1320 x 2868 ,120,3,1,48,18,0,ios,Flagship
+apple,Apple iPhone 17 Pro (512GB),150490,75,TRUE,TRUE,FALSE,Apple A19 Pro,apple,Hexa Core,,12,512,3988,0,6.3,1206 x 2622 ,120,3,1,48,18,0,ios,Flagship
+zte,ZTE Nubia Air,24999,57,TRUE,TRUE,FALSE,Unisoc T8300,unisoc,Octa Core,2.2,8,256,5000,33W,6.78,1224 x 2720 ,60,2,1,50,20,0,android,Mid-Range
+realme,Realme 15T (8GB RAM + 256GB),26599,67,TRUE,FALSE,TRUE,Dimensity 6400 Max,dimensity,Octa Core,2.5,8,256,7000,60W,6.57,1080 x 2372 ,120,2,1,50,50,2 TB,android,Mid-Range
+realme,Realme P4 Pro 5G (12GB RAM + 256GB),31999,74,TRUE,FALSE,TRUE,Snapdragon 7 Gen 4,snapdragon,Octa Core,,8,256,7000,80W,6.8,1280 x 2800 ,144,2,1,50,50,0,android,Premium
+hmd,HMD Fuse,8990,58,TRUE,TRUE,FALSE,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,6,128,5000,33W,6.56,720 x 1612 ,90,2,1,108,50,1 TB,android,Budget
+oneplus,OnePlus Ace 6 Ultra,44990,79,TRUE,TRUE,TRUE,Dimensity 9500,dimensity,Octa Core,4.21,12,256,8600,120W,6.78,1272 x 2772 ,165,2,1,50,16,0,android,Premium
+infinix,Infinix Hot 60 Pro,13990,57,FALSE,TRUE,TRUE,Helio G200,helio,Octa Core,2.2,8,128,5160,45W,6.78,1224 x 2720 ,144,1,1,50,13,Not Specified,android,Budget
+motorola,Motorola Razr 70,68990,83,TRUE,TRUE,FALSE,Dimensity 7400X,dimensity,Octa Core,2.6,8,128,4800,30W,6.9,1080 x 2640 ,120,2,1,50,32,0,android,Flagship
+poco,Poco C77 5G,8999,49,TRUE,FALSE,FALSE,,,Octa Core,,4,64,5460,0,6.88,720 x 1650 ,120,2,1,50,5,1 TB,android,Budget
+iqoo,iQOO Neo 10 (12GB RAM + 256GB),46999,80,TRUE,TRUE,TRUE,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,12,256,7000,120W,6.78,1260 x 2800 ,144,2,1,50,32,0,android,Premium
+vivo,Vivo Y39 5G,22999,55,TRUE,FALSE,FALSE,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8,128,6500,44W,6.68,720 x 1608 ,120,2,1,50,8,0,android,Mid-Range
+oppo,Oppo F29 Pro (8GB RAM + 256GB),32999,64,TRUE,FALSE,FALSE,Dimensity 7300,dimensity,Octa Core,2.5,8,256,6000,80W,6.7,1080 x 2412 ,120,2,1,50,16,0,android,Premium
+nothing,Nothing Phone 3a Pro (12GB RAM + 256GB),34999,68,TRUE,TRUE,FALSE,Snapdragon 7s Gen 3,snapdragon,Octa Core,2.5,12,256,5000,50W,6.77,1080 x 2392 ,120,3,1,50,50,0,android,Premium
+samsung,Samsung Galaxy A36 5G (12GB RAM + 256GB),35990,67,TRUE,TRUE,FALSE,Snapdragon 6 Gen3,snapdragon,Octa Core,2.4,12,256,5000,45W,6.7,1080 x 2340 ,120,3,1,50,12,0,android,Premium
+samsung,Samsung Galaxy A06 5G (6GB RAM + 128GB),14499,53,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,5000,25W,6.7,720 x 1600 ,90,2,1,50,8,1 TB,android,Budget
+honor,Honor 400 Lite,34990,63,TRUE,TRUE,FALSE,Dimensity 7025 Ultra,dimensity,Octa Core,2.5,8,256,5230,35W,6.7,1080 x 2412 ,120,2,1,108,16,0,android,Premium
+oppo,OPPO Reno 13 Pro 5G,42880,79,TRUE,TRUE,TRUE,Dimensity 8350,dimensity,Octa Core,3.35,12,256,5800,80W,6.83,1272 x 2800 ,120,3,1,50,50,0,android,Premium
+oppo,OPPO Reno 13 5G (8GB+256GB),43890,72,TRUE,TRUE,TRUE,Dimensity 8350,dimensity,Octa Core,3.35,8,256,5600,80W,6.59,1256 x 2760 ,120,3,1,50,50,0,android,Premium
+oppo,OPPO Reno 13 Pro 5G (12GB RAM + 512GB),60999,81,TRUE,TRUE,TRUE,Dimensity 8350,dimensity,Octa Core,3.35,12,512,5800,80W,6.83,1272 x 2800 ,120,3,1,50,50,0,android,Flagship
+xiaomi,Xiaomi Redmi Note 14 (8GB RAM + 128GB),22999,63,TRUE,FALSE,TRUE,Dimensity 7025 Ultra,dimensity,Octa Core,2.5,8,128,5110,45W,6.67,1080 x 2400 ,120,3,1,50,20,1 TB,android,Mid-Range
+apple,Apple iPhone 16 Plus (256GB),89900,70,TRUE,TRUE,FALSE,Bionic A18,bionic,Hexa Core,4.04,256,,4674,0,6.7,1290 x 2796 ,60,2,1,48,12,0,ios,Flagship
+infinix,Infinix Note 40X 5G,14999,61,TRUE,TRUE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,256,5000,18W,6.78,1080 x 2406 ,120,3,1,108,8,1 TB,android,Budget
+oneplus,OnePlus Ace 5,26990,75,TRUE,TRUE,TRUE,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,12,256,6415,80W,6.78,1264 x 2780 ,120,3,1,50,16,0,android,Mid-Range
+oppo,OPPO Reno 12 5G,29999,66,TRUE,FALSE,TRUE,Dimensity 7300,dimensity,Octa Core,2.5,8,256,5000,80W,6.7,1080 x 2412 ,120,3,1,50,32,0,android,Mid-Range
+vivo,Vivo X Fold 3 Pro,116999,95,TRUE,TRUE,TRUE,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,16,512,5700,100W,8.03,2200 x 2480 ,120,3,2,64,32,0,android,Flagship
+poco,Poco F6 5G,29990,71,TRUE,TRUE,TRUE,Snapdragon 8s Gen3,snapdragon,Octa Core,3,8,256,5000,90W,6.67,1220 x 2712 ,120,2,1,50,20,0,android,Mid-Range
+motorola,Motorola Edge 50 Pro 5G,29999,74,TRUE,TRUE,FALSE,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8,256,4500,68W,6.7,1220 x 2712 ,144,3,1,50,50,0,android,Mid-Range
+samsung,Samsung Galaxy A35 5G (8GB RAM + 256GB),36999,64,TRUE,TRUE,FALSE,Exynos 1380,exynos,Octa Core,2.4,8,256,5000,25W,6.6,1080 x 2340 ,120,3,1,50,13,1 TB,android,Premium
+vivo,Vivo V30 Pro 5G,41999,70,TRUE,FALSE,FALSE,Dimensity 8200,dimensity,Octa Core,3.1,8,256,5000,80W,6.78,1260 x 2800 ,120,3,1,50,50,0,android,Premium
+realme,Realme Note 50,5499,41,FALSE,FALSE,FALSE,Unisoc T612,unisoc,Octa Core,,4,64,5000,10W,6.74,720 x 1600 ,90,2,1,13,5,Not Specified,android,Budget
+vivo,Vivo S19 Pro,37990,74,TRUE,TRUE,TRUE,Dimensity 9200 Plus,dimensity,Octa Core,3.35,8,256,5500,80W,6.78,1260 x 2800 ,120,3,1,50,50,0,android,Premium
+lava,Lava O1,6999,40,FALSE,FALSE,FALSE,Unisoc T606,unisoc,Octa Core,2,4,64,5000,18W,6.56,1600 x 720 ,90,2,1,13,5,256 GB,android,Budget
+xiaomi,Xiaomi Redmi Note 12 Pro 5G,22499,62,TRUE,FALSE,TRUE,Dimensity 1080,dimensity,Octa Core,2.6,6,128,5000,67W,6.67,1080 x 2400 ,120,3,1,50,16,0,android,Mid-Range
+google,Google Pixel 7 5G,29499,66,TRUE,TRUE,FALSE,Tensor G2,tensor,Octa Core,2.85,8,128,4355,30W,6.3,1080 x 2400 ,90,2,1,50,10.8,0,android,Mid-Range
+google,Google Pixel 6,25499,64,TRUE,TRUE,FALSE,Tensor,tensor,Octa Core,2.8,8,128,4614,30W,6.4,1080 x 2400 ,90,2,1,50,8,0,android,Mid-Range
+realme,Realme C2,6999,35,FALSE,FALSE,FALSE,Helio P22,helio,Octa Core,2,2,16,4000,,6.1,1560 x 720 ,60,2,1,13,5,256 GB,android,Budget
+lava,Lava Bold N2 5G,11999,46,TRUE,FALSE,FALSE,Unisoc T8200,unisoc,Octa Core,,4,64,6000,18W,6.75,720 x 1600 ,120,2,1,13,5,1 TB,android,Budget
+oneplus,OnePlus 16T,62990,84,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 6,snapdragon,Octa Core,,12,256,8000,100W,6.32,1216 x 2640 ,165,2,1,50,50,0,android,Flagship
+tecno,Tecno Camon 50 Slim,24990,58,FALSE,TRUE,TRUE,Helio G200 Ultimate,helio,Octa Core,,8,128,5600,60W,6.78,1224 x 2720 ,144,2,1,50,32,2 TB,android,Mid-Range
+realme,Realme 16T 5G (8GB RAM + 128GB),27990,64,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,8000,45W,6.8,720 x 1570 ,144,2,1,50,16,2 TB,android,Mid-Range
+realme,Realme 16T 5G (8GB RAM + 256GB),31999,66,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,256,8000,45W,6.8,720 x 1570 ,144,2,1,50,16,2 TB,android,Premium
+vivo,Vivo X500e,62990,83,TRUE,TRUE,TRUE,,,Octa Core,,12,256,7000,90W,6.39,1216 x 2640 ,120,3,1,200,50,0,android,Flagship
+huawei,Huawei Nova 15 Max,59990,67,TRUE,TRUE,TRUE,,,Octa Core,,8,256,8500,40W,6.84,1272 x 2756 ,120,1,1,50,8,Not Specified,other,Premium
+xiaomi,Xiaomi Redmi A7 4G,10499,44,FALSE,FALSE,FALSE,Unisoc T7250,unisoc,Octa Core,1.8,3,64,5200,15W,6.88,1640 x 720 ,120,1,1,13,8,2 TB,android,Budget
+xiaomi,Xiaomi Redmi K90 Max,45990,81,TRUE,TRUE,TRUE,Dimensity 9500,dimensity,Octa Core,,12,256,7500,100W,6.9,1200 x 2608 ,120,2,1,50,32,0,android,Premium
+oppo,OPPO K15 Turbo Pro,45999,76,TRUE,FALSE,TRUE,,,Octa Core,,8,256,7800,80W,6.78,1280 x 2800 ,165,2,1,200,16,0,android,Premium
+oneplus,OnePlus Nord 6 Naruto Edition,39990,76,TRUE,TRUE,TRUE,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,8,256,9000,80W,6.78,1272 x 2800 ,165,2,1,50,32,0,android,Premium
+poco,Poco C85x 5G (4GB RAM + 128GB),14130,53,TRUE,FALSE,FALSE,Unisoc T8300,unisoc,Octa Core,2.2,4,128,6300,15W,6.9,720 x 1600 ,120,1,1,32,8,2 TB,android,Budget
+ai+,Ai+ Pulse 2,10268,46,FALSE,FALSE,FALSE,Unisoc T7250,unisoc,Octa Core,1.8,4,64,6000,10W,6.75,720 x 1600 ,120,2,1,50,8,1 TB,android,Budget
+oneplus,OnePlus 17,99990,90,TRUE,TRUE,TRUE,,,Octa Core,,12,256,10001,120W,6.82,1440 x 3216 ,240,3,1,200,50,0,android,Flagship
+tecno,Tecno Pova Curve 2 5G (8GB RAM +256GB),31999,63,TRUE,FALSE,TRUE,Dimensity 7100,dimensity,Octa Core,2.4,8,256,8000,45W,6.78,1208 x 2644 ,144,2,1,50,13,0,android,Premium
+oppo,Oppo Reno 15c 5G (12GB RAM + 256GB),44999,70,TRUE,FALSE,TRUE,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,12,256,7000,80W,6.57,1080 x 2372 ,120,3,1,50,50,0,android,Premium
+xiaomi,Xiaomi Redmi Note 15 Pro Plus (12GB RAM + 256GB),41999,80,TRUE,TRUE,TRUE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,12,256,6500,100W,6.83,1280 x 2772 ,120,2,1,200,32,0,android,Premium
+poco,Poco M8 5G (8GB RAM + 128GB),21839,62,TRUE,FALSE,TRUE,Snapdragon 6 Gen3,snapdragon,Octa Core,,8,128,5520,45W,6.77,1080 x 2392 ,120,2,1,50,20,1 TB,android,Mid-Range
+vivo,Vivo Y500 4G,19990,58,FALSE,TRUE,FALSE,UNISOC T7300,unisoc,Octa Core,,8,128,8100,90W,6.77,1080 x 2392 ,120,2,1,50,8,2 TB,android,Mid-Range
+oppo,OPPO Reno 15 Pro 5G (12GB RAM + 512GB),72999,88,TRUE,TRUE,TRUE,Dimensity 8450,dimensity,Octa Core,3.25,12,512,6500,80W,6.78,1272 x 2772 ,120,3,1,200,50,0,android,Flagship
+lava,Lava Play Max,16399,54,TRUE,FALSE,FALSE,Dimensity 7300,dimensity,Octa Core,2.5,6,128,5000,33W,6.72,1080 x 1920 ,120,1,1,50,8,1 TB,android,Mid-Range
+samsung,Samsung Galaxy F17 5G (8GB RAM + 128GB),22999,59,TRUE,TRUE,FALSE,Exynos 1330,exynos,Octa Core,2.4,8,128,5000,25W,6.7,1080 x 2340 ,90,3,1,50,13,2 TB,android,Mid-Range
+poco,Poco F8 Pro,44990,81,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12,256,6210,100W,6.59,1156 x 2510 ,120,3,1,50,20,0,android,Premium
+itel,itel A100C,9999,37,FALSE,FALSE,TRUE,Unisoc T7100,unisoc,Octa Core,,2,64,5000,0,6.6,720 x 1612 ,90,1,1,8,5,Not Specified,android,Budget
+google,Google Pixel 11 Pro,111999,83,TRUE,TRUE,FALSE,Tensor G6,tensor,,,16,256,5000,45W,6.31,1280 x 2856 ,144,3,1,50,48,0,android,Flagship
+samsung,Samsung Galaxy F08,8999,44,FALSE,FALSE,FALSE,Helio G100,helio,Octa Core,,4,128,5000,25W,6.74,720 x 1600 ,60,2,1,50,16,Not Specified,android,Budget
+oppo,Oppo K13s,19990,57,TRUE,TRUE,TRUE,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8,256,7000,,6.8,1280 x 2800 ,60,2,1,50,32,0,android,Mid-Range
+motorola,Motorola Moto X70 Air,29990,76,TRUE,TRUE,FALSE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,12,256,4800,68W,6.7,1220 x 2712 ,120,2,1,50,50,1 TB,android,Mid-Range
+honor,Honor X7d 5G,14999,52,TRUE,TRUE,FALSE,Snapdragon 6s Gen3,snapdragon,Octa Core,2.3,6,128,6500,35W,6.77,720 x 1610 ,120,2,1,50,5,0,android,Budget
+realme,Realme P4 Pro 5G (8GB RAM + 256GB),30990,72,TRUE,FALSE,TRUE,Snapdragon 7 Gen 4,snapdragon,Octa Core,,8,256,7000,80W,6.8,1280 x 2800 ,144,2,1,50,50,0,android,Premium
+vivo,Vivo T4R 5G (12GB RAM + 256GB),28399,67,TRUE,FALSE,FALSE,Dimensity 7400,dimensity,Octa Core,2.6,12,256,5700,44W,6.77,1080 x 2392 ,120,2,1,50,32,0,android,Mid-Range
+realme,Realme C71 (6GB RAM + 128GB),12647,44,FALSE,FALSE,FALSE,Unisoc UMS9230E,unisoc,Octa Core,1.8,6,128,6300,15W,6.75,720 x 1600 ,90,1,1,13,5,Not Specified,android,Budget
+oppo,OPPO Reno 14 5G (12GB RAM + 512GB),47999,79,TRUE,FALSE,TRUE,Dimensity 8350,dimensity,Octa Core,3.35,12,512,6000,80W,6.59,1256 x 2760 ,120,3,1,50,50,0,android,Premium
+realme,Realme Narzo 80 Lite 5G,16798,53,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,6000,15W,6.67,720 x 1604 ,120,2,1,32,8,2 TB,android,Mid-Range
+realme,Realme GT 7 Dream Edition,49999,89,TRUE,TRUE,TRUE,Dimensity 9400e,dimensity,Octa Core,3.4,16,512,7000,120W,6.78,1264 x 2780 ,120,3,1,50,32,0,android,Premium
+asus,Asus ROG Phone 10 Pro,112990,84,TRUE,TRUE,FALSE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,16,512,6000,80W,6.82,1080 x 2400 ,60,3,1,50,32,0,android,Flagship
+realme,Realme GT 10000 mAh,34990,74,TRUE,TRUE,TRUE,,,Octa Core,,8,256,10000,320W,6.8,1264 x 2780 ,144,2,1,50,32,0,android,Premium
+samsung,Samsung Galaxy F06 5G (4GB RAM + 64GB),12249,48,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,64,5000,25W,6.7,720 x 1600 ,60,2,1,50,8,1 TB,android,Budget
+infinix,Infinix Note 50s 5G (8GB RAM + 256GB),24999,64,TRUE,FALSE,TRUE,Dimensity 7300 Ultimate,dimensity,Octa Core,2.5,8,256,5500,45W,6.78,1080 x 2436 ,144,2,1,64,13,0,android,Mid-Range
+realme,Realme Narzo 90 Pro 5G,21990,64,TRUE,FALSE,FALSE,,,Octa Core,,8,128,6500,100W,6.78,1080 x 2392 ,120,3,1,50,32,0,android,Mid-Range
+nubia,Nubia Red Magic 10 Air,40999,74,TRUE,TRUE,TRUE,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,12,256,6000,80W,6.8,1116 x 2480 ,120,2,1,50,16,0,android,Premium
+vivo,Vivo Y19e,11995,40,FALSE,FALSE,FALSE,Unisoc T7225,unisoc,Octa Core,1.8,4,64,5500,15W,6.74,720 x 1600 ,60,2,1,13,5,Not Specified,android,Budget
+motorola,Motorola Moto G95 5G,22990,62,TRUE,FALSE,FALSE,Snapdragon 6 Gen4,snapdragon,Octa Core,2.3,8,128,5600,33W,6.74,1080 x 2400 ,120,2,1,50,32,0,android,Mid-Range
+realme,Realme 14 Pro 5G,27999,62,TRUE,FALSE,FALSE,Dimensity 7300 Energy,dimensity,Octa Core,2.5,8,128,6000,45W,6.77,1080 x 2392 ,120,2,1,50,16,0,android,Mid-Range
+tecno,Tecno Pop 9 5G (8GB RAM + 128GB),10999,55,TRUE,TRUE,TRUE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,5000,18W,6.67,720 x 1612 ,120,2,1,48,8,1 TB,android,Budget
+motorola,Motorola Moto G06,7999,49,FALSE,TRUE,FALSE,Helio G81 Ultra,helio,Octa Core,2,4,64,5200,10W,6.88,720 x 1640 ,120,1,1,50,8,1 TB,android,Budget
+honor,Honor Magic 8 Pro,97990,94,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,512,7100,100W,6.71,1256 x 2808 ,120,3,1,200,50,0,android,Flagship
+realme,Realme 14x 5G,16999,55,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,6000,45W,6.67,720 x 1604 ,120,2,1,50,8,0,android,Mid-Range
+xiaomi,Xiaomi Redmi Note 14 (8GB RAM + 256GB),24892,66,TRUE,FALSE,TRUE,Dimensity 7025 Ultra,dimensity,Octa Core,2.5,8,256,5110,45W,6.67,1080 x 2400 ,120,3,1,50,20,1 TB,android,Mid-Range
+xiaomi,Xiaomi Redmi Note 14 Pro Plus (8GB RAM + 256GB),29600,71,TRUE,FALSE,TRUE,Snapdragon 7s Gen3,snapdragon,Octa Core,2.5,8,256,6200,90W,6.67,1220 x 2712 ,120,3,1,50,20,0,android,Mid-Range
+iqoo,iQOO Z9s 5G,25899,62,TRUE,FALSE,FALSE,Dimensity 7300,dimensity,Octa Core,2.5,8,128,5500,44W,6.77,1080 x 2392 ,120,2,1,50,16,0,android,Mid-Range
+realme,Realme GT 8,52990,81,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12,256,7000,100W,6.79,1440 x 3136 ,144,3,1,50,16,0,android,Premium
+realme,Realme 14 5G,21990,61,TRUE,FALSE,FALSE,Snapdragon 6 Gen4,snapdragon,Octa Core,2.3,12,256,6000,45W,6.67,1080 x 2400 ,120,1,1,50,16,0,android,Mid-Range
+lava,Lava Blaze X 5G,14999,57,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,5000,33W,6.67,1080 x 2400 ,120,2,1,64,16,0,android,Budget
+samsung,Samsung Galaxy Z Fold 6,149999,89,TRUE,TRUE,FALSE,Snapdragon 8 Gen 3,snapdragon,Octa Core,3.39,12,256,4400,25W,7.6,1856 x 2160 ,120,3,2,50,10,0,android,Flagship
+oppo,OPPO Reno 12 Pro 5G,38990,74,TRUE,TRUE,TRUE,Dimensity 7300 Energy,dimensity,Octa Core,2.5,12,256,5000,80W,6.7,1080 x 2412 ,120,3,1,50,50,0,android,Premium
+sony,Sony Xperia 1 VII,140990,83,TRUE,TRUE,FALSE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12,256,5000,30W,6.5,1080 x 2340 ,120,3,1,48,12,0,android,Flagship
+realme,Realme GT 6T (12GB RAM + 256GB),37999,71,TRUE,TRUE,TRUE,Snapdragon 7+ Gen3,snapdragon,Octa Core,2.8,12,256,5500,120W,6.78,1264 x 2780 ,120,2,1,50,32,0,android,Premium
+vivo,Vivo X200 Ultra,76990,89,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,12,256,6000,90W,6.82,1440 x 3168 ,120,3,1,200,50,0,android,Flagship
+oppo,Oppo A1s 5G,13990,53,TRUE,FALSE,FALSE,Dimensity 6020,dimensity,Octa Core,2.2,12,256,5000,33W,6.72,1080 x 2400 ,90,2,1,50,8,0,android,Budget
+realme,Realme 13x,12999,59,TRUE,FALSE,FALSE,Dimensity 6020,dimensity,Octa Core,2.2,6,128,5000,67W,6.78,1080 x 2400 ,144,3,1,50,16,2 TB,android,Budget
+samsung,Samsung Galaxy M15 5G,15999,54,TRUE,FALSE,FALSE,Dimensity 6100 Plus,dimensity,Octa Core,2.2,4,128,6000,25W,6.45,1080 x 2340 ,90,3,1,50,13,1 TB,android,Mid-Range
+samsung,Samsung Galaxy A55 5G (12GB RAM + 256GB),49999,66,TRUE,TRUE,FALSE,Exynos 1480,exynos,Octa Core,2.7,12,256,5000,25W,6.6,1080 x 2340 ,120,3,1,50,32,1 TB,android,Premium
+vivo,Vivo V30 5G,32990,68,TRUE,FALSE,FALSE,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,8,128,5000,80W,6.78,1260 x 2800 ,120,2,1,50,50,0,android,Premium
+nubia,Nubia Neo 2,18990,58,TRUE,TRUE,FALSE,Unisoc T820,unisoc,Octa Core,2.7,8,256,6000,33W,6.72,1080 x 2400 ,120,2,1,50,16,0,android,Mid-Range
+motorola,Motorola Moto G04 (8 GB RAM + 128GB),10999,45,FALSE,FALSE,FALSE,Unisoc T606,unisoc,Octa Core,1.6,8,128,5000,15W,6.56,720 x 1600 ,90,1,1,16,5,1 TB,android,Budget
+samsung,Samsung Galaxy S24 5G,57999,77,TRUE,TRUE,FALSE,Exynos 2400,exynos,Deca Core,3.2,8,256,4000,25W,6.2,1080 x 2340 ,120,3,1,50,12,0,android,Premium
+nubia,Nubia Red Magic 10 Pro Plus 5G,69990,83,TRUE,TRUE,TRUE,Snapdragon 8 Elite,snapdragon,Octa Core,4.32,16,512,7050,120W,6.85,1216 x 2688 ,144,3,1,50,16,0,android,Flagship
+xiaomi,Xiaomi Redmi 14 5G,14999,58,TRUE,FALSE,TRUE,Snapdragon 4s Gen2,snapdragon,Octa Core,,8,128,5000,44W,6.82,1080 x 2460 ,120,2,1,108,16,1 TB,android,Budget
+motorola,Motorola Moto G24 5G,11999,57,TRUE,FALSE,FALSE,Dimensity 1080,dimensity,Octa Core,2.6,8,128,6000,18W,6.58,1080 x 2400 ,120,2,1,50,8,1 TB,android,Budget
+google,Google Pixel 8 (8GB RAM + 256 GB),54999,70,TRUE,TRUE,FALSE,Tensor G3,tensor,Nine Core,3,8,256,4575,30W,6.2,1080 x 2400 ,120,2,1,50,10.5,0,android,Premium
+motorola,Motorola Moto G54 5G (12GB RAM +256GB),21999,62,TRUE,FALSE,FALSE,Dimensity 7020,dimensity,Octa Core,2.2,12,256,6000,33W,6.5,1080 x 2400 ,120,2,1,50,16,1 TB,android,Mid-Range
+apple,Apple iPhone 17 Plus,99999,66,TRUE,TRUE,FALSE,Apple A19,apple,Hexa Core,,8,256,,,6.8,1284 x 3200 ,120,2,1,48,18,0,ios,Flagship
+samsung,Samsung Galaxy Z Flip 5,59980,76,TRUE,TRUE,FALSE,Snapdragon 8 Gen 2,snapdragon,Octa Core,3.2,8,256,3700,25W,6.7,1080 x 2640 ,120,2,1,12,10,0,android,Premium
+samsung,Samsung Galaxy Z Fold 5,154999,86,TRUE,TRUE,FALSE,Snapdragon 8 Gen 2,snapdragon,Octa Core,3.36,12,256,4400,25W,7.6,1812 x 2176 ,120,3,2,50,10,0,android,Flagship
+oppo,OPPO Reno 10,38990,67,TRUE,TRUE,TRUE,Dimensity 7050,dimensity,Octa Core,2.6,8,256,5000,67W,6.7,1080 x 2412 ,120,3,1,64,32,0,android,Premium
+samsung,Samsung Galaxy F54,35999,68,TRUE,TRUE,FALSE,Exynos 1380,exynos,Octa Core,2.4,8,256,6000,25W,6.7,1080 x 2408 ,120,3,1,108,32,1 TB,android,Premium
+realme,Realme GT Neo 6 SE,19990,68,TRUE,TRUE,TRUE,Snapdragon 7+ Gen3,snapdragon,Octa Core,2.8,8,256,5500,100W,6.78,1264 x 2780 ,120,2,1,50,32,0,android,Mid-Range
+google,Google Pixel 7 Pro 5G,37990,72,TRUE,TRUE,FALSE,Tensor G2,tensor,Octa Core,2.85,12,128,5000,30W,6.7,1440 x 3120 ,120,3,1,50,10.8,0,android,Premium
+sony,Sony Xperia L5 5G,15990,44,FALSE,TRUE,FALSE,Helio P35,helio,Octa Core,2.3,4,64,4000,0,6.2,720 x 1680 ,60,3,1,13,8,512 GB,android,Mid-Range
+realme,Realme GT 2 Pro 5G,27990,68,TRUE,TRUE,FALSE,Snapdragon 8 Gen1,snapdragon,Octa Core,3,8,128,5000,65W,6.7,1440 x 3216 ,120,3,1,50,32,0,android,Mid-Range
+motorola,Motorola Edge 30 Pro 5G,24990,71,TRUE,TRUE,FALSE,Snapdragon 8 Gen1,snapdragon,Octa Core,3,8,128,4800,68W,6.7,1080 x 2400 ,144,3,1,50,60,0,android,Mid-Range
+xiaomi,Xiaomi Mi 11i 5G,24999,59,TRUE,FALSE,TRUE,Dimensity  920 5G,dimensity,Octa Core,2.5,6,128,5160,67W,6.67,2400 x 1080 ,120,3,1,108,16,1 TB,android,Mid-Range
+oppo,Oppo A56 5G,17990,46,TRUE,FALSE,FALSE,Dimensity 700 5G,dimensity,Octa Core,2.2,6,128,5000,,6.5,720 x 1600 ,60,2,1,13,8,Not Specified,android,Mid-Range
+realme,Realme 7,11999,52,FALSE,FALSE,FALSE,Helio  G95,helio,Octa Core,2.05,6,64,5000,30W,6.5,1080 x 2400 ,90,4,1,64,16,256 GB,android,Budget
+oppo,Oppo Reno 2F,18990,50,FALSE,FALSE,FALSE,Helio P70,helio,Octa Core,2.1,8,128,4000,0,6.53,1080 x 2340 ,60,4,1,48,16,256 GB,android,Mid-Range
+xiaomi,Xiaomi Redmi Turbo 6,43999,81,TRUE,TRUE,TRUE,,,Octa Core,,8,256,8000,100W,6.67,1268 x 2756 ,144,2,1,50,32,0,android,Premium
+nubia,Nubia Neo 5 Max,39990,58,TRUE,TRUE,FALSE,Dimensity 7100,dimensity,,,8,256,7000,80W,7.5,1080 x 2400 ,60,2,1,50,16,0,android,Premium
+hmd,HMD Vibe 2 5G (6GB RAM + 128GB),18999,52,TRUE,FALSE,FALSE,Unisoc T8200,unisoc,Octa Core,2.3,6,128,6000,18W,6.75,720 x 1600 ,120,2,1,50,8,1 TB,android,Mid-Range
+oppo,OPPO Reno 16 FS,46999,67,TRUE,TRUE,FALSE,Dimensity 7300,dimensity,Octa Core,2.5,8,512,6500,45W,6.57,1080 x 2372 ,60,3,1,50,50,Not Specified,android,Premium
+iqoo,iQOO Z11 Lite,17999,62,TRUE,TRUE,TRUE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,6500,44W,6.78,1080 x 2430 ,120,2,1,50,8,0,android,Mid-Range
+oppo,Oppo A6c 4G (4GB RAM + 128GB),16999,44,FALSE,FALSE,FALSE,Unisoc T7250,unisoc,Octa Core,1.8,4,128,7000,15W,6.75,720 x 1570 ,120,1,1,13,5,0,android,Mid-Range
+vivo,Vivo T5 4G,19990,59,TRUE,TRUE,TRUE,Snapdragon 6s Gen2,snapdragon,Octa Core,2.9,8,256,7200,44W,6.75,720 x 1570 ,120,2,1,50,32,0,android,Mid-Range
+xiaomi,Xiaomi Redmi 17 5G,19999,57,TRUE,FALSE,TRUE,Snapdragon 6s Gen4,snapdragon,Octa Core,,6,128,7000,45W,6.9,1080 x 2340 ,144,2,1,50,8,1 TB,android,Mid-Range
+oppo,Oppo Find X9s 5G (12GB RAM + 512GB),89999,84,TRUE,TRUE,TRUE,Dimensity 9500s,dimensity,Octa Core,3.73,12,512,7025,80W,6.59,1216 x 2640 ,120,3,1,50,32,0,android,Flagship
+poco,Poco X9 Pro Max,44999,80,TRUE,FALSE,TRUE,,,Octa Core,,12,256,10000,120W,6.83,1280 x 2772 ,144,2,1,200,32,0,android,Premium
+vivo,Vivo Y6 5G,19990,58,TRUE,FALSE,FALSE,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8,128,7200,44W,6.75,720 x 1570 ,120,2,1,50,8,0,android,Mid-Range
+realme,Realme Narzo 100 Lite 5G (6GB RAM + 128GB),18749,52,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,7000,15W,6.8,720 x 1570 ,144,2,1,13,5,2 TB,android,Mid-Range
+oppo,Oppo F33 5G (8GB RAM + 128GB),32999,64,TRUE,FALSE,TRUE,Dimensity 6360 MAX,dimensity,Octa Core,,8,128,7000,80W,6.57,1080 x 2372 ,120,2,1,50,16,0,android,Premium
+tecno,Tecno Spark 50 5G (6GB RAM + 128GB),19999,55,TRUE,FALSE,TRUE,Dimensity 6400,dimensity,Octa Core,2.5,6,128,6500,45W,6.78,720 x 1576 ,120,1,1,50,8,Not Specified,android,Mid-Range
+realme,Realme 16 5G (12GB RAM + 256GB),36999,71,TRUE,FALSE,FALSE,Dimensity 6400 Turbo,dimensity,Octa Core,2.5,12,256,7000,60W,6.57,1080 x 2372 ,120,2,1,50,50,0,android,Premium
+honor,Honor X80 GT,30990,64,TRUE,TRUE,TRUE,,,Octa Core,,8,256,13080,80W,6.79,1224 x 2700 ,120,2,1,50,16,0,android,Premium
+ai+,Ai+ Pulse 2 (6GB RAM + 128GB),11999,48,FALSE,FALSE,FALSE,Unisoc T7250,unisoc,Octa Core,1.8,6,128,6000,10W,6.75,720 x 1600 ,120,2,1,50,8,1 TB,android,Budget
+samsung,Samsung Galaxy Jump 5,28999,59,TRUE,TRUE,FALSE,Snapdragon 6 Gen3,snapdragon,Octa Core,2.4,6,128,5000,25W,6.7,1080 x 2340 ,120,3,1,50,12,2 TB,android,Mid-Range
+realme,Realme C83 5G (4GB RAM + 128GB),15344,52,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,7000,15W,6.8,720 x 1570 ,144,1,1,13,5,2 TB,android,Mid-Range
+samsung,Samsung Galaxy S26 (12GB RAM + 512GB),99999,79,TRUE,TRUE,FALSE,Exynos 2600,exynos,Deca Core,3.8,12,512,4300,25W,6.3,1080 x 2340 ,120,3,1,50,12,0,android,Flagship
+infinix,Infinix Note Edge 5G (8GB RAM + 256GB),26999,67,TRUE,TRUE,TRUE,Dimensity 7100,dimensity,Octa Core,2.4,8,256,6500,45W,6.78,1208 x 2644 ,120,2,1,50,13,0,android,Mid-Range
+oppo,Oppo Find X10,79990,84,TRUE,TRUE,TRUE,Dimensity 9500 Plus,dimensity,Octa Core,,12,256,8000,80W,6.59,1256 x 2760 ,165,3,1,200,50,0,android,Flagship
+oppo,Oppo A6 5G (6GB RAM + 256GB),25999,59,TRUE,TRUE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,256,7000,45W,6.75,720 x 1570 ,120,2,1,50,8,Not Specified,android,Mid-Range
+oppo,Oppo A6t 5G,12999,52,TRUE,TRUE,FALSE,Dimensity 6300,dimensity,Octa Core,,4,128,6500,0,6.75,720 x 1570 ,120,2,1,50,5,Not Specified,android,Budget
+oppo,Oppo A6s 4G,11990,54,FALSE,TRUE,FALSE,Snapdragon 685,snapdragon,Octa Core,2.8,8,128,7000,80W,6.75,720 x 1570 ,120,2,1,50,16,Not Specified,android,Budget
+realme,Realme 16 Pro Plus 5G (8GB+256GB),45569,80,TRUE,TRUE,TRUE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,8,256,7000,80W,6.8,1280 x 2800 ,144,3,1,200,50,0,android,Premium
+realme,Realme 16 Pro Plus 5G (12GB+256GB),48999,81,TRUE,TRUE,TRUE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,12,256,7000,80W,6.8,1280 x 2800 ,144,3,1,200,50,0,android,Premium
+xiaomi,Xiaomi Redmi Turbo 5 Pro,42990,72,TRUE,TRUE,TRUE,Dimensity 9500e,dimensity,Octa Core,,12,256,9000,100W,6.7,1220 x 2712 ,120,2,1,50,32,0,android,Premium
+poco,POCO C85 5G (6GB RAM + 128GB),16001,58,TRUE,TRUE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,6000,33W,6.9,720 x 1600 ,120,2,1,50,8,1 TB,android,Mid-Range
+poco,POCO C85 5G (8GB RAM + 128GB),16990,58,TRUE,TRUE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,6000,33W,6.9,720 x 1600 ,120,2,1,50,8,1 TB,android,Mid-Range
+iqoo,iQOO Z11 Turbo Pro,34999,80,TRUE,TRUE,TRUE,,,Octa Core,,12,256,7500,100W,6.78,1260 x 2800 ,120,2,1,50,50,0,android,Premium
+xiaomi,Xiaomi Redmi 15C 5G (8GB RAM + 128GB),19499,57,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,6000,33W,6.9,720 x 1600 ,120,2,1,50,8,1 TB,android,Mid-Range
+motorola,Motorola Edge 70 Ultra,89990,86,TRUE,TRUE,FALSE,Snapdragon 8 Gen 5,snapdragon,Octa Core,,12,512,7000,11200W,6.7,1200 x 2780 ,120,4,1,50,60,0,android,Flagship
+oneplus,OnePlus Ace 6T,34990,75,TRUE,TRUE,TRUE,Snapdragon 8 Gen5,snapdragon,Octa Core,3.84,12,256,8300,100W,6.83,1272 x 2800 ,165,2,1,50,16,0,android,Premium
+google,Google Pixel 10 Pro Fold,159499,88,TRUE,TRUE,FALSE,Tensor G5,tensor,Octa Core,3.78,16,256,5015,30W,8,2076 x 2152 ,120,3,2,48,10,0,android,Flagship
+honor,Honor Magic V6,169990,94,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,16,512,6660,80W,7.95,2172 x 2352 ,120,3,2,64,20,0,android,Flagship
+xiaomi,Xiaomi 17 Pro,82990,92,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,256,6300,100W,6.3,1220 x 2656 ,144,3,1,50,50,0,android,Flagship
+infinix,Infinix Note 60x,12990,57,TRUE,FALSE,TRUE,Dimensity 7400,dimensity,Octa Core,2.6,6,128,6000,45W,6.67,720 x 1600 ,120,2,1,50,16,0,android,Budget
+lava,LAVA Blaze Dragon 5G,9999,55,TRUE,FALSE,FALSE,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,4,128,5000,18W,6.74,720 x 1612 ,120,1,1,50,8,512 GB,android,Budget
+realme,Realme 15 5G (8GB RAM + 256GB),27999,66,TRUE,FALSE,FALSE,Dimensity 7300 Plus,dimensity,Octa Core,,8,256,7000,80W,6.8,1280 x 2800 ,144,2,1,50,50,0,android,Mid-Range
+samsung,Samsung Galaxy Z Flip 8 5G,119999,86,TRUE,TRUE,FALSE,Exynos 2600,exynos,Deca Core,,12,256,4700,25W,7,1080 x 2520 ,120,2,1,50,12,0,android,Flagship
+unihertz,Unihertz Titan 2,34990,66,TRUE,TRUE,TRUE,Dimensity 7300,dimensity,Octa Core,2.5,12,512,5050,33W,4.5,1440 x 1440 ,60,2,1,50,32,0,android,Premium
+samsung,Samsung Galaxy S26 Edge,119999,76,TRUE,TRUE,FALSE,,,Octa Core,,12,256,4000,25W,6.7,1440 x 3120 ,120,2,1,200,20,0,android,Flagship
+oppo,Oppo A5 (2025),18599,57,TRUE,TRUE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,6000,45W,6.67,720 x 1604 ,120,2,1,50,8,2 TB,android,Mid-Range
+itel,itel A95 5G (6GB RAM + 128GB),10699,49,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,5000,18W,6.67,720 x 1600 ,120,2,1,50,8,Not Specified,android,Budget
+iqoo,iQOO Z10x 5G (8GB RAM + 256GB),26591,59,TRUE,FALSE,TRUE,Dimensity 7300,dimensity,Octa Core,2.5,8,256,6500,44W,6.72,1080 x 2408 ,120,2,1,50,8,0,android,Mid-Range
+oppo,Oppo A5 Pro 5G,26990,58,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,5800,45W,6.67,720 x 1604 ,120,2,1,50,8,0,android,Mid-Range
+iqoo,iQOO Z10x 5G (8GB RAM + 128GB),23900,58,TRUE,FALSE,TRUE,Dimensity 7300,dimensity,Octa Core,2.5,8,128,6500,44W,6.72,1080 x 2408 ,120,2,1,50,8,0,android,Mid-Range
+xiaomi,Xiaomi Redmi A5 4G,10898,45,FALSE,FALSE,FALSE,Unisoc T7250,unisoc,Octa Core,1.8,3,64,5200,15W,6.88,720 x 1650 ,120,1,1,32,8,2 TB,android,Budget
+realme,Realme Narzo 80x 5G,13999,57,TRUE,FALSE,FALSE,Dimensity 6400,dimensity,Octa Core,2.5,6,128,6000,45W,6.72,1080 x 2400 ,120,2,1,50,8,0,android,Budget
+oppo,Oppo F29,27534,61,TRUE,FALSE,FALSE,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,8,128,6500,45W,6.7,1080 x 2412 ,120,2,1,50,16,0,android,Mid-Range
+realme,Realme P3 Ultra (12GB RAM + 256GB),31999,68,TRUE,FALSE,TRUE,Dimensity 8350 Ultra,dimensity,Octa Core,3.35,12,256,6000,80W,6.83,1272 x 2800 ,120,2,1,50,16,0,android,Premium
+realme,Realme 14 Pro Lite 5G,21999,63,TRUE,FALSE,FALSE,Snapdragon 7s Gen 2,snapdragon,Octa Core,2.4,8,128,5200,45W,6.7,1080 x 2412 ,120,3,1,50,32,0,android,Mid-Range
+samsung,Samsung Galaxy A56 5G (12GB RAM + 256GB),45999,68,TRUE,TRUE,FALSE,Exynos 1580,exynos,Octa Core,2.9,12,256,5000,45W,6.7,1080 x 2340 ,120,3,1,50,12,0,android,Premium
+honor,Honor 400 Pro,64990,81,TRUE,TRUE,TRUE,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,12,256,6000,100W,6.7,1280 x 2800 ,120,3,2,200,50,0,android,Flagship
+poco,Poco F8,37990,76,TRUE,TRUE,TRUE,Snapdragon 8s Elite,snapdragon,Octa Core,,12,256,7700,100W,6.78,1220 x 2712 ,144,3,1,50,32,0,android,Premium
+iqoo,iQOO Z9 Turbo Endurance Edition,22990,68,TRUE,TRUE,TRUE,Snapdragon 8s Gen3,snapdragon,Octa Core,3,12,256,6400,80W,6.78,1260 x 2800 ,120,2,1,50,16,0,android,Mid-Range
+poco,Poco M8 Pro 5G,27990,67,TRUE,TRUE,TRUE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,8,256,6500,100W,6.83,1280 x 2772 ,120,2,1,50,32,0,android,Mid-Range
+xiaomi,Xiaomi Redmi A4 5G (4GB RAM + 128GB),16094,50,TRUE,FALSE,FALSE,Snapdragon 4s Gen2,snapdragon,Octa Core,2,4,128,5160,18W,6.88,720 x 1640 ,120,2,1,50,5,1 TB,android,Mid-Range
+tecno,Tecno POP 9 4G,6499,39,FALSE,FALSE,TRUE,Helio G50,helio,Octa Core,,3,64,5000,0,6.67,720 x 1600 ,90,1,1,13,8,1 TB,android,Budget
+vivo,Vivo Y300 5G,25999,61,TRUE,FALSE,FALSE,Snapdragon 4 Gen2,snapdragon,Octa Core,2.2,8,128,5000,80W,6.67,1080 x 2400 ,120,2,1,50,32,2 TB,android,Mid-Range
+oneplus,Oneplus 14,69990,85,TRUE,TRUE,TRUE,,,Octa Core,,12,256,6500,120W,6.82,1440 x 3168 ,144,4,1,50,50,0,android,Flagship
+google,Google Pixel 9 Pro,109999,83,TRUE,TRUE,FALSE,Tensor G4,tensor,Octa Core,3.1,16,256,4700,27W,6.3,1280 x 2856 ,120,3,1,50,42,0,android,Flagship
+poco,Poco C75 (8GB RAM + 256GB),10990,52,FALSE,TRUE,FALSE,Helio G81 Ultra,helio,Octa Core,2,8,256,5160,18W,6.88,720 x 1640 ,120,2,1,50,13,1 TB,android,Budget
+infinix,Infinix Hot 50 Pro Plus,17990,55,FALSE,TRUE,FALSE,Helio G100,helio,Octa Core,2.2,8,128,5000,33W,6.78,1080 x 2436 ,120,3,1,50,13,Not Specified,android,Mid-Range
+lava,Lava Agni 3 5G (8GB RAM + 256GB),23999,68,TRUE,FALSE,FALSE,Dimensity 7300X,dimensity,Octa Core,2.5,8,256,5000,66W,6.78,1200 x 2652 ,120,3,1,50,16,0,android,Mid-Range
+vivo,Vivo X200 Pro Mini,55990,84,TRUE,TRUE,TRUE,Dimensity 9400,dimensity,Octa Core,3.63,12,256,5700,90W,6.31,1216 x 2640 ,120,3,1,50,32,0,android,Premium
+vivo,Vivo V40e 5G,28999,66,TRUE,FALSE,FALSE,Dimensity 7300,dimensity,Octa Core,2.5,8,128,5500,80W,6.77,1080 x 2392 ,120,2,1,50,50,0,android,Mid-Range
+samsung,Samsung Galaxy M55s,24999,62,TRUE,TRUE,FALSE,Snapdragon 7 Gen1,snapdragon,Octa Core,2.4,8,128,5000,45W,6.7,1080 x 2400 ,120,3,1,50,50,1 TB,android,Mid-Range
+tecno,Tecno Pova 6 Neo 5G,13999,57,TRUE,TRUE,TRUE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,5000,18W,6.67,720 x 1600 ,120,2,1,108,8,Not Specified,android,Budget
+samsung,Samsung Galaxy A06s,9999,49,TRUE,FALSE,FALSE,,,Octa Core,,4,128,5000,25W,6.7,720 x 1600 ,90,2,1,50,8,1 TB,android,Budget
+samsung,Samsung Galaxy A06,10250,46,FALSE,FALSE,FALSE,Helio G85,helio,Octa Core,2,4,64,5000,25W,6.74,720 x 1600 ,60,2,1,50,8,1 TB,android,Budget
+honor,Honor X60,13990,58,TRUE,FALSE,TRUE,Dimensity 7025,dimensity,Octa Core,2.5,8,128,5800,35W,6.8,1080 x 2412 ,120,2,1,108,8,0,android,Budget
+unihertz,Unihertz Jelly Max,17990,61,TRUE,TRUE,FALSE,Mediatek MT6739,mediatek,Octa Core,2.5,12,256,4000,66W,5.05,720 x 1520 ,120,2,1,100,32,0,android,Mid-Range
+realme,Realme C61,7699,45,FALSE,FALSE,FALSE,Unisoc T612,unisoc,Octa Core,1.8,4,64,5000,18W,6.74,720 x 1600 ,90,1,1,32,5,2 TB,android,Budget
+oppo,Oppo A3 Pro 5G,22990,55,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,5100,45W,6.67,720 x 1604 ,120,2,1,50,8,Not Specified,android,Mid-Range
+realme,Realme GT 6,40999,74,TRUE,TRUE,TRUE,Snapdragon 8s Gen3,snapdragon,Octa Core,3,8,256,5500,120W,6.78,1264 x 2780 ,120,3,1,50,32,0,android,Premium
+poco,Poco F6 5G (12GB RAM +256GB),31990,72,TRUE,TRUE,TRUE,Snapdragon 8s Gen3,snapdragon,Octa Core,3,12,256,5000,90W,6.67,1220 x 2712 ,120,2,1,50,20,0,android,Premium
+iqoo,iQOO Z9x,17890,58,TRUE,FALSE,FALSE,Snapdragon 6 Gen1,snapdragon,Octa Core,2.2,4,128,6000,44W,6.72,1080 x 2408 ,120,2,1,50,8,1 TB,android,Mid-Range
+realme,Realme Neo 7,24990,74,TRUE,TRUE,TRUE,Dimensity 9300 Plus,dimensity,Octa Core,3.25,12,256,7000,80W,6.78,1264 x 2780 ,120,2,1,50,16,0,android,Mid-Range
+samsung,Samsung Galaxy M55,28999,62,TRUE,TRUE,FALSE,Snapdragon 7 Gen1,snapdragon,Octa Core,2.4,8,128,5000,45W,6.67,1080 x 2400 ,120,3,1,50,50,1 TB,android,Mid-Range
+iqoo,iQOO Z9 Turbo,32990,70,TRUE,TRUE,TRUE,Snapdragon 8s Gen3,snapdragon,Octa Core,3,12,256,6000,80W,6.78,1260 x 2800 ,120,2,1,50,16,0,android,Premium
+oneplus,OnePlus Nord N30 SE,18999,55,TRUE,TRUE,FALSE,Dimensity 6020,dimensity,Octa Core,2.2,4,128,5000,33W,6.72,1080 x 2400 ,60,2,1,50,8,0,android,Mid-Range
+xiaomi,Xiaomi Redmi A3,7299,41,FALSE,FALSE,FALSE,Helio G36,helio,Octa Core,2.2,3,64,5000,10W,6.71,720 x 1650 ,90,2,1,8,5,1 TB,android,Budget
+energizer,Energizer P28K,22990,62,FALSE,TRUE,FALSE,Helio G99,helio,Octa Core,2.2,8,256,28000,33W,6.78,1080 x 2460 ,60,3,1,60,16,Not Specified,android,Mid-Range
+realme,Realme 12 Pro Plus 5G (12GB RAM + 256GB),34200,66,TRUE,FALSE,FALSE,Snapdragon 7s Gen2,snapdragon,Octa Core,2.4,12,256,5000,67W,6.7,1080 x 2412 ,120,3,1,64,32,0,android,Premium
+itel,itel A70 4G (4GB RAM + 256GB),8989,40,FALSE,FALSE,FALSE,Unisoc T603,unisoc,Octa Core,,4,256,5000,10W,6.6,720 x 1612 ,60,2,1,13,8,2 TB,android,Budget
+unihertz,Unihertz Jelly Star,11500,44,FALSE,TRUE,FALSE,Helio G99,helio,Octa Core,2.2,8,256,2000,,3.03,480 x 854 ,60,1,1,48,8,0,android,Budget
+nokia,Nokia 7610 5G,52990,72,TRUE,TRUE,FALSE,Snapdragon 7+ Gen2,snapdragon,Octa Core,2.91,12,256,4500,44W,6.67,1080 x 2400 ,120,3,1,108,32,0,android,Premium
+samsung,Samsung Galaxy A76,42990,72,TRUE,TRUE,FALSE,Snapdragon 7+ Gen2,snapdragon,Octa Core,2.91,8,128,5000,45W,6.78,1080 x 2412 ,120,4,1,108,32,1 TB,android,Premium
+vivo,Vivo V27 4G,19990,58,TRUE,FALSE,FALSE,Helio,helio,Octa Core,2,8,128,4600,66W,6.64,1080 x 2400 ,120,3,1,50,16,Not Specified,android,Mid-Range
+realme,Realme GT Neo 3T,23990,63,TRUE,FALSE,FALSE,Snapdragon 870,snapdragon,Octa Core,3.2,6,128,5000,80W,6.62,1080 x 2400 ,120,3,1,64,16,0,android,Mid-Range
+oneplus,OnePlus Nord 2T 5G,28990,64,TRUE,TRUE,FALSE,Dimensity 1300,dimensity,Octa Core,3,8,128,4500,80W,6.43,1080 x 2400 ,90,3,1,50,32,0,android,Mid-Range
+samsung,Samsung Galaxy M74 5G,34999,64,TRUE,FALSE,FALSE,Dimensity 1050,dimensity,Octa Core,2.5,6,128,5000,33W,6.7,1080 x 2460 ,120,4,1,108,32,1 TB,android,Premium
+oneplus,OnePlus 10R 5G,30999,63,TRUE,TRUE,FALSE,Dimensity 8100 Max,dimensity,Octa Core,2.85,8,128,5000,80W,6.7,1080 x 2412 ,120,3,1,50,16,0,android,Premium
+poco,Poco X4 Pro 5G,15999,58,TRUE,FALSE,TRUE,Snapdragon 695,snapdragon,Octa Core,2.2,6,64,5000,67W,6.67,1080 x 2400 ,120,3,1,64,16,1 TB,android,Mid-Range
+samsung,Samsung Galaxy M21 2021,14499,50,FALSE,FALSE,FALSE,Exynos 9611,exynos,Octa Core,2.3,4,64,6000,15W,6.4,1080 x 2340 ,60,3,1,48,20,512 GB,android,Budget
+jio,Jio JioPhone 5G,9990,43,TRUE,FALSE,FALSE,Dimensity 700 5G,dimensity,Octa Core,2.2,4,32,5000,18W,6.5,720 x 1600 ,90,2,1,13,5,512 GB,android,Budget
+oneplus,OnePlus 9R 5G,24950,63,TRUE,TRUE,FALSE,Snapdragon 870,snapdragon,Octa Core,3.2,8,128,4500,65W,6.55,1080 x 2400 ,120,4,1,48,16,0,android,Mid-Range
+samsung,Samsung Galaxy A82 5G,39990,67,TRUE,TRUE,FALSE,Snapdragon 855+,snapdragon,Octa Core,2.96,6,128,4500,25W,6.71,1440 x 3200 ,120,3,1,64,10,1 TB,android,Premium
+samsung,Samsung Galaxy A01 Core,4999,28,FALSE,FALSE,FALSE,(28 nm),mediatek,Quad Core,1.5,1,16,3000,,5.3,720 x 1480 ,60,1,1,8,5,Not Specified,android,Budget
+xiaomi,Xiaomi Redmi K20 Pro Signature Edition,480000,68,FALSE,TRUE,FALSE,Snapdragon  855,snapdragon,Octa Core,2.8,8,256,4000,27W,6.39,1080 x 2340 ,60,3,1,48,20,0,android,Flagship
+tecno,Tecno Pova 8 5G (8GB RAM + 128GB),31999,64,TRUE,TRUE,TRUE,Dimensity 7100,dimensity,Octa Core,2.4,8,128,8000,0,6.76,1080 x 2344 ,144,2,1,50,13,1 TB,android,Premium
+honor,Honor X70 Pro Max,29990,63,TRUE,TRUE,TRUE,Snapdragon 6 Gen4,snapdragon,Octa Core,2.3,8,256,8560,90W,6.79,1200 x 2640 ,120,1,1,50,8,0,android,Mid-Range
+samsung,Samsung Galaxy A06 5G (8GB RAM + 128GB),18673,53,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,5000,25W,6.7,720 x 1600 ,90,2,1,50,8,1 TB,android,Mid-Range
+samsung,Samsung Galaxy A07s,12990,49,TRUE,FALSE,FALSE,,,Octa Core,,4,128,5000,25W,6.7,720 x 1600 ,90,2,1,50,16,1 TB,android,Budget
+oneplus,OnePlus Turbo 6X,25999,66,TRUE,TRUE,TRUE,Dimensity 7360 Super,dimensity,Octa Core,2.5,8,128,7000,45W,6.72,1080 x 2400 ,144,2,1,50,8,0,android,Mid-Range
+hmd,HMD Vibe 2 5G,14999,49,TRUE,FALSE,FALSE,Unisoc T8200,unisoc,Octa Core,2.3,4,64,6000,18W,6.75,720 x 1600 ,120,2,1,50,8,1 TB,android,Budget
+vivo,Vivo V80 Lite,28999,66,TRUE,TRUE,FALSE,,,Octa Core,,8,256,7000,100W,6.78,1080 x 2392 ,120,2,1,50,50,0,android,Mid-Range
+vivo,Vivo V80 FE,39990,79,TRUE,TRUE,TRUE,,,Octa Core,,8,128,7200,90W,6.83,1260 x 2800 ,120,2,1,200,50,0,android,Premium
+vivo,Vivo Y600 Turbo,32990,66,TRUE,TRUE,TRUE,Snapdragon 7s Gen4,snapdragon,Octa Core,2.7,8,256,9020,90W,6.83,1260 x 2800 ,120,2,1,50,8,0,android,Premium
+itel,Itel A100 Pro,8999,35,FALSE,FALSE,TRUE,Unisoc T7100,unisoc,Octa Core,,3,65,5000,10W,6.56,720 x 1600 ,90,1,1,8,5,0,android,Budget
+motorola,Motorola Edge (2026),49990,76,TRUE,TRUE,FALSE,Dimensity 7450,dimensity,Octa Core,2.6,8,128,7000,90W,6.3,1220 x 2712 ,120,3,1,50,50,0,android,Premium
+motorola,Motorola Razr Fold FIFA World Cup 26 Edition,169999,98,TRUE,TRUE,FALSE,Snapdragon 8 Gen5,snapdragon,Octa Core,3.8,16,512,6000,80W,8.09,2232 x 2484 ,120,3,2,50,32,0,android,Flagship
+redmagic,RedMagic 11S Pro Plus,87990,80,TRUE,TRUE,TRUE,Snapdragon 8 Elite Gen 5,snapdragon,Octa Core,4.6,12,256,7500,120W,6.85,1216 x 2688 ,144,2,1,50,16,0,android,Flagship
+ai+,Ai+ Nova Flip,49999,74,TRUE,TRUE,FALSE,Dimensity 7300X,dimensity,Octa Core,2.5,8,256,4325,0,6.9,2790 x 1188 ,60,2,1,50,32,0,android,Premium
+realme,Realme C100i,11990,45,FALSE,FALSE,FALSE,Unisoc T7250,unisoc,Octa Core,1.8,4,64,7000,15W,6.8,720 x 1570 ,120,1,1,8,5,Not Specified,android,Budget
+huawei,Huawei Mate 90 Pro Max,79990,83,TRUE,TRUE,TRUE,,,Octa Core,,12,256,5750,100W,6.75,1280 x 2832 ,144,3,1,50,13,256 GB,other,Flagship
+google,Google Pixel 11 Pro XL,139990,80,TRUE,TRUE,FALSE,Tensor G6,tensor,,,16,256,5000,45W,6.8,1344 x 2992 ,144,3,1,50,48,0,android,Flagship
+lava,Lava Bold N1 5G (6GB RAM + 128GB),14499,48,TRUE,FALSE,FALSE,Unisoc T765,unisoc,Octa Core,2.3,6,128,5000,10W,6.75,720 x 1600 ,60,1,1,13,5,Not Specified,android,Budget
+xiaomi,Xiaomi 17T Pro,119990,83,TRUE,TRUE,TRUE,Dimensity 9500,dimensity,Octa Core,4.21,12,256,7000,100W,6.83,1280 x 2772 ,144,3,1,50,32,0,android,Flagship
+poco,POCO C81,11282,46,FALSE,FALSE,FALSE,Unisoc T7250,unisoc,Octa Core,1.8,4,64,6300,15W,6.9,720 x 1600 ,120,1,1,13,8,2 TB,android,Budget
+lenovo,Lenovo Legion Y70 2026,79999,79,TRUE,TRUE,FALSE,Snapdragon 8 Gen 5,snapdragon,Octa Core,3.8,8,256,8000,90W,6.8,1280 x 2772 ,144,2,1,50,32,0,android,Flagship
+tecno,Tecno POP X 5G,16999,52,TRUE,FALSE,TRUE,Dimensity 6400,dimensity,Octa Core,2.5,4,128,6500,45W,6.78,720 x 1576 ,120,1,1,13,8,1 TB,android,Mid-Range
+xiaomi,Xiaomi Redmi A7 Pro 4G,12499,48,FALSE,FALSE,FALSE,Unisoc T7250,unisoc,Octa Core,1.8,4,64,6300,15W,6.9,1600 x 720 ,120,1,1,13,8,2 TB,android,Budget
+realme,Realme Narzo 100 Lite 5G (4GB RAM + 128GB),16249,50,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,7000,15W,6.8,720 x 1570 ,144,2,1,13,5,2 TB,android,Mid-Range
+huawei,Huawei Enjoy 90m Plus,15999,49,TRUE,FALSE,FALSE,Kirin 8000 SoC,kirin,Octa Core,,8,128,6620,40W,6.67,720 x 1604 ,120,1,1,50,8,0,other,Mid-Range
+lava,Lava Smart 4 Plus,9999,44,FALSE,FALSE,TRUE,Unisoc SC9863A,unisoc,Octa Core,1.6,4,64,5000,10W,6.75,720 x 1600 ,90,1,1,13,5,Not Specified,android,Budget
+xiaomi,Xiaomi Redmi 17C 4G,12999,48,FALSE,TRUE,FALSE,Helio G81 Ultra,helio,Octa Core,2,4,128,5160,33W,6.88,720 x 1600 ,120,1,1,13,5,0,android,Budget
+oppo,OPPO K14 Turbo Pro,45990,75,TRUE,TRUE,TRUE,Dimensity 9500s,dimensity,Octa Core,3.73,8,256,7760,80W,6.8,1280 x 2800 ,120,2,1,50,16,0,android,Premium
+samsung,Samsung Galaxy A37 5G (12GB RAM + 256 GB),48999,71,TRUE,TRUE,FALSE,Exynos 1480,exynos,Octa Core,2.7,12,256,5000,45W,6.7,1080 x 2340 ,120,3,1,50,12,0,android,Premium
+oppo,Oppo A6s 5G (6GB RAM + 128GB),22490,55,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,6,128,6500,45W,6.75,720 x 1570 ,120,2,1,50,5,0,android,Mid-Range
+lava,Lava Bold N2,8999,40,FALSE,FALSE,FALSE,UNISOC 9863a,unisoc,Octa Core,,4,64,5000,10W,6.75,720 x 1600 ,90,2,1,13,5,256 GB,android,Budget
+huawei,Huawei Enjoy 90 Pro Max,23990,58,TRUE,TRUE,TRUE,,,Octa Core,,8,128,8500,40W,6.84,1272 x 2756 ,120,1,1,50,8,Not Specified,other,Mid-Range
+tecno,Tecno POP X,8499,41,FALSE,FALSE,TRUE,Unisoc T7250,unisoc,Octa Core,1.8,4,64,5000,15W,6.74,720 x 1600 ,120,1,1,13,8,1 TB,android,Budget
+oppo,Oppo A6s Pro,28990,59,FALSE,TRUE,FALSE,Helio G100 Max,helio,Octa Core,2.2,8,256,7000,80W,6.57,1080 x 2372 ,60,2,1,50,50,Not Specified,android,Mid-Range
+realme,Realme Narzo 90x (4GB+128GB),16999,57,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,4,128,7000,60W,6.8,720 x 1570 ,144,2,1,50,8,2 TB,android,Mid-Range
+tecno,Tecno Camon 50 Pro 4G,29990,61,FALSE,TRUE,TRUE,Helio G200,helio,Octa Core,2.2,8,256,6150,,6.78,1208 x 2644 ,144,3,1,50,32,0,android,Mid-Range
+oppo,Oppo K14 Turbo,30990,70,TRUE,TRUE,TRUE,Dimensity 8500,dimensity,Octa Core,3.4,8,128,7400,80W,6.6,1280 x 2800 ,120,2,1,50,16,0,android,Premium
+oppo,Oppo Find X10 Pro 5G,119990,92,TRUE,TRUE,TRUE,Dimensity 9600,dimensity,Octa Core,,16,512,8500,100W,6.82,1272 x 2772 ,120,3,1,200,50,0,android,Flagship
+samsung,Samsung Galaxy F70,25999,58,TRUE,FALSE,FALSE,Exynos,exynos,Octa Core,,8,128,5000,45W,6.74,1080 x 2340 ,120,2,1,50,16,0,android,Mid-Range
+honor,Honor Magic 9 Pro,109990,88,TRUE,TRUE,TRUE,,,Octa Core,,12,512,7500,100W,6.85,1256 x 2808 ,120,3,1,200,50,0,android,Flagship
+oppo,OPPO Reno 16C 5G (12GB RAM + 256GB),55999,77,TRUE,FALSE,FALSE,Dimensity 7300 Energy,dimensity,Octa Core,2.5,12,256,7000,80W,6.57,2372 x 1080 ,120,3,1,50,50,0,android,Premium
+xiaomi,Xiaomi Redmi K100 Pro Max,64999,86,TRUE,TRUE,TRUE,,,Octa Core,,12,256,8000,100W,6.9,1200 x 2608 ,165,3,1,50,50,0,android,Flagship
+oppo,OPPO Reno 15 5G (12GB RAM + 512GB),55999,81,TRUE,FALSE,TRUE,Snapdragon 7 Gen4,snapdragon,Octa Core,2.8,12,512,6500,80W,6.59,1256 x 2760 ,120,3,1,50,50,0,android,Premium
+realme,Realme Narzo 90x (8GB+128GB),20999,59,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,128,7000,60W,6.8,720 x 1570 ,144,2,1,50,8,2 TB,android,Mid-Range
+honor,Honor 500,39990,76,TRUE,TRUE,TRUE,Snapdragon 8s Gen4,snapdragon,Octa Core,3.2,12,256,8000,80W,6.55,1264 x 2736 ,120,2,1,200,50,0,android,Premium
+vivo,Vivo S50,39990,76,TRUE,TRUE,TRUE,Snapdragon 8s Gen3,snapdragon,Octa Core,3,12,256,6500,100W,6.59,1260 x 2750 ,120,3,1,50,50,0,android,Premium
+honor,Honor X5c Plus,7990,46,FALSE,FALSE,FALSE,Helio G81,helio,Octa Core,2,4,128,5260,15W,6.74,720 x 1600 ,90,1,1,50,5,0,android,Budget
+realme,Realme 15x 5G (8GB RAM + 256GB),24999,62,TRUE,FALSE,FALSE,Dimensity 6300,dimensity,Octa Core,2.4,8,256,7000,60W,6.81,720 x 1570 ,144,2,1,50,50,0,android,Mid-Range
+oppo,Oppo K15 Turbo,29990,66,TRUE,FALSE,TRUE,Dimensity 8500,dimensity,Octa Core,,8,128,7400,80W,6.59,1280 x 2800 ,165,2,1,50,16,0,android,Mid-Range
+oppo,Oppo F31 Pro Plus 5G (12GB RAM + 256GB),34999,71,TRUE,FALSE,FALSE,Snapdragon 7 Gen3,snapdragon,Octa Core,2.63,12,256,7000,80W,6.8,1280 x 2800 ,120,2,1,50,32,0,android,Premium
+oppo,Oppo F31 5G (8GB RAM + 256GB),28999,66,TRUE,FALSE,TRUE,Dimensity 6300,dimensity,Octa Core,2.4,8,256,7000,80W,6.57,1080 x 2412 ,120,2,1,50,16,0,android,Mid-Range
+lava,Lava Bold N1 5G,11999,45,TRUE,FALSE,FALSE,Unisoc T765,unisoc,Octa Core,2.3,4,64,5000,10W,6.75,720 x 1600 ,60,1,1,13,5,Not Specified,android,Budget
+sony,Sony Xperia 10 VII,46990,64,TRUE,TRUE,FALSE,Snapdragon 6 Gen3,snapdragon,Octa Core,2.4,8,128,5000,0,6.1,1080 x 2340 ,60,2,1,50,8,1 TB,android,Premium
+infinix,Infinix Smart 10,11299,43,FALSE,FALSE,FALSE,Unisoc T7250,unisoc,Octa Core,1.8,4,64,5000,15W,6.67,720 x 1600 ,120,1,1,8,8,Not Specified,android,Budget
+realme,Realme Narzo 80 Lite 4G,11498,45,FALSE,FALSE,FALSE,Unisoc T7250,unisoc,Octa Core,1.8,4,128,6300,15W,6.74,720 x 1600 ,90,1,1,13,5,0,android,Budget
+realme,Realme C71,11583,43,FALSE,FALSE,FALSE,Unisoc UMS9230E,unisoc,Octa Core,1.8,4,64,6300,15W,6.75,720 x 1600 ,90,1,1,13,5,Not Specified,android,Budget
+vivo,Vivo X Fold 5 5G,149999,92,TRUE,TRUE,TRUE,Snapdragon 8 Gen3,snapdragon,Octa Core,3.3,16,512,6000,80W,8.03,2200 x 2480 ,120,3,2,50,20,0,android,Flagship
